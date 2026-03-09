@@ -218,6 +218,23 @@ She knows the responsibility is enormous.
 
 And she intends to prove the king right.
 
+## Historical Reputation
+
+> *Excerpt from an early bardic chronicle describing Baroness Braga during her tournament years.*
+
+In the bustling realm of knights and chivalry, there strides a figure whose presence is as unsettling as it is formidable. Known far and wide as **Braga the Bitch**, she is a knight whose reputation precedes her—not only for her prowess in battle, but for her sharp tongue and venomous demeanor.
+
+Braga, with her steely gaze and unwavering scowl, is as unpleasant as a winter storm, her words cutting like icy winds. Her armor, once gleaming with the promise of valor, bears the scars of countless conflicts—each dent and scratch a testament to her ferocity in combat and her disdain for her adversaries.
+
+Behind her hardened exterior lies a tale of bitterness and betrayal. Once a squire filled with dreams of honor and glory, Braga's ambitions were shattered by the treachery of those she once called comrades. Betrayed and cast aside, she vowed to carve her own path to greatness, fueled by a burning resentment that hardened her heart like tempered steel.
+
+The tournament circuit beckoned to Braga like a siren's call. It was not the glory of victory she sought, nor the adulation of the crowd, but the chance to prove her detractors wrong.
+
+With sword held high and resolve unyielding, Braga strode into the tournament grounds—a tempest of fury and defiance. For her, the tournament was never merely sport. It was a battlefield upon which she waged war against her own demons.
+
+*Archivist Note:*  
+This description reflects **Braga’s early reputation on the tournament circuit** before her rise to baronial rank and her service alongside Baron Orin Kharne.
+
 #npc
 #noble
 #knight
