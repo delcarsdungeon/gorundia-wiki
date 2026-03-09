@@ -3,7 +3,7 @@
 ![[Avelyne Marsten.png|220]]
 
 
-> “I carried Beringer out with my own two hands, covered in blood—his and theirs. Whatever happened in that villa was no accident, but I know Galmyr wasn’t behind it. He trusted Avelyne too much, cared for her too deeply. No… this was something darker, something crueler. I arrived too late to save her, but by Heironeous’ grace, I saved the boy.” – [[Cwenhild, the Venerated Shield of Heironeous]]
+> “I carried Beringer out with my own two hands, covered in blood—his and theirs. Whatever happened in that villa was no accident, but I know Galmyr wasn’t behind it. He trusted Avelyne too much, cared for her too deeply. No… this was something darker, something crueler. I arrived too late to save her, but by Heironeous’ grace, I saved the boy.” – [[Cwenhild]], the Venerated Shield of Heironeous
 
  ### Background
 

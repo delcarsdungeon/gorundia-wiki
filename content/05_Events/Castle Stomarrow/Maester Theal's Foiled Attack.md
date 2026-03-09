@@ -3,7 +3,7 @@
 [[Braga Kharne]], [[Orin Kharne]], [[Kat Kendal]]
 
 Still stunned, Braga starts to talk when Orin sits next to her.
-
+![[Orin offers comfort.png|340]]
 **Braga:** “A man died for me tonight. I didn’t even know his name, but I’m a baroness now, so his death’s on my banner whether I like it or not. He saved my life with his courage—once I had my axe, I finished off that… thing.”
 
 _She means the raven knight._
