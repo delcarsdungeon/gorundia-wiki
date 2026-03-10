@@ -174,4 +174,6 @@ Most are probably lies.
 • “The doll watches people.”
 
 ---
+## Appearances
+
 #npc 

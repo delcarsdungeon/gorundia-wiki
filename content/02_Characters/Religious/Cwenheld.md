@@ -11,13 +11,13 @@ tags:
   - Heironeous
   - Paladin
 ---
-
 # Cwenheld, the Venerated Shield of Heironeous
 
+![[Cwenheld Arrives.png|300]] ![[Cwenheld at prayer.png|380]]
+![[Cwenheld Prepared.png]]
 
-![[Cwenheld Arrives.png|300]] ![[Cwenheld at prayer.png|340]]![[Cwenheld Prepared.png]]
-
-
+> [!Quote]
+> *“Half the stories about Cwenheld are nonsense.  The other half aren’t big enough.”* - [[Sorek Redmarch]]
 
 ## Character Information
 

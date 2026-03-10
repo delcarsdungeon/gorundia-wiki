@@ -1,6 +1,7 @@
 > [!important] After Hours at the Blood and Sand  
 > A quiet conversation between [[Gravel]] and [[Grenda]] after a long day.
 
+![[Druuna Breakfast.png|320]] ![[Druuna getting donations.png|320]]
 
 # Blood and Sand — Late Night
 

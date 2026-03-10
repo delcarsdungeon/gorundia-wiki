@@ -50,4 +50,6 @@
 
  Durkan is responsible for outfitting: • Newly knighted PCs (Rykeena, Guy, Thalrik, etc.) • Anyone the king wants to publicly endorse • Visitors of rank who require ceremonial arms • Knights of the Bannerhall receiving battlefield promotions He provides gear equal parts impressive and functional, often muttering that if the king wants to hand out shiny toys, he should also hand out “a pamphlet on how not to get stabbed.” Durkan may also become a source of rumors—he hears gossip from every knight, squire, guard, and cook who walks through his forge.
 
+## Appearances
+
 #npc #karelthun #dwarf

@@ -1,6 +1,7 @@
 > [!important] Encounter at the Blood and Sand  
 > The arrival of Sir [[Mathren Solgard]] and the recognition of [[Druuna Sunseeker]]
 
+![[Druuna Judged.png|320]]
 # Blood and Sand — Late Afternoon
 
 The **Blood and Sand** was alive in its usual way—laughter like falling masonry, tankards hitting wood hard enough to mean something, smoke coiling under the rafters. The place smelled of roasted meat, sweat, and ambition.

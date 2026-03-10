@@ -1,171 +1,200 @@
----
-type: character
-role: NPC
-house:
-  - - House Name
-rank: Novice of Pelor
-status: Alive
-affiliation: Gorundia
-tags:
-  - character
-  - Cleric
-  - Halfblood
----
+> [!important] DRUUNA SUNSEEKER  
+> _Sunseeker of the Dregs_
 
-# Character Name
+> [!Quote]
+> “Girl’s built like a fence rail and twice as stubborn.  
+> I’ve seen paladins with less faith.”  
+> — [[Sorek Redmarch]]
 
-## Character Information
-
-| Field | Detail |
-|------|------|
-| House | [[House Name]] |
-| Rank | Title or Role |
-| Affiliation | Gorundia |
-| Status | Alive |
+![[Druuna Cleaned.png|320]]         ![[Druuna Combed.png|320]]
 
 ---
-
-## Overview
-
-Brief description of the character.
-
-Who they are, why they matter, and how the players know them.
-
----
-
-## Appearance
-
-Physical description, clothing, armor, notable features.
-
----
-
-## Personality
-
-Temperament, behavior, habits, quirks.
-
----
-
 ## Relationships
 
-| Character | Relationship |
-|----------|--------------|
-| [[Other Character]] | Ally / Rival / Family |
+**Mentor**
+- [[Lyosha Ohotnik]]
+**Allies**
+- [[Gravel]]
+- [[Grenda]]
+**Ecclesiastical Oversight**
+- [[Mathren Solgard]]
+**Locations**
+- [[Bard's Gate]]
+- [[Blood and Sand]]
+- [[Dregs Quarter]]
+**Faith**
+- [[Church of Pelor]]
+- [[Pelor]]
+
+---
+# Druuna Sunseeker
+
+## Title
+**Sunseeker of the Dregs**
+
+Lay disciple of [[Lyosha Ohotnik]] and street preacher of the Dawnfather in the poorest quarter of [[Bard's Gate]].
+
+Druuna holds **no rank in the Church of Pelor**, claims no authority, and refuses any title beyond *believer*.
+
+Yet in the Dregs, she is widely regarded as **the closest thing the poor have to a priest.**
+
+---
+## Appearance
+
+Druuna is **rail-thin**, almost gaunt, with the wiry strength of someone who grew up hauling their own survival out of the gutter.
+
+Her frame makes her **large half-orc tusks look even more pronounced**, giving her an unexpectedly fierce silhouette despite her gentle demeanor.
+
+Common traits:
+
+- patched Pelorite robes
+- scarred knuckles
+- narrow shoulders
+- copper-and-tin sunburst pendant
+- calm, steady eyes
+- movements that are patient rather than timid
+
+Her holy symbol is **cheap metal**, worn smooth and polished constantly by hand.
+
+She treats it like a relic.
+
+---
+## Background
+
+Druuna grew up an **orphan in the streets of Bard's Gate**.
+
+Unlike many half-blood children of the Dregs, she never took to violence.
+
+Instead she survived through:
+
+- stubborn endurance
+- odd jobs
+- helping people who had less than she did
+
+Eventually she encountered the teachings of **[[Pelor]]**, and the message of mercy and protection for the weak struck her like sunlight.
+
+She later sought out **[[Lyosha Ohotnik]]**, who recognized her sincerity and granted her Pelor’s grace.
+
+Her first real test came during **Kursk’s raid on the Blood and Sand**, when Druuna stood firm and refused to abandon the wounded.
+
+---
+## Temperament
+
+Druuna is:
+
+- deeply compassionate
+- quietly stubborn
+- fearless in small ways
+- almost incapable of cruelty
+
+She **does not shame people** who refuse to help others.
+
+Her philosophy is simple:
+
+> “If someone can’t help today, maybe they will tomorrow.”
+
+She believes mercy grows best **when it is witnessed, not demanded.**
 
 ---
 
-# The Temple’s Response to Druuna
+## Faith
 
-When Druuna arrives at the temple for supplementary instruction, the expectation is simple.
+Druuna struggles to memorize doctrine.
 
-She is a lay helper.  
-Kind-hearted. Devout.  
-But probably behind the curve.
+Formal catechisms slip out of her head. Structured prayers come out in the wrong order.
 
-The initial assessment is conducted by a visiting Pelorite paladin who had been assisting the temple since the recent unrest.
+But the **spirit of Pelor’s teachings** comes naturally to her.
 
-He observes her prayers.  
-He watches her cast.
+When questioned by the Radiant Inquiry, she described Pelor simply as:
 
-He asks her to repeat several spells.
+> *“Hope.”*
 
-She does.
+Her ministry focuses on:
 
-Cleanly.
+- feeding the hungry
+- discouraging retaliation
+- tending wounds
+- sitting with the dying
+- reminding people they are not monsters
 
-No struggle. No dramatic flourish. Just quiet, steady divine channeling.
+---
+## Relationships
 
-After a few minutes of testing, the paladin looks at the local clergy and gives a small, decisive nod.
+**Mentor**
 
-“She's legitimate.”
+- [[Lyosha Ohotnik]]
 
-That is the moment everything changes.
+**Protective Allies**
+
+- [[Gravel]]
+- [[Grenda]]
+
+The tavern [[Blood and Sand]] treats Druuna as **one of their own**, and the half-blood muscle of the Dregs quietly watch over her.
+
+**Church Authority**
+
+- [[Mathren Solgard]]
+
+Dawn Marshal Solgard investigated Druuna for possible doctrinal corruption and declared her **no heretic**, recommending only continued instruction.
 
 ---
 
-## Immediate Temple Decision
+## Reputation in the Dregs
 
-Druuna is **formally accepted as a Novitiate of Pelor**.
+Among the working poor of [[Bard's Gate]], Druuna is known for:
 
-This does not make her a priest yet, but it places her inside the official training structure of the church.
+- preaching mercy
+- feeding people before sermons
+- refusing donations she does not need
+- walking long distances to bring food back to the Dregs
 
-She is assigned a mentor to replace the recently deceased priest who had been serving the district.
+Even the halfling farmers beyond the East Gate recognize her.
 
-The appointment is practical as much as spiritual:
-
-The temple needs someone working in the Dregs.
-
-Druuna already is.
-
----
-
-## The Mentor
-
-Her new instructor is **Father Aldren Halvik**, a seasoned Pelorite priest who spent years serving as a battlefield chaplain before settling into temple work.
-
-He is calm, patient, and not easily impressed.
-
-At first he assumes Druuna simply has strong natural faith and will require proper discipline and education.
-
-After observing her spellcasting, he revises that opinion.
-
-Quietly.
+When she asked for food for the hungry, they **filled an entire handcart**.
 
 ---
 
-## What the Temple Has Not Said Publicly
+## Limitations
 
-Officially, the church describes Druuna as:
+Druuna has **poor doctrinal retention**.
 
-_A devout novice showing promising spiritual gifts._
+She struggles to repeat church catechisms exactly and often mixes up the wording of formal litanies.
 
-Privately, several senior clergy have begun comparing notes.
+However, observers — including the Radiant Inquiry — consistently conclude that:
 
-The discussion is careful, even respectful, but there is a clear question beneath it:
-
-Druuna is casting **beyond what a novice should reasonably be able to manage.**
-
-No one is accusing her of impropriety.
-
-If anything, the opposite.
-
-But the situation is… unusual.
+> Her faith is sincere and doctrinally sound in spirit.
 
 ---
+## Notable Scenes
 
-## The Theological Rumbling
+- [[01 Readying 1231 Druuna Street Sermons]]
+- [[03 Readying 1231 Druuna didn't show]]
+- [[08 Readying 1231 Druuna is tested]]
+- [[09 Readying 1231 - Sir Mathren Solgard Report]]
+- [[13 Readying 1231 The Temple on Druuna]]
+---
+## Known Affiliations
 
-Among the clergy, a few ideas are starting to circulate:
-
-Some believe Druuna simply has an unusually pure connection to Pelor.
-
-Others argue she must receive **more formal theological training immediately** before the church embarrasses itself by mishandling a genuine divine gift.
-
-A handful are quietly skeptical.
-
-Not hostile — just uncertain.
-
-A half-orc novice suddenly demonstrating unusually strong divine favor raises questions some priests are not entirely comfortable asking out loud.
-
-For now, the temple leadership is choosing the safest course.
-
-They will train her.
-
-They will watch.
-
-And they will see what Pelor does next.
+- [[Church of Pelor]]
+- [[Bard's Gate]]
+- [[Blood and Sand]]
 
 ---
+## Notes
 
-## Druuna’s Perspective
+Druuna is unaware that her thinness may come from a **biological quirk in her metabolism** — she cannot process certain foods well.
 
-Druuna herself appears confused by the attention.
+She assumes she is simply built that way.
 
-From her point of view, she is simply doing what she has always done:
+Those who know her best suspect she may carry **more orc blood than her slight frame suggests.**
 
-Pray.  
-Help people.  
-Trust Pelor.
+---
+## Quote
 
-The only thing that has clearly changed is that the temple now expects her to stay.
+> “If you’re tired… sit by the shrine.  
+> If you’re angry… talk to me before you break something.  
+> If you’re hungry… we’ll share what we’ve got.”
+---
+## Mentions
 
-And learn.
+Linked references to this character appear automatically below.

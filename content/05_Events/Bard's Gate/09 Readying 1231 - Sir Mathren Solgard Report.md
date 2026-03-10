@@ -7,7 +7,7 @@
 **Filed Under:** Seal of the Third Radiant Inquiry  
 
 **From:**  
-**Sir Mathren Solgard**  
+**Sir [[Mathren Solgard]]**  
 Dawn Marshal of the Third Radiant Inquiry  
 Warden of False Flame  
 Keeper of the Black Threshold  
@@ -27,7 +27,7 @@ Concerning **Lyosha Ohotnik** and associated lay preaching within Bard’s Gate.
 
 By directive of the Synod, I traveled to Bard’s Gate to assess two matters:
 
-1. **Whether Dawnfather Lyosha Ohotnik**, given the well-documented history of his lineage, has retained orthodoxy without regression or concealed deviation.
+1. **Whether Dawnfather [[Lyosha Ohotnik]]**, given the well-documented history of his lineage, has retained orthodoxy without regression or concealed deviation.
 
 2. **Whether an unordained half-blood woman preaching under Pelor’s name in the Dregs Quarter** represents doctrinal corruption or false authority.
 
@@ -74,7 +74,7 @@ No corrective action indicated.
 
 The individual in question identifies herself as:
 
-**Druuna Sunseeker**  
+**[[Druuna Sunseeker]]**  
 Disciple of Lyosha Ohotnik  
 Believer in Pelor
 

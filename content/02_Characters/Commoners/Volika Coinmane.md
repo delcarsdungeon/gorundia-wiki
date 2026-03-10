@@ -64,3 +64,5 @@ Information the party has discovered in play.
 ## Notes
 
 Optional section for minor details, rumors, or flavor.
+
+## Appearances
