@@ -10,14 +10,6 @@ Many entries are still being filled in. Pages marked *Placeholder* exist but are
 
 ---
 
-# Latest Updates
-
-```recent
-limit: 10
-```
-
----
-
 # Current Session
 
 - [[Next Session Prep]]
