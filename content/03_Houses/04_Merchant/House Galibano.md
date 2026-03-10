@@ -1,3 +1,16 @@
+---
+tags:
+- house
+- merchant
+- wyrmlea
+- bardsgate
+- underworld
+type: faction
+seat: Cindar’s Wake
+founded: 1160 OR
+status: active
+---
+
 > [!important] HOUSE GALIBANO  
 > Merchant House of Cindar’s Wake  
 > Construction Syndicate • Criminal Consortium • Stone Merchants of Wyrmlea
@@ -66,7 +79,7 @@ Elsewhere in Gorundia, it is likely being built **with Galibano stone.**
 ---
 ## Key Figures
 
-- [[Marco Galibano]]
+- [[02_Characters/Underworld/Marco Galibano]]
 - [[Salvatore Galibano]]
 - [[Lucia Galibano]]
 - [[Nikko Galibano]]
@@ -102,7 +115,7 @@ Over the following generations the Galibanos absorbed smaller guilds, purchased 
 
 ### Head of House
 
-**[[Marco Galibano]] (the Younger)**  
+**[[02_Characters/Underworld/Marco Galibano]] (the Younger)**  
 Grandson of the founder and current master of House Galibano.
 
 Despite ruling the family for decades, Marco is still known within the house as **“Little Marco.”**
@@ -139,7 +152,7 @@ Though House Galibano outwardly appears to operate as a traditional merchant dyn
 
 ### The Patriarch
 
-**[[Marco Galibano]] — Guilded Master Stonecutter (ceremonial)**
+**[[02_Characters/Underworld/Marco Galibano]] — Guilded Master Stonecutter (ceremonial)**
 
 Marco presides over the house with the steady patience of a master mason. Calm, immovable, and famously difficult to rush, he is respected among the dwarves for his fluency in **dwarven etiquette and oath customs**.
 
@@ -575,15 +588,4 @@ And if that happens, the quiet merchant house of Cindar’s Wake may remind the 
 A family born in the quarries  
 knows very well how to bury problems in stone.
 
----
-tags:
-- house
-- merchant-house
-- wyrmlea
-- bardsgate
-- underworld
-type: faction
-seat: Cindar’s Wake
-founded: 1160 OR
-status: active
 ---

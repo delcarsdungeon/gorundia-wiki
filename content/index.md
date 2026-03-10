@@ -37,7 +37,7 @@ Many entries are still being filled in. Pages marked *Placeholder* exist but are
 
 # Nobility & Houses
 
-→ [[House Index]]
+→ [[03_Houses/index]]
 
 ---
 
@@ -58,7 +58,7 @@ Many entries are still being filled in. Pages marked *Placeholder* exist but are
 
 - [[Wild-Eye Wilcox]]
 - [[Durkan Embermantle]]
-- [[Marco Galibano]]
+- [[02_Characters/Underworld/Marco Galibano]]
 - [[Volika Coinmane]]
 
 ## Religious
@@ -80,3 +80,5 @@ Many entries are still being filled in. Pages marked *Placeholder* exist but are
 # Major Events
 
 - [[Lords Muster Spring 1231]]
+
+# Tags
