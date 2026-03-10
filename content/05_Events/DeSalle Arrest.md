@@ -1,1 +1,0 @@
-*DeSalle fled in terror from the reveal of the dragon; even before the terror*

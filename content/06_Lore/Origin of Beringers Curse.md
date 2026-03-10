@@ -351,7 +351,5 @@ _A pause._
 > [!quote] Dame Cwenheld  
 > “And I am not the story.”
 
-#lore
-#vision
-#npc 
-#vision #beringer #marsten #ravenqueen #campaign-history
+
+#vision #beringer #marsten #ravenqueen #campaign-history #lore #npc

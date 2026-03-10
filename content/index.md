@@ -1,23 +1,23 @@
 # Campaign Index
 
-Welcome to the archive of the campaign.  This is the Quick-Link section, sidebar on the left is where you can dig in, but as I complete the data, it should cross-link nicely.  If you're a visual learner like me, check out the graph on the right.
+Welcome to the archive of the campaign.
 
-The 'faded' links (for example, locations at the bottom of this page) are referenced with a link in an article, but empty.  Anything I tagged - Placeholder technically has a page, but its an empty or nearly empty template.
+The sidebar on the left is the full wiki structure. This page is a **quick reference hub** for the most important campaign material.
 
--- Delcar
+Many entries are still being filled in. Pages marked *Placeholder* exist but are still under construction.
 
----
-# Latest Uploads
-
-*(Update this section whenever a new page is created or a major update happens.)*
-
-- [[House Galibano]] - Complete
-- [[Druuna Sunseeker]] - Complete
-- [[Volika Coinmane]] - Complete
-- [['Wild-Eye' Wilcox]] - Complete
-- [[Cwenheld]] - Complete
+— Delcar
 
 ---
+
+# Latest Updates
+
+```recent
+limit: 10
+```
+
+---
+
 # Current Session
 
 - [[Next Session Prep]]
@@ -26,7 +26,7 @@ The 'faded' links (for example, locations at the bottom of this page) are refere
 
 ---
 
-# Player Characters (all placeholders)
+# Player Characters
 
 - [[Beringer]]
 - [[Bertram Moffet]]
@@ -42,35 +42,41 @@ The 'faded' links (for example, locations at the bottom of this page) are refere
 - [[Thranduil Stormarrow]]
 
 ---
+
 # Nobility & Houses
 
 → [[House Index]]
 
 ---
+
 # Characters
 
 ## Nobility
+
 - [[Aerlaiya Qinsandoral]]
 - [[Alessandra Bordella]]
 - [[Avelyne Marsten]]
 - [[Braga Kharne]]
 - [[Kaelric Vorthal]]
-- [[Orin Kharne]] - Placeholder
-- [[Remy DeSalle]] - Placeholder
-- [[Sorek Redmarch]] - Placeholder
+- [[Orin Kharne]]
+- [[Remy DeSalle]]
+- [[Sorek Redmarch]]
 
 ## Commoners
-- [['Wild-Eye' Wilcox]]
-- [[Durkan Embermantle]] - Complete
+
+- [[Wild-Eye Wilcox]]
+- [[Durkan Embermantle]]
 - [[Marco Galibano]]
-- [[Volika Coinmane]] - Complete
+- [[Volika Coinmane]]
 
 ## Religious
-- [[Alwenna Kestrel]] - Complete
-- [[Cwenheld]] - Complete
-- [[Druuna Sunseeker]] - Complete
+
+- [[Alwenna Kestrel]]
+- [[Cwenheld]]
+- [[Druuna Sunseeker]]
 
 ---
+
 # Locations
 
 - [[Bard's Gate]]
@@ -78,6 +84,7 @@ The 'faded' links (for example, locations at the bottom of this page) are refere
 - [[Castle Kharne]]
 
 ---
-# Events
+
+# Major Events
 
 - [[Lords Muster Spring 1231]]
