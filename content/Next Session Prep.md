@@ -1,0 +1,1 @@
+The party has captured [[Zarathryss Vaelorath]] by way of an *Entombment* spell.  [[Wilhelm Vogel]] lies dead.

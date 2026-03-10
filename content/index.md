@@ -1,10 +1,24 @@
 # Campaign Index
 
-Welcome to the archive of the campaign.
+Welcome to the archive of the campaign.  This is the Quick-Link section, sidebar on the left is where you can dig in, but as I complete the data, it should cross-link nicely.  If you're a visual learner like me, check out the graph on the right.
+
+The 'faded' links (for example, locations at the bottom of this page) are referenced with a link in an article, but empty.  Anything I tagged - Placeholder technically has a page, but its an empty or nearly empty template.
+
+-- Delcar
 
 ---
+# Latest Uploads
 
-## Current Session
+*(Update this section whenever a new page is created or a major update happens.)*
+
+- [[House Galibano]] - Complete
+- [[Druuna Sunseeker]] - Complete
+- [[Volika Coinmane]] - Complete
+- [['Wild-Eye' Wilcox]] - Complete
+- [[Cwenheld]] - Complete
+
+---
+# Current Session
 
 - [[Next Session Prep]]
 - [[Session Logs]]
@@ -12,100 +26,58 @@ Welcome to the archive of the campaign.
 
 ---
 
-# Characters
+# Player Characters (all placeholders)
 
-### Player Characters
-- [[Sir Beringer Amadis]]
-- [[Sir Bertram Moffet]]
-- [[Orin Kharne]]
-- [[Blue Sylvanranth]]
-- [[Lyosha Ohotnik]]
-- [[Thalrik]]
-- [[Rykeena]]
-- [[Guaco]]
-- [[Norwin]]
+- [[Beringer]]
+- [[Bertram Moffet]]
+- [[Fayge Danon]]
+- [[Guaco Moe Lee]]
 - [[Jinwing]]
-- [[Kendal]]
-
-➡ [[Characters Index]]
+- [[Karnath Warclang]]
+- [[Lyosha Ohotnik]]
+- [[Rhovanion]]
+- [[Sabry Emerald]]
+- [[Taleon Thunderhoof]]
+- [[Thalrik Vaultforge]]
+- [[Thranduil Stormarrow]]
 
 ---
-
 # Nobility & Houses
 
-### Major Houses
-- [[House Vogel]]
-- [[House Orenic]]
-- [[House Allaric]]
-- [[House Ravenster]]
-
-### Lesser Houses
-- [[House Bordella]]
-- [[House Moffet]]
-- [[House Cron]]
-- [[House Kendal]]
-
-➡ [[Houses Index]]
+→ [[House Index]]
 
 ---
+# Characters
 
+## Nobility
+- [[Aerlaiya Qinsandoral]]
+- [[Alessandra Bordella]]
+- [[Avelyne Marsten]]
+- [[Braga Kharne]]
+- [[Kaelric Vorthal]]
+- [[Orin Kharne]] - Placeholder
+- [[Remy DeSalle]] - Placeholder
+- [[Sorek Redmarch]] - Placeholder
+
+## Commoners
+- [['Wild-Eye' Wilcox]]
+- [[Durkan Embermantle]] - Complete
+- [[Marco Galibano]]
+- [[Volika Coinmane]] - Complete
+
+## Religious
+- [[Alwenna Kestrel]] - Complete
+- [[Cwenheld]] - Complete
+- [[Druuna Sunseeker]] - Complete
+
+---
 # Locations
 
-### Major Cities
 - [[Bard's Gate]]
-- [[Karethlun]]
-- [[Sunhollow]]
-
-### Strongholds
+- [[Castle Stormarrow]]
 - [[Castle Kharne]]
-- [[Direhold]]
-- [[Stormarrow Keep]]
-
-➡ [[Locations Index]]
 
 ---
+# Events
 
-# Organizations
-
-- [[Amber Eye Network]]
-- [[Lantern Watch]]
-- [[Iron Covenant]]
-- [[Order of the Beast]]
-- [[Temple of the Purifiers]]
-
-➡ [[Organizations Index]]
-
----
-
-# Campaign Arcs
-
-- [[Durathen Revenge Arc]]
-- [[Jackal Protocol]]
-- [[King's Assassination Plot]]
-- [[Halls of the Dead]]
-- [[Celene Diplomatic Summit]]
-
----
-
-# Lore
-
-- [[Religion and Gods]]
-- [[Magic in the Setting]]
-- [[History of Gorundia]]
-
-➡ [[Lore Index]]
-
----
-
-# Sessions
-
-➡ [[Session Index]]
-
----
-
-# GM Resources
-
-- [[Campaign Timeline]]
-- [[Plot Hooks]]
-- [[Rumor Tables]]
-- [[Important NPCs]]
+- [[Lords Muster Spring 1231]]
