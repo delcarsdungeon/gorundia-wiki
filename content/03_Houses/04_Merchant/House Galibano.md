@@ -7,7 +7,6 @@
 > — Sorek Redmarch
 
 ---
-
 ## Motto
 
 **Khuzdul:**  
@@ -22,7 +21,6 @@ Among the Galibanos it means something simpler:
 *Bury it. Keep digging.*
 
 ---
-
 ## Core Information
 
 Born: c. **1160 OR**  
@@ -34,7 +32,6 @@ Status: Merchant House / Construction Syndicate / Criminal Consortium
 Founded by: **Marco Galibano**
 
 ---
-
 ## Heraldry
 
 **Full Arms**  
@@ -55,7 +52,6 @@ To their rivals it means something else:
 They dig until they reach what you buried.
 
 ---
-
 ## Overview
 
 House Galibano is one of the most powerful merchant families operating within **County Wyrmlea**, though officially they hold no noble title.
@@ -64,10 +60,28 @@ Their influence comes not from land but from **stone, contracts, and leverage**.
 
 Originally immigrant masons, the Galibanos built their fortune organizing quarry logistics and construction across Wyrmlea. Over three generations they transformed from builders into the **central intermediary between the dwarven quarries and the human world of law and politics**.
 
-Today, if a road, bridge, wall, quarry, or fortress is built in Wyrmlea, someone in the Galibano network is being paid.
+Today, if a road, bridge, wall, quarry, or fortress is built in Wyrmlea, someone in the Galibano network is being paid.  
+Elsewhere in Gorundia, it is likely being built **with Galibano stone.**
 
 ---
+## Key Figures
 
+- [[Marco Galibano]]
+- [[Salvatore Galibano]]
+- [[Lucia Galibano]]
+- [[Nikko Galibano]]
+- [[Rafaella Galibano]]
+- [[Kraeford Grudgemail]]
+
+---
+## Internal Structure
+
+- [[#Governance & Code|Ledgerboard]]
+- [[#The Dwarven Alliance|Dwarven Alliance]]
+- [[#Dwarven Ties|Dwarven Enforcers]]
+- [[#Galibano Contract Law|Stone Articles]]
+
+---
 ## Origins
 
 The house was founded by **Marco Galibano**, a master mason who arrived in Gorundia around **1160 OR** with a small company of stoneworkers.
@@ -91,6 +105,21 @@ Over the following generations the Galibanos absorbed smaller guilds, purchased 
 **[[Marco Galibano]] (the Younger)**  
 Grandson of the founder and current master of House Galibano.
 
+Despite ruling the family for decades, Marco is still known within the house as **“Little Marco.”**
+
+The name dates back to his youth, when both his father and grandfather were still alive.  
+Among the Galibanos it stuck out of habit and affection.
+
+Outsiders who attempt to use the nickname generally do so **once**.  Of note, Countess [[Zara Vallytrex]] has been heard calling him Little Marco affectionately.
+
+Among the dwarves the matter is simpler.
+
+They introduce him in the old fashion:
+
+*Marco Galibano, son of Ruggiero Galibano, son of Marco Galibano.*
+
+Marco remains the undisputed head of the family and has ruled the house’s affairs for many years, overseeing its transformation from a powerful construction consortium into the dominant intermediary between the dwarven quarries of Wyrmlea and the wider markets of Gorundia.
+
 Marco remains the undisputed head of the family and has ruled the house’s affairs for many years, overseeing its transformation from a powerful construction consortium into the dominant intermediary between the dwarven quarries of Wyrmlea and the wider markets of Gorundia.
 
 His eldest son **[[Salvatore Galibano]]** had long been groomed as his successor and heir apparent.
@@ -104,7 +133,113 @@ Salvatore’s death shattered the house’s carefully prepared succession.
 Marco therefore retains full authority over the family.
 
 ---
+# Governance & Code
 
+Though House Galibano outwardly appears to operate as a traditional merchant dynasty under a single patriarch, internally the family maintains a quieter advisory structure used to coordinate contracts, debts, and political leverage across Wyrmlea.
+
+### The Patriarch
+
+**[[Marco Galibano]] — Guilded Master Stonecutter (ceremonial)**
+
+Marco presides over the house with the steady patience of a master mason. Calm, immovable, and famously difficult to rush, he is respected among the dwarves for his fluency in **dwarven etiquette and oath customs**.
+
+A quiet saying among traders holds that:
+
+_A handshake with Marco Galibano binds in three languages._
+
+In public he is frequently seen beside **[[Zara Vallytrex]]**, standing with the same quiet authority as her own stewards once did.
+
+Though advisers may speak, **final authority within the house rests entirely with Marco**.
+
+---
+## The Ledgerboard
+
+Beneath the Patriarch sits a semi-formal advisory council known internally as **the Ledgerboard**.
+
+The board exists to manage matters too delicate for guild courts and too complex for ordinary ledgers — contracts involving noble politics, long-standing debts, and disputes that must be resolved quietly.
+
+Membership consists of:
+
+- **Marco Galibano**, Patriarch
+- **Three rotating family votes**, drawn quarterly from senior Galibano kin
+- **Two external advisory seats**
+
+The Ledgerboard **advises but does not rule**.  
+Marco may accept or ignore its counsel.
+
+---
+
+### Standing Members
+
+**Rafaella Galibano — Tessellate Clerk**
+
+Widow of **Salvatore “The Hammer” Galibano**.
+
+Once a guild clerk, Rafaella became the architect of the house’s most intricate **tax and lien structures**, turning threats into enforceable debts.
+
+Merchants claim she can ruin a rival using nothing more than a ledger, a courthouse, and patience.
+
+---
+
+**Lucia Galibano — Civic Works Mistress**
+
+Lucia oversees the house’s **temple donations, festival sponsorships, and civic construction grants**.
+
+While her brothers learned their trade in the quarries, Lucia was educated among merchant houses and legal scholars.
+
+Her work ensures the Galibanos remain welcome among clergy, guildmasters, and city officials.
+
+Among nobles she is charming and warm.
+
+Among rivals her smile has a different reputation.
+
+_“Lucia smiles like a clean blade.”_
+
+---
+
+**Kraeford Grudgemail — Drazh’narak, Keeper of Settled Stones**
+
+A dwarven oath-keeper who serves as the house’s adviser on contracts and ancient obligations.
+
+Kraeford tracks agreements the way geologists track stone strata.
+
+Break a promise once and he will remember it for decades.
+
+He warms to children and well-made chisels.
+
+Everything else he greets with granite silence.
+
+---
+### The Rough-Hewn Seat
+
+One position on the Ledgerboard remains technically vacant.
+
+Known as **the Seat of the Rough-Hewn**, it exists as a courtesy for the dwarven enforcers occasionally loaned to Galibano operations when policy touches enforcement.
+
+These men are known collectively as **Rughan-Varr**.
+
+They wear no clan badges — only a twist of gray cloth.
+
+Most are casteless dwarven exiles or quarry hardcases who long ago left the halls.
+
+They are loyal only to:
+
+stone  
+coin  
+and the code.
+
+---
+## Working Credo
+
+Within the inner family a short set of sayings guides Galibano decision-making.
+
+They are rarely written down.
+
+**Stone stands.**  
+**Water flows.**  
+**Debts remember.**  
+**Friends eat.**  
+**Noise is for parades; we build in silence.**
 ## Succession of the House
 
 **Marco Galibano (Founder)**  
@@ -120,7 +255,6 @@ A respected craftsman and negotiator among both the family and the dwarven encla
 Killed during the dragon catastrophe in the capital.
 
 ---
-
 ## The Dwarven Alliance
 
 The true foundation of Galibano power is their relationship with the **dwarves of Wyrmlea**.
@@ -140,7 +274,67 @@ They manage:
 This arrangement allows the dwarves to focus on **craft**, while the Galibanos handle the messy world of **paper, law, and noble politics**.
 
 ---
+# Dwarven Ties
 
+The Galibanos are widely known as **Dwarf-friends**.
+
+Where most merchant houses treat contracts as flexible tools, the Galibanos treat them as **stone law**.
+
+This reputation forms the foundation of their relationship with the dwarven quarries of Wyrmlea.
+
+---
+### Kraeford Grudgemail
+
+Kraeford serves as the house’s dwarven adviser and oath-keeper.
+
+He is widely believed to be the **only person in certain rooms who is not technically a criminal**.
+
+When a Galibano contract is broken, Kraeford is the one who remembers.
+
+---
+### Rughan-Varr — “The Rough-Hewn”
+
+A loose group of dwarven enforcers occasionally loaned to the house for difficult situations.
+
+They are casteless, hard-tempered, and comfortable with violence.
+
+They wear no clan badges.
+
+Only a twist of gray cloth.
+
+Their loyalty is simple:
+
+Stone.  
+Pay.  
+The code.
+
+---
+### Bard’s Gate Dwarven Quarter
+
+Before the Bard’s Gate venture collapsed, **Nikko Galibano** held **guest-right** among the masons of the city’s dwarven quarter.
+
+Guest-right granted conversation, ale, and blunt hospitality.
+
+It did not grant secrets.
+
+After Nikko’s failed attempt to expand Galibano influence in the city, he returned home.
+
+Guaco later received a small wooden box containing **a lock of Nikko’s hair**, sent as acknowledgment of defeat.
+
+Nikko had no beard to shave.
+
+The message was understood.
+
+The dwarven quarter still stands today.
+
+The Galibanos do not.
+
+---
+
+> “Galibanos don’t cheat dwarves. Because cheating dwarves is how you get buried under your own statue.”  
+> — Kraeford Grudgemail
+
+---
 ## Craftsmen Before Merchants
 
 Unlike many merchant dynasties, the Galibanos maintain a strict tradition:
@@ -163,7 +357,6 @@ As one dwarf foreman once said:
 > “A man who has never cut stone cannot be trusted to sell it.”
 
 ---
-
 ## The Bard’s Gate Venture
 
 Marco the Younger’s youngest son **Nikko Galibano** was given responsibility for expanding the family’s influence into **Bard’s Gate**.
@@ -193,7 +386,6 @@ Nikko Galibano came to claim the city.
 The city sent him home.
 
 ---
-
 ## A House Between Two Thrones
 
 For decades the Galibanos operated under a stable arrangement with **Countess [[Zara Vallytrex]]**.
@@ -240,7 +432,6 @@ A rough, unfinished block of granite in the central courtyard. Tradition says Ma
 The courtyard floor around it is covered in years of chisel marks.
 
 ---
-
 ## Galibano Family Tree (Simplified)
 
 **Marco Galibano (Founder)**  
@@ -261,7 +452,7 @@ Children:
   Formerly responsible for the Bard’s Gate expansion venture that collapsed after opposition from local power networks.
 
 - **Lucia Galibano** — Marco’s daughter and most politically active child.  
-  Unlike her brothers, Lucia was not raised primarily in the quarries. Instead she was educated in trade houses, legal customs, and negotiation.  
+  Unlike her brothers, Lucia was not raised primarily in the quarries. Instead she was educated in trade houses, legal customs, and negotiation.  Lucia oversees many of the house’s civic relationships — temple donations, festivals, and public works — ensuring the Galibanos remain welcome among guildmasters and clergy while quietly reinforcing the family’s influence across Wyrmlea.
 
   Lucia often serves as the **house’s envoy and problem-solver**, appearing in cities where the Galibanos need contracts secured, disputes settled, or alliances quietly reinforced.  
 
@@ -276,10 +467,12 @@ Children:
 The family structure remains strong, but **Salvatore’s death has left the line of succession unsettled**.
 
 ---
-
 ## Galibano Contract Law
 
 House Galibano operates under a set of internal rules known as **The Stone Articles**.
+
+Among the inner family this system of favors and debts is sometimes called  
+“the Quiet Ledger.”
 
 These rules govern family operations, trade agreements, and internal discipline.
 
@@ -310,7 +503,6 @@ Sometimes leverage.
 Sometimes names.
 
 ---
-
 ## Reputation
 
 Among nobles, House Galibano is viewed as a **useful but unsettling merchant syndicate**.
@@ -382,8 +574,6 @@ And if that happens, the quiet merchant house of Cindar’s Wake may remind the 
 
 A family born in the quarries  
 knows very well how to bury problems in stone.
-
----
 
 ---
 tags:

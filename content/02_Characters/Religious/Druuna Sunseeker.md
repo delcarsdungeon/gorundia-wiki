@@ -153,7 +153,6 @@ Even the halfling farmers beyond the East Gate recognize her.
 When she asked for food for the hungry, they **filled an entire handcart**.
 
 ---
-
 ## Limitations
 
 Druuna has **poor doctrinal retention**.
