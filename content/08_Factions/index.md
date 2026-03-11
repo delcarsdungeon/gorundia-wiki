@@ -1,3 +1,3 @@
 ---
-title: Chainers
+title: Factions
 ---
