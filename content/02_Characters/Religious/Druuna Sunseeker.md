@@ -27,18 +27,30 @@
 - [[Pelor]]
 
 ---
+> [!important] DRUUNA SUNSEEKER  
+> _Sunseeker of the Dregs_
+
+> [!quote]
+> “Girl’s built like a fence rail and twice as stubborn.  
+> I’ve seen paladins with less faith.”  
+> — [[Sorek Redmarch]]
+
+![[Druuna Cleaned.png|320]] ![[Druuna Combed.png|320]]
+
+---
+
 # Druuna Sunseeker
 
-## Title
 **Sunseeker of the Dregs**
 
 Lay disciple of [[Lyosha Ohotnik]] and street preacher of the Dawnfather in the poorest quarter of [[Bard's Gate]].
 
 Druuna holds **no rank in the Church of Pelor**, claims no authority, and refuses any title beyond *believer*.
 
-Yet in the Dregs, she is widely regarded as **the closest thing the poor have to a priest.**
+Yet in the Dregs she is widely regarded as **the closest thing the poor have to a priest.**
 
 ---
+
 ## Appearance
 
 Druuna is **rail-thin**, almost gaunt, with the wiry strength of someone who grew up hauling their own survival out of the gutter.
@@ -59,6 +71,7 @@ Her holy symbol is **cheap metal**, worn smooth and polished constantly by hand.
 She treats it like a relic.
 
 ---
+
 ## Background
 
 Druuna grew up an **orphan in the streets of Bard's Gate**.
@@ -78,6 +91,7 @@ She later sought out **[[Lyosha Ohotnik]]**, who recognized her sincerity and gr
 Her first real test came during **Kursk’s raid on the Blood and Sand**, when Druuna stood firm and refused to abandon the wounded.
 
 ---
+
 ## Temperament
 
 Druuna is:
@@ -118,26 +132,6 @@ Her ministry focuses on:
 - reminding people they are not monsters
 
 ---
-## Relationships
-
-**Mentor**
-
-- [[Lyosha Ohotnik]]
-
-**Protective Allies**
-
-- [[Gravel]]
-- [[Grenda]]
-
-The tavern [[Blood and Sand]] treats Druuna as **one of their own**, and the half-blood muscle of the Dregs quietly watch over her.
-
-**Church Authority**
-
-- [[Mathren Solgard]]
-
-Dawn Marshal Solgard investigated Druuna for possible doctrinal corruption and declared her **no heretic**, recommending only continued instruction.
-
----
 
 ## Reputation in the Dregs
 
@@ -153,6 +147,7 @@ Even the halfling farmers beyond the East Gate recognize her.
 When she asked for food for the hungry, they **filled an entire handcart**.
 
 ---
+
 ## Limitations
 
 Druuna has **poor doctrinal retention**.
@@ -164,14 +159,36 @@ However, observers — including the Radiant Inquiry — consistently conclude t
 > Her faith is sincere and doctrinally sound in spirit.
 
 ---
-## Notable Scenes
 
-- [[01 Readying 1231 Druuna Street Sermons]]
-- [[03 Readying 1231 Druuna didn't show]]
-- [[08 Readying 1231 Druuna is tested]]
-- [[09 Readying 1231 - Sir Mathren Solgard Report]]
-- [[13 Readying 1231 The Temple on Druuna]]
+## Relationships
+
+**Mentor**
+- [[Lyosha Ohotnik]]
+
+**Protective Allies**
+- [[Gravel]]
+- [[Grenda]]
+
+The tavern [[Blood and Sand]] treats Druuna as **one of their own**, and the half-blood muscle of the Dregs quietly watch over her.
+
+**Ecclesiastical Oversight**
+- [[Mathren Solgard]]
+
 ---
+
+## Recorded Accounts
+
+Early accounts of Druuna’s ministry in the Dregs come from witness reports, sermons, and church documents.
+
+- [[Shineapple report on Druuna Sunseeker|Shineapple Report on Druuna]]
+- [[Druuna Street Sermons]]
+- [[Druuna didn't show]]
+- [[Druuna is tested]]
+- [[Sir Mathren Solgard Report]]
+- [[The Temple on Druuna]]
+
+---
+
 ## Known Affiliations
 
 - [[Church of Pelor]]
@@ -179,6 +196,7 @@ However, observers — including the Radiant Inquiry — consistently conclude t
 - [[Blood and Sand]]
 
 ---
+
 ## Notes
 
 Druuna is unaware that her thinness may come from a **biological quirk in her metabolism** — she cannot process certain foods well.
@@ -188,12 +206,15 @@ She assumes she is simply built that way.
 Those who know her best suspect she may carry **more orc blood than her slight frame suggests.**
 
 ---
+
 ## Quote
 
 > “If you’re tired… sit by the shrine.  
 > If you’re angry… talk to me before you break something.  
 > If you’re hungry… we’ll share what we’ve got.”
+
 ---
+
 ## Mentions
 
 Linked references to this character appear automatically below.
