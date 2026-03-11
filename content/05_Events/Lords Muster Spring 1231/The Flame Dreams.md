@@ -1,6 +1,20 @@
-Location:  [[Temple of Flame]]
-Present:  [[Sabry Emerald]], [[Jinwing]]
-Date:  1231, During Spring Lord's Muster
+---
+title: The Flame Dreams
+type: event
+status: complete
+
+date: 1231-02-11
+or-date: 11 Readying, 1231
+
+era: OR
+year: 1231
+
+tags:
+  - lore
+
+aliases:
+
+---
 ## The Flame’s Daydream
 
 The green-white seam widens.
@@ -122,3 +136,4 @@ The green-white seam narrows.
 “Something.”
 
 “Or shall I remain hungry?”
+

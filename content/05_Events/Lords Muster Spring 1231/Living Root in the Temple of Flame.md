@@ -1,6 +1,20 @@
-Location:  [[Temple of Flame]]
-Present:  [[Sabry Emerald]], [[Jinwing]]
-Date:  1231, During Spring Lord's Muster
+---
+title: Living Root in the Temple of Flame
+type: event
+status: complete
+
+date: 1231-02-11
+or-date: 11 Readying, 1231
+
+era: OR
+year: 1231
+
+tags:
+  - lore
+
+aliases:
+
+---
 
 ## The Ash Circle
 
@@ -365,3 +379,17 @@ Resentful.
 The rival heat stirs.
 
 Listening.
+
+---
+## Major Figures
+
+- [[JinWing]]
+- [[Sabry Emerald]]
+
+---
+
+## Related Events
+
+- [[Lord's Muster]]
+- [[Zara’s Unleashing at the Arena]]
+- [[Death of Theron Sylvanranth]]

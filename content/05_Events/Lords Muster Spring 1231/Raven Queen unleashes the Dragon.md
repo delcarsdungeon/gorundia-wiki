@@ -1,8 +1,20 @@
-Present:  NPCs:  
-Many assorted minor and major nobles.  
-[[Wilhelm Vogel]], [[Orin Kharne]], [[Raven Queen]], [[Zarathryss Vaelorath]]
+---
+title: Raven Queen Unleashes the Dragon
+type: event
+status: complete
 
-PCs:  [[Beringer]], [[Lyosha Ohotnik]], [[Bertram Moffet]], [[Jinwing]], [[Fayge Danon]], [[Sabry Emerald]], [[Thranduil Stormarrow]], [[Thalrik Vaultforge]], [[Norwin Stoneyeye]]
+date: 1231-02-11
+or-date: 14 Readying, 1231
+
+era: OR
+year: 1231
+
+tags:
+  - lore
+
+aliases:
+
+---
 
 Vogel lies open in the sand.
 The clerics had tried.
@@ -330,3 +342,31 @@ The arena trembles.
 The command still burns.
 “Prove your fall.”
 And there are so many softer targets.
+
+---
+## Major Figures
+
+- [[JinWing]]
+- [[Sabry Emerald]]
+- [[Beringer]]
+- [[Lyosha Ohotnik]]
+- [[Bertram Moffet]]
+- [[JinWing]]
+- [[Fayge Danon]]
+- [[Sabry Emerald]]
+- [[Thranduil Stormarrow]]
+- [[Thalrik Vaultforge]]
+- [[Norwin Stonyeye]]
+
+# NPCs
+
+- [[Wilhelm Vogel]]
+- [[Orin Kharne]]
+- [[Raven Queen]]
+- [[Zarathryss Vaelorath]]
+
+---
+## Related Events
+
+- [[Lord's Muster]]
+

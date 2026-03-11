@@ -1,3 +1,21 @@
+---
+title: Letter of House Moffet Support
+type: event
+status: complete
+
+date: 1231-02-11
+or-date: 11 Readying, 1231
+
+era: OR
+year: 1231
+
+tags:
+  - lore
+
+aliases:
+
+---
+
 > [!important] Quinn Moffet — Letter of Recognition to the Lord Marshal
 > **To Sir Beringer Amadis**  
 > *Lord Marshal of Gorundia*  

@@ -1,7 +1,8 @@
 ---
 type: character
 name: Marco Galibano
-title: Patriarch of the Galibano Family
+title: Marco Galibano
+Rank: Patriarch
 status: alive
 faction: Galibano Syndicate
 house: Galibano

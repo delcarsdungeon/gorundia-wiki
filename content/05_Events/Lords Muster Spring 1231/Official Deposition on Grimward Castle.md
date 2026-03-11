@@ -1,3 +1,21 @@
+---
+title: Official Deposition on Grimward Castle
+type: event
+status: complete
+
+date: 1231-02-10
+or-date: 10 Readying, 1231
+
+era: OR
+year: 1231
+
+tags:
+  - lore
+
+aliases:
+
+---
+
 # Deposition of Annelise
 *Former Keeper, Grimwatch Spire*  
 *Taken immediately after the incident*  

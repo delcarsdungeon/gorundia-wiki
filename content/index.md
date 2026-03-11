@@ -24,7 +24,7 @@ Many entries are still being filled in. Pages marked *Placeholder* exist but are
 - [[Bertram Moffet]]
 - [[Fayge Danon]]
 - [[Guaco Moe Lee]]
-- [[Jinwing]]
+- [[JinWing]]
 - [[Karnath Warclang]]
 - [[Lyosha Ohotnik]]
 - [[Rhovanion]]
