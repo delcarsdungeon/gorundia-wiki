@@ -1,3 +1,25 @@
+---
+type: royal-writ
+title: Writ of Recognition — High Lyric Fayge
+issuer: [[Porthos Ryomar]]
+authority: [[King Rimmand II]]
+location: Royal Palace – Bannerhall
+date: 1231-02-12
+or-date: 12 Readying, 1231
+recipient: [[Fayge]]
+participants:
+- [[Fayge]]
+- [[Porthos Ryomar]]
+- [[King Rimmand II]]
+- The Triad of the Light
+tags:
+- royal-writ
+- bardic-honor
+- bannerhall
+- court-recognition
+- fayge
+---
+ 
 > [!important] ✦ Royal Writ of Recognition ✦
 > **Issued Under the Seal of the Crown of Gorundia**
 >
@@ -59,3 +81,16 @@
 > I suspect yours has not yet finished.
 >
 > — **P.**
+
+---  
+### Backlinks  
+Part of:  
+- [[Bannerhall & Lord’s Muster]]  
+- [[Royal Honors of the Lord’s Muster]]  
+  
+Related:  
+- [[Fayge]]  
+- [[Porthos Ryomar]]  
+- [[King Rimmand II]]  
+- [[Bannerhall]]  
+---
