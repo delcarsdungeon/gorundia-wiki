@@ -89,6 +89,8 @@ The contrast with Cron’s tenure has not gone unnoticed.
 ---
 ## Appearance
 
+![[Nerys Valmere.png|360]]
+
 Nerys carries herself with restrained aristocratic poise.
 
 - Tall, slender build  
@@ -107,8 +109,8 @@ Few people have ever seen her lose composure.
 **Lynwenden Cron**  
 Former husband. The marriage collapsed after years of drinking, affairs, and political embarrassments. The Crown dissolved the marriage and removed him from governance of Thunderhold.
 
-**Duke Ryomar**  
-Distant blood relative through House Valmere.
+**Duke Glandyr Ryomar**  
+Distant blood relative through House Valmere, note:  Ryomar is ALSO the current Royal House.
 
 ---
 
@@ -132,6 +134,7 @@ Her years of quiet observation during Cron’s decline may mean she knows far mo
 
 *Backlinks:*  
 [[Lynwenden Cron]]  
-[[Duke Ryomar]]  
+[[Glandyr Ryomar]]  
+[[Kylesstra Ryomar]]
 [[Thunderhold]]  
 [[House Valmere]]
