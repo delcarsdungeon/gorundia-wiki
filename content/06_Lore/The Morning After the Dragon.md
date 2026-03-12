@@ -438,6 +438,8 @@ It is not technically indecent.
 
 But it is absolutely **not the sort of portrait typically sent to a married Lord Marshal of the realm**.
 
+![[Saraphina Locket.png]]
+
 Folded behind the miniature is a letter written in confident, flowing script.
 
 # **Letter enclosed with the jeweled locket of Dame Saraphina Larkspur**  
@@ -585,6 +587,163 @@ Targost does not look up.
 Skane closes it.
 
 Immediately.
+
+---
+# The Gift of Lady Ellynna Ravelle
+
+Among the flowers, letters, perfumes, and occasional absurd proposals delivered to **[[Beringer]]**, one gift arrives in a small lacquered case of black wood.
+
+No crest.
+
+No note attached to the outside.
+
+The courier simply smiles and says:
+
+> “Lady Ravelle asked that this be opened in private… though she also said you probably wouldn’t.”
+
+Inside the case rests a **crystal medallion**, mounted in silver filigree shaped like curling vines.
+
+The moment the clasp is opened, the crystal flares softly with warm violet light.
+
+An illusion unfolds above the table.
+
+Lady **Ellynna Ravelle** appears reclining upon a velvet divan, rendered in shimmering illusion—her copper hair loose around her shoulders, one arm propping her head in lazy amusement.
+
+She is **entirely nude**, though posed with deliberate elegance rather than vulgarity, one leg draped over the other and a silk sheet tangled somewhere beneath her.
+
+The illusion breathes, stretches slightly, and then lifts a goblet toward the viewer.
+
+Her voice speaks, amused and intimate.
+
+> “If this reached you, Lord Marshal, it means the box survived the curiosity of the court. I’m impressed.”
+
+The illusion gives a small smile.
+
+> “Or perhaps you opened it in front of everyone. In which case… I’m delighted.”
+
+The projection fades.
+
+Beneath the crystal lies the letter.
+
+---
+
+# The Letter of Lady Ellynna Ravelle
+
+Lord Marshal,
+
+I considered sending flowers like the others.
+
+But flowers wilt, and admiration should never do anything so dull.
+
+Instead, I send you a small illusion of myself—one that, I am told, captures my better angles and my worst habits.
+
+You will notice I chose not to wear anything.
+
+This was a strategic decision.
+
+Armor would have been ridiculous.
+
+You have already demonstrated an unfortunate resistance to intimidation, and gowns are far too easy for other women to imitate.
+
+But **confidence** is harder to counterfeit.
+
+You have become the most discussed man in the kingdom, Sir Beringer.
+
+Heroes are rare enough.
+
+Heroes who ride black horses, look perpetually unimpressed by praise, and accidentally terrify half the aristocracy simply by existing…
+
+Well.
+
+Those are irresistible.
+
+I am aware you are married.
+
+Do not worry.
+
+I have no intention of stealing you.
+
+That would be crude.
+
+But admiration, like good wine, is meant to be shared—preferably in private rooms with excellent lighting.
+
+If the illusion scandalizes anyone who happens to glimpse it, please reassure them that I posed purely for artistic reasons.
+
+And political ones.
+
+A woman must invest wisely in the future of the realm.
+
+Should you ever wish to return the favor, you are welcome to attend one of my salons.
+
+Preferably unarmored.
+
+Yours in admiration and mischief,
+
+**Lady Ellynna Ravelle**
+
+---
+
+# Processor Reactions
+
+The gift does not remain private for long.
+
+The palace “processors” tasked with sorting Beringer’s mountain of correspondence have already opened several scandalous letters.
+
+But **this one** becomes a legend.
+
+---
+
+### Master Clerk Halvren
+
+Removes his spectacles.
+
+Stares at the fading illusion for a long moment.
+
+Then quietly closes the box.
+
+> “I will… mark this one as **high priority diplomatic correspondence**.”
+
+---
+
+### Darric the King’s Courier-Thief
+
+(the one who sorts the letters and knows [[Guaco]] by reputation)
+
+Laughs so hard he nearly falls off the table.
+
+> “Oh this one’s getting copied for the archives.”
+
+A pause.
+
+> “…for national security reasons.”
+
+---
+
+### Sister Peliane of the Royal Chapel
+
+(brought in to bless the letters after a rumor of curses)
+
+Watches the illusion appear.
+
+Makes the sign of Pelor.
+
+Then sighs.
+
+> “Well. At least she’s honest.”
+
+---
+
+### Final Comment from the Clerks’ Table
+
+By the end of the afternoon the box is carefully resealed.
+
+A note is attached for the Lord Marshal.
+
+> **“Possibly enchanted object. Recommend private inspection.”**
+
+Someone has added in smaller handwriting beneath it:
+
+> **“Very private.”**
 
 ---
 ### Backlinks
