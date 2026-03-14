@@ -80,5 +80,5 @@ The matter is now considered **settled**, whether or not anyone believes it.
 
 **Related Events**
 
-- [[06_Lore/The Morning After the Dragon]]
+- [[07_Lore/The Morning After the Dragon]]
 - [[Bannerhall]]

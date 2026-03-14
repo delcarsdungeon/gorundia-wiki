@@ -44,7 +44,7 @@ _Storm-lynx of House Orenic. Builder of frameworks. Frequently mistaken for a si
 
 Among those familiar with the Orenic domains, she is often described simply as **“infrastructure.”**
 
-The remark originates with her uncle, who delivered the assessment approvingly during a breakfast meeting with **[[Sir Beringer Amadis]]**, while explaining why he had briefly considered marrying her to **[[Bertram Moffet]]**.
+The remark originates with her uncle, who delivered the assessment approvingly during a breakfast meeting with **[[Beringer]] Amadis**, while explaining why he had briefly considered marrying her to **[[Bertram Moffet]]**.
 
 ---
 

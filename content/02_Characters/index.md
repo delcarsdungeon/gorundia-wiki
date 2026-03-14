@@ -7,7 +7,6 @@ title: Characters
 This section of the archive records the principal figures presently known to influence the affairs of Gorundia, whether through noble title, divine office, criminal enterprise, or personal notoriety.
 
 ---
-
 ## Player Characters
 
 ```dataview
@@ -18,7 +17,6 @@ sort file.name asc
 ```
 
 ---
-
 ## Nobility
 
 ```dataview
@@ -28,7 +26,6 @@ sort file.name asc
 ```
 
 ---
-
 ## Clergy
 
 ```dataview
@@ -53,11 +50,3 @@ sort file.name asc
 ```
 
 ---
-
-## Other Figures
-
-```dataview
-list
-from "02_Characters/Other"
-sort file.name asc
-```

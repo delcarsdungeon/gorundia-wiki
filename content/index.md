@@ -9,7 +9,6 @@ Many entries are still being filled in. Pages marked *Placeholder* exist but are
 — Delcar
 
 ---
-
 # Current Session
 
 - [[Next Session Prep]]
@@ -34,7 +33,6 @@ Many entries are still being filled in. Pages marked *Placeholder* exist but are
 - [[Thranduil Stormarrow]]
 
 ---
-
 # Nobility & Houses
 
 → [[03_Houses/index]]

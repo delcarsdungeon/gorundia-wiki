@@ -144,4 +144,4 @@ Whether this makes her reckless or brilliant depends entirely on whom you ask.
 - [[Alard Fenric]]
 - [[Royal Court of Gorundia]]
 - [[Bannerhall & Lord’s Muster]]
-- [[06_Lore/The Morning After the Dragon|The Morning After the Dragon]]
+- [[07_Lore/The Morning After the Dragon|The Morning After the Dragon]]
