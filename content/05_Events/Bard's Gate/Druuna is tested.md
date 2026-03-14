@@ -7,7 +7,8 @@ type: event
 category: religious
 status: recorded
 date: 1231-02-08
-or-date: 08 Readying, 1231
+sort-date: 1231-02-08  
+display-date: Readying 08, 1231
 tags:
   - druuna
   - pelor

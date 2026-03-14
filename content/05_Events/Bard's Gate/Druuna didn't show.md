@@ -4,7 +4,8 @@ type: vignette
 category: scene
 status: recorded
 date: 1231-02-03
-or-date: 03 Readying, 1231
+sort-date: 1231-02-03  
+display-date: Readying 03, 1231
 tags:
   - druuna
   - blood-and-sand

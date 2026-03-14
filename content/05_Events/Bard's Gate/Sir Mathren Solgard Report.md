@@ -7,7 +7,8 @@ type: document
 category: clergy-report
 status: sealed
 date: 1231-02-09
-or-date: 09 Readying, 1231
+sort-date: 1231-02-09
+display-date: Readying 09, 1231
 tags:
   - druuna
   - pelor

@@ -6,7 +6,8 @@ type: vignette
 category: scene
 status: recorded
 date: 1231-02-01
-or-date: 01 Readying, 1231
+sort-date: 1231-02-01
+display-date: Readying 01, 1231
 tags:
   - druuna
   - pelor

@@ -61,7 +61,41 @@ Elven records tend to describe the event with eerie precision rather than drama.
 Many elven historians refer to the Rain of Colorless Fire simply as **“The Second Folly of Man.”**
 
 ---
+## Druidic Tradition
 
+> “It was not fire that fell.  
+> Fire belongs to the world.
+> 
+> What came from the sky that day was _absence._
+> 
+> The rivers forgot their paths.  
+> The soil forgot how to grow.  
+> Even the wind wandered like an animal that had lost its scent.
+> 
+> The archmages did not merely destroy a kingdom.
+> 
+> They wounded the land itself.”  
+> — Oral teaching preserved by the **Circle of the Verdant Grave**
+
+Among druids, the Rain of Colorless Fire is remembered not as a magical event but as **a violation of the natural order on a continental scale**.
+
+Many druidic traditions teach that the catastrophe created **a scar in the living world**, a place where the balance between the elements was violently broken.
+
+In druidic lore, the **[[Sea of Dust]]** is sometimes called **“the Empty Land”** — a region where the natural cycles of growth, decay, water, and renewal were stripped away by unnatural magic.
+
+Several druid circles claim that even centuries later the land **may never heal**.
+
+Animals avoid the region.
+
+Storms behave strangely near its borders.
+
+And certain ancient groves far to the west are said to have felt the wound **the moment the spell struck**, as if the roots of the world itself had been cut.
+
+For this reason many druids teach a simple warning to younger initiates:
+
+> “When wizards make war with the sky, it is the earth that bleeds.”
+
+---
 ### Dwarven Record
 
 > “We closed the deep gates and watched the stone tremble.  
@@ -102,6 +136,14 @@ Their notes also provide some of the earliest descriptions of the refugee migrat
 > 
 > I remember the sound the mountains made when the magic struck them.”  
 > — attributed to an unnamed ancient dragon, recorded in the **Celene Archive of Pre-Imperial Events**
+---
+
+---
+
+# Halfling Perspective
+
+"Huh?  *Where?*  Never heard of it.  More pie?"
+
 ---
 
 ## The Sea of Dust
