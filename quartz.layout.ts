@@ -5,9 +5,7 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [
-    Component.Backlinks(),
-  ],
+  afterBody: [],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
@@ -30,6 +28,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.TagList(),
   ],
+
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -43,20 +42,32 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+
+    Component.Explorer({
+      mapFn: (node) => {
+        node.displayName = node.displayName
+          .replace(/^\d+_/, "")
+          .replace(/_/g, " ")
+        return node
+      },
+    }),
   ],
+
   right: [
-  Component.Graph(),
-  Component.ConditionalRender({
-    component: Component.DesktopOnly(Component.TableOfContents()),
-    condition: (page) => page.fileData.slug !== "index",
-  }),
-],
+    Component.Graph(),
+    Component.DesktopOnly(Component.TableOfContents()),
+    Component.Backlinks(),
+  ],
 }
 
 // components for pages that display lists of pages (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [
+    Component.Breadcrumbs(),
+    Component.ArticleTitle(),
+    Component.ContentMeta(),
+  ],
+
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -69,7 +80,16 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+
+    Component.Explorer({
+      mapFn: (node) => {
+        node.displayName = node.displayName
+          .replace(/^\d+_/, "")
+          .replace(/_/g, " ")
+        return node
+      },
+    }),
   ],
+
   right: [],
 }
