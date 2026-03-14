@@ -50,6 +50,16 @@ export const defaultContentPageLayout: PageLayout = {
           .replace(/_/g, " ")
         return node
       },
+
+      filterFn: (node) => {
+        const hiddenExact = ["Next Session Prep"]
+        const hiddenPrefixes = ["90_", "_"]
+
+        if (hiddenExact.includes(node.name)) return false
+        if (hiddenPrefixes.some((prefix) => node.name.startsWith(prefix))) return false
+
+        return true
+      },
     }),
   ],
 
@@ -87,6 +97,16 @@ export const defaultListPageLayout: PageLayout = {
           .replace(/^\d+_/, "")
           .replace(/_/g, " ")
         return node
+      },
+
+      filterFn: (node) => {
+        const hiddenExact = ["Next Session Prep"]
+        const hiddenPrefixes = ["90_", "_"]
+
+        if (hiddenExact.includes(node.name)) return false
+        if (hiddenPrefixes.some((prefix) => node.name.startsWith(prefix))) return false
+
+        return true
       },
     }),
   ],
