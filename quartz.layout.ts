@@ -42,7 +42,15 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      mapFn: (node) => {
+        const display = node.displayName ?? node.name ?? ""
+        node.displayName = display
+          .replace(/^\d+_/, "")
+          .replace(/_/g, " ")
+        return node
+      },
+    }),
   ],
 
   right: [
@@ -72,7 +80,15 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      mapFn: (node) => {
+        const display = node.displayName ?? node.name ?? ""
+        node.displayName = display
+          .replace(/^\d+_/, "")
+          .replace(/_/g, " ")
+        return node
+      },
+    }),
   ],
 
   right: [],
