@@ -13,7 +13,7 @@ related:
 - [[Settlement of Gorundia]]
 - [[The Orenic Schism]]
 - [[Clay Uprising]]
-- [[Battle of Red Gorge]]
+- [[The Battle of Red Gorge]]
 ---
 
 # War of Independence

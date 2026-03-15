@@ -20,6 +20,9 @@ Players can use this index to quickly find information known to their characters
 
 Recently added or updated articles that are considered complete.
 
+- [[Dominion Military]]
+- [[Iron Hierarchy of Hextor]]
+- [[The Battle of Red Gorge]]
 - [[The Weight of It]]
 - [[Cornelia Bordella]]
 - [[Milena Orenic]]
@@ -27,14 +30,15 @@ Recently added or updated articles that are considered complete.
 - [[Ellynna Ravelle]]
 - [[Calira Meroven]]
 - [[Nerys Valmere]]
-- [[Alessandra Bordella]]
-- [[Faelar Moonshade]]
-- [[Cron Holdings]]
-- [[Confiscation of the Ducal Holdings of Baron Lynwenden Cron]]
+
 
 ---
 ## Recent Major Articles
 
+- [[Alessandra Bordella]]
+- [[Faelar Moonshade]]
+- [[Cron Holdings]]
+- [[Confiscation of the Ducal Holdings of Baron Lynwenden Cron]]
 - [[Sunseeker Shrine]]
 - [[Duke Orenic Patronage of the Arts|Duke Orenic, Patron of the Arts]]
 - [[Thalrik presents the case against Wilhelm Vogel]]

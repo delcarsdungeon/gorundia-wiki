@@ -1,4 +1,3 @@
-
 ---
 title: The Battle of Red Gorge
 type: event
@@ -14,7 +13,6 @@ tags:
 related:
   - [[War of Independence]]
 ---
-
 # The Battle of Red Gorge
 
 The **Battle of Red Gorge** in **1190 OR** marked the decisive engagement of the long war between the [[Dominion]] and the Kingdom of **Gorundia**.
