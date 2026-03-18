@@ -22,10 +22,6 @@ related:
   - [[Beringer]]
   - [[Orin Kharne]]
 ---
-Here you go—clean, Obsidian-ready, with backlinks and a structure that’ll play nice with your vault.
-
----
-
 # The Forty Analects of Heironeous
 
 *Tags: #religion #heironeous #chivalry #doctrine #gorundia*
