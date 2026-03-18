@@ -2,7 +2,7 @@
 tags: [npc, noble, barony, thunderhold, house-valmere]
 type: npc
 status: alive
-date: 1231-Readying
+date: 1231-2-1
 ---
 # Baroness Nerys Valmere
 *Baroness of Thunderhold*

@@ -1,8 +1,5 @@
 
 ---
-
-```yaml
----
 title: Rowena Caervane
 aliases:
   - Lady Rowena Sylvanranth
@@ -22,7 +19,6 @@ related:
   - [[Dana Freeblade]]
   - [[The Caervane Reckoning]]
 ---
-```
 
 # Rowena Caervane
 
