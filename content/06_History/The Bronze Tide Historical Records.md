@@ -7,8 +7,20 @@ status: incomplete
 date: 1231-02-15
 sort-date: 1231-02-15
 display-date: 15th of Readying, 1231 OR
-tags: [zara, dragon, storm-tide, maritime, pre-fall, fragments, norwin]
-related: [[Zara Vallytrex]], [[Draconis Isle]], [[The Storm-Tide Compact]], [[Norwin]], [[Serelith Bludwulf]]
+tags: 
+- zara
+- dragon
+- storm-tide 
+- maritime
+- pre-fall
+- fragments
+- norwin
+related: 
+- "[[Zara Vallytrex]]"
+- "[[Draconis Isle]]"
+- "[[The Storm-Tide Compact]]"
+- "[[Norwin]]"
+- "[[Serelith Bludwulf]]"
 ---
 
 ## **Archivist’s Note**
