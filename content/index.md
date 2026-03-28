@@ -20,7 +20,23 @@ Players can use this index to quickly find information known to their characters
 
 Recently added or updated articles that are considered complete.
 
+- [[Ancestor Golems]]
+- [[Summary - Elven Point of View]]
+- [[Original - Elven Point of View]]
+- [[Office of the Lord Marshal]]
+- [[Zaras visit to Cornelia]]
+- [[Zara's Conversation with Cornelia]]
+- [[Hrothik Stonevein Arrives]]
+- [[Thalriks Commision]]
+- [[Hearthguard Chefs]]
+- [[Thalrik presents the case against Wilhelm Vogel]]
 - [[Tree Farm]]
+- [[Gorundian Calendar]]
+
+
+---
+## Recent Major Articles
+
 - [[Zaras Hypothetical Dragon Lair]] 
 - [[Druids During the Fall of Vharak Thul]]
 - [[Druids and Dragons]]
@@ -35,39 +51,10 @@ Recently added or updated articles that are considered complete.
 - [[Zarathryss Vaelorath Analysis]]
 - [[The Bronze Tide Historical Records]]
 - [[Letter From Countess Zara to Thalrik]]
-
-
----
-## Recent Major Articles
-
 - [[The Caervane Reckoning]]
 - [[Forty Analects of Heironeous]]
 - [[Dominion Military]]
-- [[Iron Hierarchy of Hextor]]
-- [[The Battle of Red Gorge]]
-- [[The Weight of It]]
-- [[Cornelia Bordella]]
-- [[Milena Orenic]]
-- [[Saraphina Larkspur]]
-- [[Ellynna Ravelle]]
-- [[Calira Meroven]]
-- [[Nerys Valmere]]
-- [[Alessandra Bordella]]
-- [[Faelar Moonshade]]
-- [[Cron Holdings]]
-- [[Confiscation of the Ducal Holdings of Baron Lynwenden Cron]]
-- [[Sunseeker Shrine]]
-- [[Duke Orenic Patronage of the Arts|Duke Orenic, Patron of the Arts]]
-- [[Thalrik presents the case against Wilhelm Vogel]]
-- [[Witchholme Receives]]
-- [[Royal Proclamation — Elevation of Lady Cornelia Bordella]]
-- [[Breakfast Before the Muster]]
-- [[Breakfast with the Duke]]
-- [[05_Events/Lords Muster Spring 1231/The Morning After the Dragon|The Morning After the Dragon]]
-- [[Proclamation of Lady Cornelia's Virtue]]
-- [[King's Honors]]
-- [[The Vogel Medallions]]
-- [[02_Characters/Underworld/Marco Galibano|Marco Galibano]]
+
 
 ---
 
