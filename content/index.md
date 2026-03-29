@@ -20,6 +20,7 @@ Players can use this index to quickly find information known to their characters
 
 Recently added or updated articles that are considered complete.
 
+- [[Anvilstorm Brigade]]
 - [[Ancestor Golems]]
 - [[Summary - Elven Point of View]]
 - [[Original - Elven Point of View]]
