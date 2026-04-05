@@ -1,284 +1,419 @@
 ---
-title: Dana Freeblade
+title: Dana Sylvanranth
 aliases:
-  - Dana Sylvanranth
+  - Dana Freeblade
+  - The Lady of Steel
   - Icewake
-  - Dame Dana Freeblade
+  - Countess of Blackvale
 type: character
-category: npc
+category: nobility
 status: active
-sort-date: 1131-00-00
-display-date: Born c. 1131 OR
+date: 1231-00-00
+sort-date: 1231-00-00
+display-date: 1231 OR
 tags:
-  - character
-  - knight
   - sylvanranth
+  - blackvale
+  - countess
+  - knight
   - stormarrow
   - old-guard
+  - political
 related:
   - [[Theron Sylvanranth]]
   - [[Rowena Caervane]]
   - [[Blue Sylvanranth]]
   - [[Naira Sylvanranth]]
   - [[Elyndra Sylvanranth]]
-  - [[Sorek Redmarch]]
   - [[Orin Kharne]]
-  - [[Katherine Kendal]]
   - [[Beringer]]
+  - [[Sorek Redmarch]]
+  - [[Katherine Kendal]]
   - [[Stormarrow]]
+  - [[Blackvale]]
+  - [[The Caervane Reckoning]]
 ---
 
-# Dana Freeblade
+# Dana Sylvanranth
 
-> “There’s only two kinds of Freeblades in this world—those running from something, and those running toward it with a sword out. Dana? She’s both.”  
-> — **Sorek Redmarch**
+> “People like to pretend Dana Freeblade sprang from the ground fully armored, like some storybook knight. Truth’s simpler. She just grew up in a different war than the rest of that family.”  
+> — [[Sorek Redmarch]]
 
-**Dana Freeblade** is a knight of Gorundia and a veteran of the kingdom’s wars and minor skirmishes.  
+## Overview
 
-Born **Dana Sylvanranth**, she is the eldest child of **Theron Sylvanranth**, the infamous warlord and intelligence master often called *The Dragon*.
+**Dana Sylvanranth**, long known as **Dana Freeblade**, is the newly elevated **Countess of Blackvale**, a veteran knight of Gorundia, and the firstborn child of [[Theron Sylvanranth]].
 
-Dana rejected the political inheritance of the Sylvanranth name and instead forged her identity through service and battle. Renouncing the privileges of her lineage, she adopted the name **Freeblade**, symbolizing her independence from her father’s shadow.
+She was raised to inherit one of the most dangerous legacies in the kingdom—and refused it.
 
-Despite this rejection, the discipline and relentless standards of her upbringing remain visible in everything she does.
+Instead, she chose the sword over the shadow, renouncing the privileges of her house and earning her reputation through war, discipline, and service under [[Orin Kharne]].
 
-She now serves **Baron Orin Kharne** at [[Stormarrow]].
+That choice did not free her from inheritance. It merely delayed it.
 
-Dominion intelligence reportedly refers to her as **Icewake**.
+With the fall of the Bordellas, Dana has been placed at the head of Blackvale not as a social ornament, but as a solution: hard, credible, and difficult to corrupt.
 
+Now, she faces the one problem she has never been able to solve cleanly—
+
+**not survival. Not war.  
+But legacy.**
 
 ---
 
-# Appearance
+## Summary
 
+- **Current Title:** Countess of Blackvale  
+- **Former Style:** Dana Freeblade  
+- **Dominion Codename:** Icewake  
+- **House:** Sylvanranth  
+- **Father:** [[Theron Sylvanranth]]  
+- **Mother:** [[Rowena Caervane]]  
+- **Siblings:** [[Elyndra Sylvanranth]], [[Naira Sylvanranth]], [[Blue Sylvanranth]]  
+- **Liege of Choice:** [[Orin Kharne]]  
+- **Reputation:** Ruthless, disciplined, eloquent, difficult, loyal once convinced  
+- **Primary Tension:** A woman who rejected inheritance now forced to become it  
+- **Succession Concern:** Marriage preferred; heir required  
+
+---
+
+## Appearance
 
 ![[Dana Sylvanranth Surrounded.png|]]
 
-Dana is a **half-elf**, and the elven lineage is visible in her sharp features and slightly pointed ears.
+Dana is a **half-elf**, her lineage visible in her sharp features and slightly pointed ears.
 
-Appears: late 30s or early 40s (half-elven longevity)
+She appears in her late 30s to early 40s by human standards.
 
-Her hair is worn short for practicality, and she carries herself with the controlled posture of someone trained from childhood to expect violence.
+Her hair is worn short, practical. Her armor bears real wear, not ceremony. Her expression is typically composed, analytical, and faintly dangerous.
 
-Scars mark both armor and skin. Her expression is typically composed and analytical, though those who know her well occasionally glimpse a dry, understated humor.
+Even in formal settings, Dana carries herself like a soldier who expects violence to interrupt the conversation.
 
-She favors practical armor and field gear rather than courtly attire. Even when attending formal gatherings, Dana carries herself like a soldier waiting for the next order.
-
-
----
-
-# Background
-
-Dana Freeblade was born **Dana Sylvanranth** in **1131 OR**, the daughter of [[Theron Sylvanranth]] and his first wife, [[Rowena Caervane]].
-
-Rowena was assassinated in **1138 OR** when Dana was still a young child. Later investigations revealed the attack to be a **Dominion-backed operation** intended to eliminate Theron himself. Theron was away on campaign when the killers struck, and Rowena was murdered in his place.
-
-Dana retained only fragmentary memories of her mother, but she grew up surrounded by the consequences of that killing.
-
-Theron’s response became infamous among those who knew the truth.
-
-Over the following years he pursued the conspiracy responsible for Rowena’s death across **both sides of the Gorundian–Dominion border**, dismantling the network piece by piece. Couriers, smugglers, hired blades, financiers, and the political patrons who shielded them were all hunted down. The effort consumed enormous resources and created serious diplomatic tension, but Theron did not relent.
-
-By the end of the campaign, **every individual connected to the plot had been eliminated**. The network responsible for Rowena Caervane’s death effectively ceased to exist.
-
-Dana’s childhood unfolded in the shadow of that vengeance.
-
-With her mother gone and her father frequently away pursuing war or retaliation, Dana was raised largely by household servants and by Theron’s harsh expectations. The Sylvanranth household returned to its natural state: disciplined, guarded, and unforgiving of weakness.
-
-As Dana grew older she increasingly rejected the political future Theron intended for her. Rather than become another instrument of Sylvanranth power, she left the household and entered military service on her own terms, eventually adopting the name **Freeblade**.
-
-Despite leaving home, Dana maintained a quiet connection with her younger siblings. Whenever Theron’s duties kept him away, she made a point of returning when she could — checking on them, training them, and ensuring they were not entirely alone within the demanding Sylvanranth household.
-
+Her blade, **Ghosttongue**, is an old elven weapon she never explains—and never sets aside.
 
 ---
 
-# Relationship with the Sylvanranth Family
+## Heraldry
 
-Dana’s relationship with her siblings is complicated by distance and timing.
+**Arms:** *Sable, a gauntlet Or maintaining a torch Or enflamed Tenné.*
 
-Because she had already left the Sylvanranth household by the time her younger siblings were growing up, she was **not a constant presence in their childhood**.
+Dana’s heraldry is not inherited—it is imposed.
 
-As a result, she returned to their lives later almost as an outsider.
+The black field rejects ornament.  
+The gauntlet asserts control.  
+The torch is not guidance—it is interrogation.
 
-Her opinion of **[[Naira Sylvanranth]]**, however, is openly hostile. Where she sees determination and potential in Blue, she sees weakness and wasted privilege in Naira.
+Blackvale is no longer a place of comfort.
 
-The loss of her sister **[[Elyndra Sylvanranth]]** affected her deeply and remains one of the few subjects that visibly unsettles her composure.
+It is a place where things are brought into the light whether they wish it or not.
 
-Dana’s relationship with **[[Blue Sylvanranth]]** is complicated and painfully recent.
+---
 
-For most of her life Dana did not know Blue existed. The girl appeared in the Sylvanranth orbit less than a year ago, when [[Theron Sylvanranth]] publicly acknowledged her as his daughter and formally named her his heir.
+## Early Life
 
-Dana initially regarded the revelation with skepticism. Theron’s life had never been simple, and the sudden appearance of a new heir raised more questions than answers.
+Dana was born in **1131 OR**, the daughter of [[Theron Sylvanranth]] and [[Rowena Caervane]].
 
-But Blue proved herself quickly.
+Her mother was assassinated in **1138 OR**, the intended target being Theron himself.
 
-Dana recognized in her the same stubborn resilience she valued in any soldier. Though their time together was brief, Dana began — cautiously — to treat Blue as a younger sister rather than merely another complication in Sylvanranth politics.
+Dana grew up in the aftermath.
+
+Theron’s response—the systematic eradication of every individual connected to the plot—became known as [[The Caervane Reckoning]].
+
+Dana’s childhood was shaped not by grief alone, but by the example of what grief looked like when wielded by a man like her father.
+
+She learned early:
+
+- that loss is permanent  
+- that vengeance can be methodical  
+- that mercy is often a calculation  
+
+She inherited Theron.
+
+And spent most of her life trying not to become him.
+
+---
+
+## Break with House Sylvanranth
+
+As she came of age, Dana rejected the political future laid out for her.
+
+She renounced her inheritance and left the Sylvanranth household, choosing military service over court life and adopting the name **Freeblade**.
+
+This was not rebellion.
+
+It was refusal.
+
+She would not become another instrument of controlled cruelty—even if she carried all the tools to do so.
+
+---
+
+## Military Career
+
+Dana earned her reputation the hard way.
+
+Her knighthood came at **Twin Pines Ford**, where she halted a goblin vanguard through sheer discipline and direct violence.
+
+Her battlefield philosophy is simple:
+
+- minimal motion  
+- maximum consequence  
+
+She targets command, cohesion, and morale—not glory.
+
+She does not duel for spectacle.
+
+She ends problems.
+
+---
+
+## Service to [[Orin Kharne]]
+
+Dana’s loyalty to [[Orin Kharne]] is one of the few uncomplicated truths in her life.
+
+She chose him.
+
+Not his title. Not his power.
+
+Him.
+
+She believes in individuals who can carry authority without collapsing into indulgence or corruption.
+
+Orin passed that test.
+
+That loyalty is not warm.
+
+It is deliberate.
+
+---
+
+## Stormarrow & The Old Guard
+
+At [[Stormarrow]], Dana became part of the veteran core often referred to as the **Old Guard**.
+
+Within that circle:
+
+- she is respected  
+- rarely challenged without reason  
+- and never underestimated twice  
+
+Her closest intellectual counterpart is [[Sorek Redmarch]], whose conversations with her are equal parts analysis and argument.
+
+---
+
+## Trainer of the Next Generation
+
+Dana’s reputation as an instructor borders on infamous.
+
+She trained:
+
+- [[Blue Sylvanranth]]  
+- [[Katherine Kendal]]  
+
+Her methods were relentless, uncompromising, and often resented in the moment.
+
+In retrospect, they kept people alive.
+
+> Competence saves lives. Everything else is decoration.
+
+---
+
+## Personality
+
+Dana is controlled, precise, and difficult.
+
+She respects competence over rank and has no patience for ornamental authority.
+
+She speaks rarely, but with weight.
+
+Her wit exists—but it cuts.
+
+She feels deeply.
+
+She simply refuses to make that anyone else’s leverage.
+
+---
+
+## Pressure Points and Contradictions
+
+Dana is a study in tension:
+
+- noble-born, court-averse  
+- trained manipulator, prefers honesty  
+- severe, yet capable of loyalty  
+- distant, yet quietly protective  
+- hardened, yet afraid of passing that hardness forward  
+
+Her greatest private conflict now:
+
+She wants an heir.
+
+She also wants—without knowing how—not to become the reason that heir needs to recover from their childhood.
+
+---
+
+## Relationship with [[Theron Sylvanranth]]
+
+Dana rejected her father.
+
+Now she understands him.
+
+That may be worse.
+
+She sees the logic. The necessity. The cost.
+
+And she recognizes the shape of those same decisions beginning to form in her own thinking.
+
+She does not fear becoming cruel.
+
+She fears becoming **reasonable** in the same places he once did.
+
+---
+
+## Relationship with [[Blue Sylvanranth]]
+
+Complicated. Recent. Unresolved.
+
+Dana did not grow up with Blue.
+
+She came into her life late—and began, cautiously, to treat her as a sister.
 
 Then Blue killed their father.
 
-Dana understands, perhaps better than most, the forces that shaped Blue’s life and the enemies who may have manipulated her. The Dominion’s long memory and Theron’s old war with them are never far from Dana’s thoughts.
+Dana understands the forces involved.
 
-But understanding is not the same as absolution.
-
-The entire future Theron had begun to build around Blue — the fragile possibility of a reconciled family — lasted less than a year before it shattered.
-
-Dana carries that knowledge with the same discipline she applies to everything else: quietly, without spectacle, and with a weight she rarely allows anyone to see.
-
+But understanding is not absolution.
 
 ---
 
-# Relationship with Theron Sylvanranth
+## Relationship with [[Elyndra Sylvanranth]]
 
-Dana spent much of her life rejecting the methods and legacy of **[[Theron Sylvanranth]]**.
+Elyndra remains Dana’s deepest loss.
 
-Even so, the two share unmistakable similarities in temperament and intellect.
+Where Elyndra embodied kindness that could not survive the world, Dana became the opposite adaptation:
 
-Before Theron’s death, father and daughter had begun a slow and cautious reconciliation.
-
-Those who knew them both — particularly **[[Sorek Redmarch]]** — observed that Dana likely understood Theron better than most people ever did, even if she would never openly admit it.
-
+**something that could.**
 
 ---
 
-# Service at Stormarrow
+## Relationship with [[Naira Sylvanranth]]
 
-Dana serves among the veteran warriors surrounding **[[Orin Kharne]]**, often informally referred to as part of the **Old Guard**.
+Dana holds open contempt for Naira.
 
-Within this circle she is respected as a consummate professional: disciplined, pragmatic, and uninterested in political games.
+To her, he represents wasted privilege and softness without substance.
 
-**Sorek Redmarch** is one of the few individuals who regularly debates her views without provoking hostility.
-
-Their exchanges are often blunt, analytical, and occasionally dryly humorous.
-
+Unfortunately, succession law does not care about her opinion.
 
 ---
 
-# Trainer of the Next Generation
+## Countess of Blackvale
 
-Dana’s reputation among younger knights is legendary.
+Dana does not inherit comfort.
 
-She was **relentless in the training of both [[Blue Sylvanranth]] and [[Katherine Kendal]]**, pushing them far harder than most instructors would have dared.
+She inherits failure.
 
-Her methods resembled those of a battlefield drill instructor rather than a noble knight.
+Blackvale is not being restored.
 
-Both trainees alternated between resenting and appreciating her intensity.
+It is being replaced.
 
-In retrospect, many of the harsh lessons she forced upon them proved essential for survival.
+Under Dana:
 
-Her philosophy is simple:
+- indulgence will shrink  
+- discipline will expand  
+- incompetence will become dangerous  
 
-> Competence saves lives.  
-> Everything else is decoration.
+This is not a renaissance.
 
-
----
-
-# Personality
-
-Dana is defined by restraint and clarity of thought.
-
-She speaks rarely and directly, preferring precision to flourish.
-
-Respect, in her view, must be earned through competence rather than birth or title.
-
-She has little patience for incompetence or empty bravado, particularly from nobles who mistake lineage for authority.
-
-Despite this severity, Dana is not humorless. Her wit tends to surface in brief, surgically precise remarks.
-
+This is a correction.
 
 ---
 
-# Reputation
+## Succession Crisis
 
-Dana Freeblade is widely known for:
+Dana requires an heir.
 
-• exceptional battlefield discipline  
-• analytical tactical thinking  
-• refusal to defer to rank when competence is lacking  
-• fierce loyalty once trust is earned  
+Marriage is preferred. Legitimacy matters.
 
-Enemies consider her ruthless.
+Magic may assist—but cannot replace political reality.
 
-Allies consider her dependable.
+She does not want:
 
-Both assessments are accurate.
+- a flatterer  
+- a reformer  
+- a man who thinks she needs saving  
 
+She does not want to be solved.
 
----
+She wants someone who stands.
 
-# Combat Style
+At the same time—
 
-Dana favors decisive engagements.
+She wants to be a better parent than the one she understands too well.
 
-She targets command structure and battlefield cohesion rather than engaging in prolonged personal duels.
-
-Her style reflects her worldview: **minimal motion, maximum consequence**.
-
+That makes this problem tragic.
 
 ---
 
-# Emotional Discipline
+## Reputation
 
-Dana rarely shows overt emotion.
+To soldiers: dependable, hard  
+To nobles: dangerous, uncooperative  
+To enemies: efficient  
 
-Anger, grief, and loyalty are present beneath the surface, but tightly controlled.
+To everyone:
 
-Those who have fought beside her claim she becomes most dangerous when she is quiet.
-
-
----
-
-# Known Associations
-
-**[[Orin Kharne]]**  
-Her chosen liege and commanding officer.
-
-**[[Sorek Redmarch]]**  
-Veteran knight and one of the few people she considers an equal in experience.
-
-**[[Blue Sylvanranth]]**  
-Younger half-sister whom she trained relentlessly.
-
-**[[Katherine Kendal]]**  
-Former trainee whose resilience earned Dana’s respect.
-
-**[[Naira Sylvanranth]]**  
-Brother. Dana’s opinion of him is famously poor.
-
-**[[Beringer]]**  
-Respected professional ally and occasional subject of Dana’s blunt commentary.
-
+**not someone you want to disappoint twice**
 
 ---
 
-# Notes
+## Known Traits
 
-An infamous anecdote sometimes circulated among soldiers — the so-called **“Damnit, Bertram”** exchange — is not considered canonical.
-
-However, the story’s portrayal of Dana’s uncompromising temperament is widely considered accurate.
-
-
----
-
-# Quotes
-
-> “You want loyalty? Earn it.”
-
-> “Competence first. Rank later.”
-
-> “Mercy without judgment is just another form of cruelty.”
-
+- precise speech  
+- controlled emotion  
+- highly educated  
+- tactically brilliant  
+- loyal when earned  
+- quietly protective  
+- writes poetry privately  
 
 ---
 
-# Backlinks
+## Quotes
 
-[[Theron Sylvanranth]]  
-[[Rowena Caervane]]  
-[[Blue Sylvanranth]]  
-[[Naira Sylvanranth]]  
-[[Elyndra Sylvanranth]]  
-[[Sorek Redmarch]]  
-[[Orin Kharne]]  
-[[Katherine Kendal]]  
-[[Beringer]]  
-[[Stormarrow]]
+> “He wanted a shadow to inherit his legacy. I made a sword instead.”
+
+> “You want my loyalty? Don’t flatter me. Earn it.”
+
+> “Mercy’s a blade with no hilt. It cuts both ways.”
+
+> “Next time, act or step aside. I do not repeat myself.”
+
+---
+
+## Rumors and Whispers
+
+- Dominion calls her **Icewake**
+- She refused a duchal marriage proposal with laughter
+- She understands [[Theron Sylvanranth]] better than anyone admits
+- She may be more protective of [[Blue Sylvanranth]] than she shows
+- She is currently dismantling Blackvale’s internal structure piece by piece
+
+---
+
+## Story Use
+
+Dana is:
+
+- a ruling noble forged for crisis  
+- a tragic succession figure  
+- a PC-adjacent power center  
+- a walking test of whether power can be inherited without corruption  
+- and a woman who might actually become a good mother—  
+  if she can figure out how without breaking anything in the process
+
+---
+
+## See Also
+
+- [[Theron Sylvanranth]]  
+- [[Blue Sylvanranth]]  
+- [[Orin Kharne]]  
+- [[Beringer]]  
+- [[The Caervane Reckoning]]  
+- [[Blackvale]]
