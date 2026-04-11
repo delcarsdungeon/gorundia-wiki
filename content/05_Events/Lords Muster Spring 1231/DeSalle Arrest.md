@@ -26,7 +26,7 @@ He folds his arms loosely.
 
 A faint snort.
 
-“We took twelve. Myself, [[Dana Sylvanranth]], [[Aldos Verran]], Ser [[Edwyn Durathen]] — as we discussed — and eight knights who know the difference between rank and conduct.”
+“We took twelve. Myself, [[Dana Sylvanranth first draft]], [[Aldos Verran]], Ser [[Edwyn Durathen]] — as we discussed — and eight knights who know the difference between rank and conduct.”
 
 He shifts his weight.
 

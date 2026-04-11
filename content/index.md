@@ -20,6 +20,24 @@ Players can use this index to quickly find information known to their characters
 
 Recently added or updated articles that are considered complete.
 
+- [[Session 25MAR26]] - this is the big day, crusade and steel purge.  Cleaned up all the articles and they SHOULD be in proper order here.
+- [[House Moffet]]
+- [[Garran Halvyr]]
+- [[Nerys Valmere]]
+- [[Jorven Hale]] (Captain in the Navy, Thalrik's first mate.)
+- [[The Silver Willow]] - exclusive Elf bar in the capital, Guaco visited under unpleasant circumstances, Fayge... amusing ones.
+- [[Lockreach]]
+- [[Greenbridge Vale]]
+- [[Rhett Calder]]
+- [[Faelar Moonshade]]
+- [[Decree — On the Arms and Authority of Blackvale]]
+- [[Myldenar Intelligence Brief (Norwin Translation)]]
+- [[Norwins Notes Elf Cities of the West]]
+
+
+---
+## Recent Major Articles
+
 - [[Anvilstorm Brigade]]
 - [[Ancestor Golems]]
 - [[Summary - Elven Point of View]]
@@ -33,29 +51,6 @@ Recently added or updated articles that are considered complete.
 - [[Thalrik presents the case against Wilhelm Vogel]]
 - [[Tree Farm]]
 - [[Gorundian Calendar]]
-
-
----
-## Recent Major Articles
-
-- [[Zaras Hypothetical Dragon Lair]] 
-- [[Druids During the Fall of Vharak Thul]]
-- [[Druids and Dragons]]
-- [[Field Brief on Dragons by Norwin Stonyeye]]
-- [[Norwin’s Addendum — On the Misapplication of Dragon]]
-- [[Thaleryn Vossithra]]
-- [[Thaleryn Vossithra Analysis]]
-- [[The Trio]]
-- [[Vharak Thul Analysis]]
-- [[Voice of the Grugach]]
-- [[Zara attack observations]]
-- [[Zarathryss Vaelorath Analysis]]
-- [[The Bronze Tide Historical Records]]
-- [[Letter From Countess Zara to Thalrik]]
-- [[The Caervane Reckoning]]
-- [[Forty Analects of Heironeous]]
-- [[Dominion Military]]
-
 
 ---
 
