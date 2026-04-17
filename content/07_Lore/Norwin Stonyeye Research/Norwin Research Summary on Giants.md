@@ -19,7 +19,7 @@ related:
 
 ---
 
-## Giants (A Working Scholarly Overview)
+# **Giants (True Giants of the Flanaess — Master Reference)**
 
 _By Norwin Stonyeye, Royal Archivist_
 
@@ -27,340 +27,902 @@ _By Norwin Stonyeye, Royal Archivist_
 
 > “Every culture writes about giants.  
 > None agree.  
-> The dwarves are the most accurate, the elves the most poetic, and the halflings the most _dangerously cheerful_ about the entire affair.”  
+> The dwarves are the most accurate, the elves the most poetic, and the halflings the most dangerously cheerful.”  
 > — Norwin
 
 ---
 
-## I. Foundational Observations
+## **I. Foundational Observations**
 
-Giants are **not a unified species**, nor a hierarchy, nor a philosophical construct. They are **distinct peoples**, sharing:
+Giants are **not a unified species**, nor a ladder, nor a metaphor.
 
-- Immense physical scale
-- Regional adaptation
-- A consistent tendency to treat smaller folk as… negotiable
+They are:
 
-They are not:
-
-- A ladder of advancement
-- A moral spectrum by size
-- “Misunderstood shepherds of the earth” _(see: elven sources, discard liberally)_
+- Distinct peoples    
+- Sharing immense scale    
+- Exhibiting consistent environmental alignment    
+- Treating smaller folk as… negotiable    
 
 ---
 
-## II. Hill Giants (Wyrmlea Confirmed)
+### **On Their Nature**
 
-> “A hill giant is what happens when hunger learns to walk upright.” — Norwin
+Giants are:
 
-### Presence
-
-- **Confirmed in County Wyrmlea**
-- Scattered family groups in uninhabited regions
-- No large-scale coordination observed
-
-### Behavior
-
-- Driven primarily by:
-    - Hunger
-    - Immediate dominance
-- Capable of:
-    - Ambush
-    - Crude planning
-    - Remembering where the food was last time
-
-### Society
-
-- Family clusters (9–16 typical)
-- Leadership by strength
-- Stability lasts exactly as long as food does
+- **Mortal** (they bleed, reproduce, and die)    
+- **Not purely biological**    
+- Carriers of **inherited elemental resonance**    
 
 ---
 
-### Norwin Footnote I
+### **Working Conclusion**
 
-> “Contrary to popular belief, hill giants do not forget everything immediately.  
-> They forget _complexity_.  
-> They remember food, pain, and grudges with admirable clarity.”
+> Giants are **mortal vessels of primordial forces**, not elementals themselves.
 
 ---
 
-## III. On the Absence of Frost Giants (Regional Reality)
+### **On Antiquity (Disputed)**
 
-> “Yes, frost giants exist. No, they are not wandering around Wyrmlea like lost cattle.” — Norwin
+Multiple early records suggest:
 
-### Archival Evidence
+- Giants were once **more numerous**    
+- Possibly **dominant in earlier ages**    
+- Their decline coincides with:    
+    - expansion of younger races        
+    - fragmentation of giant societies        
 
-Records confirm frost giants:
+Every race disputes this.
 
-- In northern campaigns
-- In colder climates far beyond Gorundia’s southern temperate zones
-
-### The Bordella Trophy (Supplemental Note)
-
-Ponzio Bordella possessed a **taxidermied frost giant female**, origin unknown.
-
-Norwin’s annotation:
-
-> “Whoever transported that corpse did not do so casually.  
-> That was logistics, not happenstance.”
-
-### Conclusion
-
-- Frost giants are **real, intelligent, and dangerous**
-- They are **not native to Gorundia’s current climate**
-- Any appearance locally would imply:
-    - Deliberate movement
-    - Magical interference
-    - Or a problem worth immediate attention
+None disprove it.
 
 ---
 
-## IV. Fire Giants (Dwarven Sources)
+### **Norwin Footnote I**
 
-> “Dwarven records are excellent, provided you survive reading them.” — Norwin
-
----
-
-### On Accessing Dwarven Lore
-
-Sources obtained from Durn Kalduhr include:
-
-- **Runic metal plates** (hammered, not written)
-- **Stone wall inscriptions** (literal walls, not metaphorical)
-- Rubbings thereof, often requiring:
-    - Two assistants
-    - A ladder
-    - Patience bordering on sainthood
+> “If giants were not first, they were at least early enough to remember when no one else was.”
 
 ---
 
-### Norwin Footnote II
+## **II. On Giant Magic (Universal Trait)**
 
-> “Dwarves begin every record with their lineage.  
-> By the time they reach the actual point, I have aged measurably.”
+Giants do not “cast” magic.
 
----
+They:
 
-### Fire Giant Characteristics
+- Do not memorize spells    
+- Do not rely on formal structures    
+- Do not appear limited in the same way as mages    
 
-- Highly organized
-- Militaristic
-- Skilled smiths
-- Structured hierarchy
+Instead:
 
-Dwarven consensus:
-
-- Dangerous
-- Worthy of respect
-- To be killed properly, not casually
+- Magic is **innate**    
+- **Effortless**    
+- Often indistinguishable from natural phenomena    
 
 ---
 
-### Norwin’s Assessment
+> “A wizard bends reality.  
+> A giant assumes it already has.” — Norwin
 
-> “If hill giants are hunger, and frost giants are war,  
-> fire giants are _order_.  
-> And order, applied at that scale, is considerably worse.”
+---
+# **II.a Addendum — On the Gods of Giantkind (Fragmentary Theology)**
+
+> “They absolutely have gods.  
+> They absolutely do not agree on them.  
+> And somehow, this does not stop the prayers from working.” — Norwin
+
+---
+## **General Observation**
+
+Giant religion is:
+
+- **Decentralized**    
+- **Type-specific**    
+- **Culturally embedded rather than institutionally organized**    
+
+There is **no evidence** of:
+
+- unified doctrine    
+- shared creation myth across all giant types    
+- centralized priesthood spanning giantkind    
+
+---
+### **Working Model**
+
+Each giant type:
+
+- Reveres **its own patron deity**    
+- Maintains **localized traditions**    
+- Interprets divine favor through:    
+    - strength        
+    - survival        
+    - dominance        
+    - environmental alignment        
+
+> “They do not ask ‘what is right.’  
+> They ask ‘what proves I was chosen.’” — Norwin
+
+---
+## **Known Giant Deities**
+
+---
+### **Stronmaus (Storm Giants)**
+
+- Domain: storms, sea, sky    
+- Temperament: measured, distant, powerful    
+- Worship style:    
+    - minimal ritual        
+    - reverence expressed through conduct        
 
 ---
 
-## V. The Storm Giant Misclassification (Elven Sources)
+**Interpretation:**
 
-> “The elves discovered something real, then named it incorrectly, then wrote a poem about it.” — Norwin
+Storm giants do not “worship” in the human sense.
 
----
+They:
 
-### The Problem
-
-Elven archive refers to:
-
-- A **“Sea Giant”**
-- Described in florid, aggressively unhelpful poetry
+- emulate    
+- align    
+- occasionally acknowledge    
 
 ---
 
-### Cross-Reference Findings
+> “If Stronmaus exists, his followers behave as if he does not require reminding.” — Norwin
 
-After removing metaphor, seasonal references, and at least one entirely unnecessary stanza about moonlight:
+---
+### **Memnor (Cloud Giants)**
 
-- Traits match **Storm Giants** precisely
+- Domain: pride, cunning, ambition    
+- Associated with:    
+    - manipulation        
+    - status        
+    - dominance through intellect        
 
 ---
 
-### Conclusion
+**Worship Style:**
 
-**“Sea Giant” = Storm Giant**
+- Court-based    
+- Ritualized    
+- Often performative    
+
+> “If a cloud giant prays, it is unclear whether it is devotion or rehearsal.” — Norwin
+
+---
+### **Surtur (Fire Giants)**
+
+- Domain: fire, craft, war    
+- Strong association with:    
+    - forging        
+    - conquest        
+    - structure       
+
+**Worship Style:**
+
+- Likely organized within fortresses    
+- Possible proto-priesthood structure    
+- Ritual tied to:    
+    - forging        
+    - battle preparation        
+
+> “Fire giants are the only group where I suspect something approaching a formal clergy may exist.” — Norwin
+
+---
+### **Thrym (Frost Giants)**
+
+- Domain: cold, strength, battle    
+- Values:    
+    - endurance        
+    - victory        
+    - dominance        
+
+**Worship Style:**
+
+- Tribal    
+- Boast-driven    
+- Ritualized violence likely part of devotion    
+
+> “A frost giant prayer may be indistinguishable from a threat.” — Norwin
+
+---
+### **Skoraeus Stonebones (Stone Giants)**
+
+- Domain: stone, endurance, time    
+- Associated with:    
+    - patience        
+    - stillness        
+    - detachment        
+
+**Worship Style:**
+
+- Minimal    
+- Meditative    
+- Possibly symbolic rather than active    
+
+> “If they pray, it may take years.” — Norwin
+
+---
+### **Grolantor (Hill Giants)**
+
+- Domain: hunger, destruction, crude instinct    
+- Worship:    
+    - crude        
+    - inconsistent        
+    - possibly accidental        
+
+
+> “I am not convinced hill giants know they are worshipping anything.  
+> Which does not appear to matter.” — Norwin
+
+---
+## **On Interactions with Other Faiths**
+
+- Giants do **not adopt foreign gods**    
+- They do **not recognize theological authority outside their kind**    
+- Clerics of other races:    
+    - ignored        
+    - mocked        
+    - or killed       
+
+> “Attempting to convert a giant is an excellent way to confirm your god accepts martyrs.” — Norwin
 
 ---
 
-### Norwin Footnote III
+# **II.b Addendum — On Giant Clerics (Uncomfortable Evidence)**
 
-> “The distinction appears to exist solely so elves can feel clever about knowing a different word for the same thing.”
+> “I was happier when I believed giants did not produce clerics.” — Norwin
+
+---
+## **Initial Assumption**
+
+Given:
+
+- innate magical capability    
+- lack of visible priesthood    
+- environmental power expression    
+
+Conclusion:
+
+> Giants do not require clerics.
 
 ---
 
-### Storm Giant Profile
+## **Confirmed Contradiction**
 
-- Extremely rare
-- Highly intelligent
-- Solitary or small family units
-- Associated with:
-    - Storms
-    - Coasts
-    - Deep waters
+One **verified account** (dwarven primary source, human corroboration):
 
----
+> A **hill giant shaman**
 
-## VI. Stone Giants (Probable Presence)
+## **Observed Context**
 
-Sparse but consistent reports suggest:
+- Warband size: ~12 giants    
+- Shaman held:    
+    - authority beyond brute strength        
+    - behavioral control over group        
+## **Physical Description**
 
-- Presence near **Durn Kalduhr**
-- Reclusive behavior
-- Limited interaction with outsiders
+- Bone fetishes    
+- Crude markings (likely symbolic)    
+- Distinct from other giants in posture and behavior    
 
 ---
 
-### Norwin Footnote IV
+## **Observed Abilities**
 
-> “Every description of stone giants reads like it was written by someone who saw one once, from far away, and decided that was sufficient scholarship.”
+- Induced fear without physical action    
+- Directed group coordination beyond typical hill giant capability    
+- Called lightning during a storm    
+### **Critical Observation**
+
+> “It spoke upward before the storm answered.”
+
+## **Norwin’s Analysis**
+
+Three possibilities:
+1. Misinterpreted Giant Magic**
+   - Natural abilities mistaken for divine action
+   - Most comfortable explanation    
+2. Ritualized Behavior
+   - Cultural mimicry of worship
+   - No actual divine involvement
+1. Actual Cleric
+   - Giant acting as a divine intermediary
+   - Receiving power from a giant deity
+   
+> “This possibility is unacceptable.  
+> Which places it firmly in contention.” — Norwin
+
+---
+## **Implications**
+
+If true:
+
+- Giant gods are:    
+    - active        
+    - responsive        
+    - selective        
+- Giant society contains:
+	- spiritual authority structures (at least at low levels)
+
+---
+## **Cross-Type Speculation**
+
+If hill giants can produce a shaman:
+
+- Fire giants may have structured clergy    
+- Frost giants may embed religion in war leaders    
+- Cloud giants may ritualize divine favor    
+- Storm giants…   
+
+> “…may not need intermediaries at all.” — Norwin
 
 ---
 
-## VII. Halfling Folk Account (Annotated)
+## **Final Position**
 
-> “Halflings, uniquely, record encounters with giants as comedy.” — Norwin
+> “I will treat the hill giant shaman as an anomaly.”
+> “…until it stops being one.”
+
+# **III. Storm Giants (Apex Tier)**
+
+> “If giants have kings, they do not sit on thrones.” — Norwin
+
+---
+## **Nature**
+
+- Extremely intelligent    
+- Deeply introspective    
+- Emotionally restrained    
+- Vast sense of scale—temporal and physical    
 
 ---
 
-### The Limerick of Littleman and the Giant
+## **Organization & Numbers**
 
-_Collected from Teenkdiwar trade routes; repeated with alarming enthusiasm._
+- Solitary or small family groups (2–6)    
+- No confirmed large societies    
+- Population: **vanishingly rare**    
 
-> There once was a giant so wide,  
-> He blocked half a valley in stride,  
-> Ate sheep by the score,  
-> And still wanted more—  
-> A walking disaster with pride.
+---
+
+## **Domains**
+
+- Deep ocean shelves    
+- Storm coasts    
+- Remote islands    
+- High cliffs    
+
+---
+## **Behavior**
+
+- Territorial, but measured    
+- Capable of:    
+    - guidance        
+    - indifference        
+    - annihilation        
+
+> “They are benevolent in the way a storm is benevolent.” — Norwin
+
+---
+
+## **Magic Capability**
+
+- Storm shaping (massive scale)    
+- Lightning control    
+- Oceanic influence    
+- Possible precognitive awareness (unconfirmed)    
+
+---
+
+## **Interactions with Other Races**
+
+- Elves: occasionally engaged    
+- Humans: judged harshly    
+- Dwarves: irrelevant    
+- Halflings: unnoticed    
+
+---
+
+## **Source Irregularity — Marginal Note**
+
+> “Most sources are poetic or terrified.  
+> One was neither.” — Norwin
+
+---
+
+### **Recovered Fragment**
+
+> _“Lovely young woman. Red-haired. Likely a battlemage.”_  
+> _“Spoke with authority disproportionate to age.”_
+
+---
+
+> “They are not solitary because they lack company.  
+> They are solitary because nothing thinks at the same scale.”
+
+---
+
+> “You keep saying they control storms. That’s… imprecise.”
 > 
-> A halfling named Littleman bold,  
-> With pockets both clever and cold,  
-> Said “Friend, try this hen—  
-> It’s the best in the pen!”  
-> The giant agreed, being sold.
+> “They can call one, if they wish.”
 > 
-> The chicken was stringy and lean,  
-> The giant said, “Best I have seen!”  
-> “Then wait!” Littleman cried,  
-> “There’s more just outside!”  
-> And off to the pasture they careened.
+> "More often, they simply _know_ when one is coming.”
 > 
-> A sheep then was offered with flair,  
-> The giant devoured it bare,  
-> “But goats,” said the guide,  
-> “Are far finer fried—  
-> And they’re right on that cliff over there.”
+> “And they go to meet it.”
 > 
-> The giant leaned over to spy,  
-> “I’ll reach them,” he boasted, “just try!”  
-> He stretched out too far,  
-> Missed goats by a yard—  
-> And fell with a very long cry.
+> “Not to command it.”
 > 
-> So Littleman tipped off his cap,  
-> Said “Well, that concludes our mishap,”  
-> And wandered back home,  
-> While the hills ceased to roam—  
-> A neat and convenient collapse.
+> “To enjoy it.”
 
 ---
 
-### Norwin’s Commentary
+### **Norwin Commentary (Later Hand)**
 
-- Creature described: **Likely hill giant or ogre**
-- Behavioral accuracy: Moderate
-- Tactical lesson: Sound
+> “Either exceptionally well-read… or not relying on books.”
 
 ---
 
-### Norwin Footnote V
+## **Arkaelion — Tide-Lord of the Western Shelf**
 
-> “The halfling method of ‘survive by being underestimated’ remains irritatingly effective.”
+(See correlated account)
 
----
-
-## VIII. On Titans (Deep Myth Analysis)
-
-> “Titans are what scholars write when they run out of evidence and refuse to stop writing.” — Norwin
-
----
-
-### Claims
-
-- Larger than giants
-- Divine or semi-divine
-- Progenitors of giantkind
+- Intercepts ships during storms    
+- Displays preference for:    
+    - honesty        
+    - boldness        
+    - music        
 
 ---
 
-### Comparative Analysis
-
-No reliable overlap with:
-
-- Known giant physiology
-- Social structures
-- Regional patterns
+> “He spared us. I think he liked the song.”
 
 ---
 
-### Conclusion
+### **Norwin Addendum**
 
-Titans are:
-
-- Mythological
-- Symbolic
-- Likely exaggerations of real encounters
+> “The phrasing between accounts matches too closely.”
 
 ---
 
-### Norwin’s Final Position
+> “…this is not apocryphal.”
 
-> “Giants are real.  
-> Titans are what happens when no one survives to take proper notes.”
+---
+# **IV. Cloud Giants (High Noble Tier)**
+
+> “Cloud giants are what happens when power develops taste.” — Norwin
+
+---
+## **Nature**
+
+- Highly intelligent    
+- Aristocratic    
+- Obsessed with beauty, status, and permanence    
+---
+## **Organization & Numbers**
+
+- Noble courts    
+- Castle-based societies    
+- 10–50 giants per stronghold    
+- Population: **rare, but stable**    
 
 ---
 
-## IX. Regional Assessment
+## **The Floating Castles**
 
-### Wyrmlea
+### **Construction Model**
 
-- Hill giants: **Confirmed**
-- Threat level: Localized, persistent
+- Atmospheric anchoring    
+- Mass elevation    
+- Pressure stabilization    
+- Artisan refinement    
 
-### Durn Kalduhr
+---
+### **Labor Practices**
 
-- Giant sign: **Confirmed**
-- Type: Unknown (likely mixed)
-
-### Teenkdiwar
-
-- Reports: Reliable indicators
-- Interpretation: Requires filtering
+- Good-aligned:    
+    - hired artisans (dwarves preferred)        
+- Evil-aligned:    
+    - enslaved populations        
 
 ---
 
-## X. Final Assessment
+## **Magic Capability**
 
-Giants must be treated as:
+- Illusion (mass-scale)    
+- Levitation fields    
+- Weather shaping    
+- Surveillance from altitude   
 
-- **Independent peoples**
-- With distinct:
-    - Intelligence levels
-    - Cultures
-    - Threat profiles
+---
+## **Interactions**
+
+- Elves: near-peers    
+- Humans: servants or curiosities    
+- Dwarves: valued craftsmen    
+- Others: negligible    
+
+---
+## **Case Study — The Sky Lord**
+
+Refer to: [[Norwins Note the Sky Lord|Sky Lord Research]]
+
+---
+### **Summary**
+
+- Ancient cloud giant citadel    
+- Not constructed by modern means    
+- Not controlled—**retained via tribute**    
+
+---
+### **Key Insight**
+
+> “They did not tame him.  
+> They are feeding him.”
+
+---
+### **Norwin Conclusion**
+
+- Cloud giants are not assets    
+- They are **sovereign forces that sometimes accept employment**    
+
+---
+## **Addendum — “Cloud” Habitation & the Question of Permanent Seats**
+
+> “At this point I would like to formally request that elves stop describing structural engineering using weather metaphors.” — Norwin
 
 ---
 
+### **On “Living Upon Clouds”**
+
+Multiple elven and bardic sources insist that:
+
+> Cloud giants “dwell upon clouds themselves.”
+
+---
+
+### **Norwin’s Position**
+
+> “No, they do not.”
+
+---
+
+### **Expanded Analysis**
+
+Clouds are:
+
+- transient    
+- non-solid    
+- incapable of bearing meaningful weight    
+
+Therefore:
+
+- A literal interpretation is **physically impossible**    
+- A metaphorical interpretation is **likely being misapplied as fact**    
+
+---
+
+### **More Plausible Explanation**
+
+What observers are actually seeing:
+
+- **Levitation fields** extending beyond structures    
+- **Condensed atmospheric masses** bound by giant magic    
+- Visual effects produced by:    
+    - illusion        
+    - light diffusion        
+    - altitude distortion        
+
+---
+
+> “If something appears to be a palace resting on a cloud, the correct conclusion is not that the cloud is holding the palace.”
+> 
+> “It is that the observer does not understand what _is_ holding it.” — Norwin
+
+---
+
+### **Norwin Footnote**
+
+> “Elven sources consistently fail to distinguish between ‘looks like’ and ‘is.’  
+> This is not helpful.”
+
+---
+### **On Permanent Mountain Castles (Disputed but Persistent)**
+
+Separate from aerial citadels, there exist recurring claims that:
+
+> Some cloud giants establish **permanent, terrestrial strongholds**—  
+> typically carved into or atop mountains.
+
+---
+### **Current Evidence**
+
+- No confirmed intact structure exists    
+- No verified modern occupation    
+- No direct dwarven corroboration (notable absence)    
+
+---
+
+### **Primary Source**
+
+A long-form elven work—variously described as:
+
+- saga    
+- opera    
+- historical lament    
+- “cultural expression”    
+
+…originating in the **Twin Kingdoms**, describes:
+
+- a “sky-lord brought low”    
+- a **mountain carved into a palace of impossible proportion**    
+- terraces open to the air    
+- vast halls aligned with wind and sky    
+
+---
+### **Norwin’s Reaction to the Source**
+
+> “It is approximately nine hours long when performed.”
+
+> “Half of that time is devoted to describing light on stone.”
+
+> “Another third is spent on emotions the stone is allegedly experiencing.”
+
+---
+
+> “Somewhere within it, there may be a usable architectural reference.”
+
+---
+
+### **Extracted Elements (After Aggressive Filtering)**
+
+- Structure carved _into_ a peak, not built atop it    
+- Designed to:    
+    - channel wind        
+    - amplify sound        
+    - maintain line-of-sight to open sky        
+- Possible hybrid design:
+    
+    - terrestrial foundation        
+    - atmospheric interaction (ritual or magical)        
+
+---
+
+### **Archaeological Potential**
+
+If the account is even partially accurate:
+
+- Site may represent:    
+    - **grounded cloud giant architecture**        
+    - transitional form between:        
+        - terrestrial fortresses            
+        - aerial citadels            
+
+---
+
+> “If real, it would be the only known example of a cloud giant structure that did not rely entirely on altitude for defense.” — Norwin
+
+---
+### **Complication: Elven “Guidance”**
+
+The site’s location is:
+
+- “preserved in song”    
+- “known to those who remember”    
+- “not written down, for reasons of cultural reverence”    
+
+---
+### **Norwin’s Footnote (Heavily Indented, Clearly Added Later)**
+
+> “Translation: they know where it is and refuse to provide a map.”
+
+---
+
+> “Instead, one must be ‘guided’ by a ‘knowledgeable cultural intermediary.’”
+
+---
+
+> “This intermediary will then:”
+
+- recite poetry    
+- correct pronunciation    
+- refuse direct answers    
+- and insist the journey is ‘as important as the destination’    
+
+---
+
+> “I have no objection to the destination.”
+> 
+> “I object strongly to the journey.”
+
+---
+
+### **Final Assessment**
+
+- “Cloud habitation” is:    
+    - misinterpreted magical engineering        
+    - not literal cloud-walking        
+- Mountain castles:    
+    - plausible        
+    - unconfirmed        
+    - potentially significant        
+
+---
+
+### **Norwin’s Closing Note (Marginal)**
+
+> “If the ruins exist, I will find them.”
+
+> “If I must bring an elf, I will bring two.”
+
+> “One to speak, and one to contradict him.”
+---
+
+# **V. Fire Giants (Military Tier)**
+
+> “Order, scaled to cruelty.” — Norwin
+
+---
+## **Nature**
+
+- Militaristic    
+- Industrial    
+- Hierarchical    
+
+---
+## **Organization & Numbers**
+
+- Fortress-based societies    
+- Warbands: 20–200    
+- Population: **uncommon but concentrated**    
+
+---
+## **Capabilities**
+
+- Forge enchantment    
+- Structured warfare    
+- Engineering    
+
+---
+## **Interactions**
+
+- Dwarves: rivalry + respect    
+- Humans: enemies or slaves    
+- Elves: distrusted 
+
+---
+# **VI. Frost Giants (War Tier)**
+
+> “War that learned patience.” — Norwin
+
+---
+## **Nature**
+
+- Brutal but intelligent    
+- Honor-based   
+
+---
+## **Organization & Numbers**
+
+- Clan-based warbands    
+- 20–100 typical    
+- Population: **regional**    
+
+---
+## **Interactions**
+
+- Humans: primary enemies    
+- Dwarves: respected foes    
+- Elves: distrusted    
+
+---
+## **Regional Note**
+
+- Not native to Wyrmlea    
+- Any presence implies **external cause**    
+
+---
+# **VII. Stone Giants (Isolation Tier)**
+
+> “Something that stopped caring to explain itself.” — Norwin
+
+---
+## **Organization & Numbers**
+
+- Small enclaves: 10–30    
+- Population: **low, stable**    
+
+---
+## **Behavior**
+
+- Reclusive    
+- Observational    
+- Avoidant    
+
+---
+## **Interactions**
+
+- Mostly ignored    
+- Occasional dwarf contact    
+
+---
+# **VIII. Hill Giants (Baseline Tier)**
+
+> “Hunger. Walking.” — Norwin
+
+---
+## **Organization & Numbers**
+
+- Family clusters: 9–16    
+- Population: **most common giant type**    
+
+---
+## **Behavior**
+
+- Driven by hunger    
+- Crude tactics    
+- Persistent grudges    
+
+---
+## **Interactions**
+
+- All races = food or threat    
+---
+# **IX. Structural Observations**
+
+### **Power Hierarchy**
+
+1. Storm    
+2. Cloud    
+3. Fire    
+4. Frost    
+5. Stone    
+6. Hill    
+
+---
+### **Patterns**
+
+- Intelligence ↑ with power    
+- Organization ↑ with power    
+- Isolation ↑ at apex    
+
+---
+### **Ancient Decline Hypothesis**
+
+- Former:    
+    - widespread        
+    - organized        
+- Current:    
+    - fragmented        
+    - specialized        
+
+---
+### **Norwin Footnote II**
+
+> “This is not evolution.  
+> This is what remains.”
+
+---
+# **X. Final Assessment**
+
+Giants are:
+
+- Independent peoples    
+- Unpredictable forces    
+- Remnants of something older    
+
+---
+## **Norwin’s Closing Notes**
+
+> “If you find a hill giant, you have a problem.”
+
+> “If you find organized giants, you have a war.”
+
+> “If you see a castle where there should be sky—”
+
+> “…you are already in someone else’s world.”
+
+---
 ## XI. Norwin’s Closing Notes
 
 > “If you find a hill giant, you have a problem.  
@@ -369,7 +931,6 @@ Giants must be treated as:
 > you have found the real enemy.”
 
 ---
-
 ## XII. Marginal Addendum
 
 > “Also, if I hear one more elf refer to a storm giant as a ‘child of the weeping tide,’ I am going to start editing their archives with a hammer.”
