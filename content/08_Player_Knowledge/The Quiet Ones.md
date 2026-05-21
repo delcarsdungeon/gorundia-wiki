@@ -1,4 +1,5 @@
 # The Ones Beneath the Boughs
+![[A quiet one.png]]
 
 Among the grugach, they are not spoken of by a single name.
 
