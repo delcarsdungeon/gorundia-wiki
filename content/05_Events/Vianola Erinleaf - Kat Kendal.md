@@ -595,14 +595,6 @@ A faint, dry edge.
 
 > “A charitable distinction. I recommend earning it.”
 
-Then softer:
-
-> “Dame Katherine’s trust does not settle my concerns.”
-
-A pause.
-
-> “But it does require me to leave room for the possibility that she has seen a better part of you than I have.”
-
 Another pause.
 
 > “Do not make her wrong.”
@@ -618,3 +610,149 @@ Vianola’s voice lowers slightly.
 She folds her hands.
 
 > “They keep standing until everyone mistakes the standing for proof that no harm was done.”
+
+Vianola holds his gaze a moment longer than is comfortable.
+
+Then, unexpectedly, she inclines her head.
+
+Not a bow.
+
+Not quite.
+
+> “I should also thank you.”
+
+A pause.
+
+> “For allowing the conversation.”
+
+Another.
+
+> “And for not attempting to curate her answers before I heard them.”
+
+It is almost an apology.
+
+Almost.
+
+Vianola’s hands fold again, precise as closing a book.
+
+> “You should understand something, Sir Beringer. My caution is not personal.”
+
+A faint, dry correction follows at once.
+
+> “Not entirely personal.”
+
+She lets that sit.
+
+> “I have known good men. Brave men. Dutiful men. Men who loved their country, their friends, their gods, and their own idea of justice.”
+
+Her voice does not harden.
+
+That makes it worse.
+
+> “Many of them were not monsters when they began.”
+
+A pause.
+
+> “They merely became certain.”
+
+Another.
+
+> “Certain that the danger was too great. Certain that delay was weakness. Certain that those who questioned them did not understand the stakes.”
+
+A beat.
+
+> “Some of them saved lives.”
+
+Another.
+
+> “Some of them saved cities.”
+
+Then, quieter:
+
+> “And some of them became the reason other people needed saving.”
+
+She exhales once, controlled.
+
+> “So no, Sir Beringer. I do not think you are Wilhelm Vogel.”
+
+A pause.
+
+> “But I have seen men walk toward terrible things while telling themselves they were walking away from worse ones.”
+
+Another.
+
+> “That is the road I watch for.”
+
+A faint change passes over her expression.
+
+Not anger.
+
+Older than anger.
+
+> “But do not mistake me.”
+
+A pause.
+
+> “I have no admiration for the opposite failure.”
+
+Her mouth tightens slightly.
+
+> “I live in Duke Allaric’s duchy. I have seen what comes of patient hands folded too neatly in the lap.”
+
+Another pause.
+
+> “The slow rot. The gracious delay. The elegant committee. The beautifully worded postponement.”
+
+Her voice remains even.
+
+> “My own people have made an art of watching the house burn while debating the historical significance of flame.”
+
+A dry breath.
+
+> “It is very refined. Very old. Very expensive.”
+
+Her eyes return to him.
+
+> “So no, Sir Beringer. I am not asking you to become harmless.”
+
+A beat.
+
+> “Harmless men have done their share of damage.”
+
+Then, quieter:
+
+> “I am asking you to remain answerable while you act.”
+
+The edge leaves her voice, just slightly.
+
+> “Dame Katherine’s trust does not settle my concerns.”
+
+A pause.
+
+> “But it does require me to leave room for the possibility that she has seen a better part of you than I have.”
+
+Then, almost gently:
+
+> “I would be pleased to be wrong.”
+
+A faint, humorless flicker.
+
+> “Do not make that more difficult than it already is.”
+
+Only then do her eyes pause on Beringer’s ring.
+
+> “That was made quickly.”
+
+Beringer glances down.
+
+> “Norwin.”
+
+> “Obviously.”
+
+A pause.
+
+> “Tell him I have questions.”
+
+Another.
+
+> “No. Do not. I will have questions whether he is warned or not.”
