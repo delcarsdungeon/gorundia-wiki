@@ -1,5 +1,7 @@
 ## The Candle Line of Blackbriar
 
+![[Candle Line.png]]
+
 Along the yellow hills east and southeast of Griefwatch runs a chain of small forts known formally as **the Blackbriar Thornline Watch**. No one calls it that unless they are writing orders, receiving funding, or trying to sound important in front of a duke.
 
 The soldiers call it **the Candle Line**.
