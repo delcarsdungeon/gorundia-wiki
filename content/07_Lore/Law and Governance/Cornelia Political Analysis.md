@@ -165,8 +165,8 @@ Now that she holds power of her own, what does **Cornelia Bordella** intend to d
 ## Related Events
 
 - [[Attack on Castle Stormarrow]]
-- [[Diplomacy by Other Means]]
-- [[Interrogation of Cornelia Bordella]]
+- [[020 Diplomacy by Other Means]]
+- [[030 Interrogation of Cornelia Bordella]]
 - [[Judgment and Execution of Ponzio Bordella]]
 - [[After the Execution]]
 ## Related Characters

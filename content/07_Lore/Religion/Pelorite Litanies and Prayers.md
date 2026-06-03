@@ -1,13 +1,3 @@
-  
----
-type: scene
-date:
-location:
-participants:
-arc:
-
----
-
 > [!important] PLAYER AID — DOCTRINES OF THE UN SHADOWED DAWN
 > _Common teachings, prayers, and rites of the faithful of Pelor._
 

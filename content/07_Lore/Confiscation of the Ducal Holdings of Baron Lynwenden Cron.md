@@ -17,7 +17,7 @@ tags:
 - crown-decree
 - confiscation
 - ducal-politics
-- grevendar
+- gravendar
 ---
 
 # Confiscation of the Ducal Holdings of Baron Lynwenden Cron
@@ -45,7 +45,7 @@ Current status:
 
 • Quarry workers remain employed under temporary crown supervision.  
 • Stone shipments continue uninterrupted.  
-• Revenue now flows to the **Grevendar ducal treasury**.
+• Revenue now flows to the **Gravendar ducal treasury**.
 
 Estimated annual value:  
 **≈2,000 copper net**
@@ -96,7 +96,7 @@ The Crown has suspended the license pending ducal reassignment.
 
 Disposition:
 
-• Timber rights returned to the **Grevendar forestry office**.  
+• Timber rights returned to the **Gravendar forestry office**.  
 • Noble hunting privileges revoked.
 
 Estimated annual value:  

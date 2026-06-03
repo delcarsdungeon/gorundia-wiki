@@ -56,7 +56,7 @@
 >
 > Then the north doors explode inward.
 >
-> [[Cwenheld the Venerated Shield of Heironeous]] enters like a thunderbolt.
+> [[Cwenheld]] the Venerated Shield of Heironeous enters like a thunderbolt.
 >
 > Armor scorched. Blade blazing with holy fire.
 >

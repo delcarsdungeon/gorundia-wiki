@@ -26,6 +26,8 @@ tags:
   - blackvale
 related:
   - [[Pelor]]
+  - [[The Triad Churches - Ranks and Offices]]
+  - [[Church of the Triad in Gorundia]]
   - [[Druuna Sunseeker]]
   - [[Lyosha Ohotnik]]
   - [[Porthos Ryomar]]
@@ -57,14 +59,14 @@ related:
 
 ## Basic Information
 
-Born: Unknown, likely late 1180s or early 1190s OR[br]
-House: None of note[br]
-Faith: [[Pelor]][br]
-Order: Third Radiant Inquiry[br]
-Formal Title: Dawn Marshal of the Third Radiant Inquiry[br]
-Offices: Warden of False Flame; Keeper of the Black Threshold[br]
-Status: Active[br]
-Current Role: Pelorite paladin, religious examiner, royal witness, and field operative in the Blackvale campaign[br]
+**Born:** Unknown, likely late 1180s or early 1190s OR  
+**House:** None of note  
+**Faith:** [[Pelor]]  
+**Order:** Third Radiant Inquiry  
+**Formal Title:** Dawn Marshal of the Third Radiant Inquiry  
+**Offices:** Warden of False Flame; Keeper of the Black Threshold  
+**Status:** Active  
+**Current Role:** Pelorite paladin, religious examiner, royal witness, and field operative in the Blackvale campaign
 
 ---
 
@@ -98,6 +100,8 @@ He does not concern himself with comfort.
 
 Only with truth.
 
+Which is inconvenient, because comfort is usually what everyone was hoping for.
+
 ---
 
 ## Titles and Offices
@@ -128,7 +132,9 @@ It is the hand that opens locked shrine doors after midnight.
 
 It is the order that asks why the local saint never casts a shadow.
 
-It is the voice that says: “Again. This time, tell the truth.”
+It is the voice that says:
+
+> “Again. This time, tell the truth.”
 
 ### Warden of False Flame
 
@@ -227,7 +233,7 @@ He does not confuse compassion with permissiveness, and he has little patience f
 
 He is not cruel.
 
-Nor is he kind.
+Nor is he warm.
 
 He is **precise**.
 
@@ -323,7 +329,7 @@ Though Solgard did not confront [[Lyosha Ohotnik]] directly, he examined the man
 
 His conclusion was recorded simply:
 
-[[Lyosha Ohotnik]] stands within doctrine.
+**[[Lyosha Ohotnik]] stands within doctrine.**
 
 No hidden corruption.
 
@@ -442,7 +448,7 @@ Thranduil likely respects him more because of that.
 
 Solgard’s private assessment is simple:
 
-Thranduil is dangerous, truthful, and insufficiently troubled by locked doors.
+**Thranduil is dangerous, truthful, and insufficiently troubled by locked doors.**
 
 That places him above many nobles.
 
@@ -482,6 +488,82 @@ And he absolutely watches where her hands are.
 
 ---
 
+## Relationship with Riven Halcyre
+
+Solgard respects [[Riven Halcyre]].
+
+He hates needing him.
+
+Riven Halcyre, called **the Veilhand**, is the stealth half-elf wizard attached to the Blackvale team: quiet, precise, controlled, and nearly impossible to read. He is a royal operative of the Ninth Seal, built for magic, secrecy, and political work too delicate to survive ordinary knightly methods.
+
+His magic is subtle by design: invisibility, silence, sound and light manipulation, blur, haste, apportation, lock-work, anti-detection, and quiet extraction. The kind of spellwork that makes a locked door feel embarrassed for having tried.
+
+To Solgard, Riven is unsettling because he is not merely stealthy.
+
+He is disciplined.
+
+That matters.
+
+A criminal hides because he fears consequence.  
+A coward hides because he fears danger.  
+Riven hides because the mission requires the world to remain unaware it has already been handled.
+
+Solgard can respect that.
+
+He still dislikes it.
+
+Riven can stand in a shadow and make the shadow feel overdressed. He can cross a room without disturbing the dust, speak softly enough that even guilt has to lean in, and vanish from notice with the calm efficiency of a man who has never once needed armor to feel dangerous.
+
+Solgard understands why the Crown uses him.
+
+He understands why [[Thranduil Stormarrow]] works well with him.
+
+He understands why [[Aylassa]] does not appear bothered by him.
+
+That does not make standing beside him any more comfortable.
+
+Privately, Solgard finds Riven’s methods too close to the edge of things he is sworn to examine: concealment, manipulation, silence, hidden movement, unseen hands.
+
+But Riven is not false flame.
+
+He is not corruption wearing virtue.
+
+He is a blade kept under a cloak because open steel would ruin the work.
+
+Solgard respects the skill.
+
+He hates needing it.
+
+And he especially hates that Riven probably weighs less than Solgard’s shield and is still better suited to half the dangers of Castle Blackvale.
+
+---
+
+## Private Insecurity
+
+Solgard’s hidden flaw is not fear.
+
+It is displacement.
+
+He is used to walking into darkness as judgment made flesh. He is used to being the thing that evil sees when the door opens and the lies stop working.
+
+But Blackvale requires silence, patience, infiltration, and trust in people whose methods sit outside his natural instincts.
+
+He feels too loud.
+
+Too heavy.
+
+Too obvious.
+
+Too slow.
+
+He will never say this.
+
+If pressed, he will frame it as tactical concern.
+
+But privately, he is aware that he is operating in a world where [[Thranduil Stormarrow]], [[Aylassa]], and the half-elf wizard are scalpels — and he is a consecrated warhammer wrapped in white cloth and told to “be subtle.”
+
+---
+
 ## Religious Philosophy
 
 Solgard’s faith is Pelorite to the bone, but it is Pelor as dawn after a massacre, not Pelor as noon in a wheat field.
@@ -506,7 +588,7 @@ Then atrocity with a holy name.
 
 Solgard’s role is to stand at that threshold and say:
 
-No farther.
+**No farther.**
 
 ---
 
@@ -598,7 +680,7 @@ No one moves.
 
 No one breathes.
 
-After three long seconds, Aylassa turns her head just enough to look at him.
+After three long seconds, [[Aylassa]] turns her head just enough to look at him.
 
 Solgard says nothing.
 
@@ -643,38 +725,20 @@ That is too small.
 
 He is the man who can look at a miracle, a heresy, a prince, a street preacher, or a righteous atrocity and ask the same question:
 
-Is this true?
+**Is this true?**
 
 And then everyone gets very quiet.
-
----
-
-## Reconciliation Notes
-
-This page combines two prior Mathren Solgard drafts.
-
-The older draft focused on his appearance at the [[Blood and Sand]], his inquiry into [[Druuna Sunseeker]], his indirect assessment of [[Lyosha Ohotnik]], and his general reputation as a truth-testing Pelorite authority.
-
-The later draft expanded his formal offices, clarified the meaning of the Black Threshold, added his mentor’s fall, made his witness role in [[Porthos Ryomar]]’s paladin oath explicit, and placed him in the current [[Castle Blackvale]] operation.
-
-No major contradictions were found.
-
-Minor metadata differences were reconciled as follows:
-
-- `category: clergy` was retained because it is more specific than `npc`.
-- `status: canon-active` was used to preserve both “canon” and “active.”
-- The later, fuller title list was retained.
-- The Blackvale material was retained as current campaign status.
-- Both Sorek quotes were retained because they are complementary rather than conflicting.
 
 ---
 
 ## Backlinks
 
 - [[Pelor]]
-- [[Druuna Sunseeker]]
-- [[Lyosha Ohotnik]]
+- [[The Triad Churches - Ranks and Offices]]
+- [[Church of the Triad in Gorundia]]
 - [[Porthos Ryomar]]
+- [[Lyosha Ohotnik]]
+- [[Druuna Sunseeker]]
 - [[The Dregs]]
 - [[Blood and Sand]]
 - [[Thranduil Stormarrow]]
