@@ -1,5 +1,5 @@
 ---
-title: Zorin
+title: Zorin Host
 aliases: Bogdan Ilyich Zorin, The Ataman
 type: npc
 category: frontier lord
@@ -18,7 +18,9 @@ related:
 - Orin Kharne
 ---
 > [!quote] “You don’t command men like this.  You give them a reason to ride with you. Or you watch them ride somewhere else.” - Sorek Redmarch
-# Zorin
+# The Zorin Host
+
+## Zorin
 
 ![[Halfblood Khan.png|340]]
 
@@ -106,7 +108,7 @@ He simply stands where he wishes to stand.
 
 ---
 
-### Mishka Gorunovich
+### Borcha Gorunovich
 
 Gorun’s son.
 
