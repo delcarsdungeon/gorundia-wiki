@@ -7,54 +7,62 @@ The realm is organized through a traditional feudal hierarchy.
 Each territorial title links to the land itself, while each house link points to the family that currently holds it.
 
 ---
-# [[Duchy of Grevandar]] — [[House Vogel]]
+# [[Duchy Gravendar|Duchy of Gravendar]] — [[House Vogel]]
 
-## [[County of Blackvale]] — [[House Bordella]]
+## [[County Blackvale|County of Blackvale]] — [[House Sylvanranth]]
 
-- [[Barony of Ironmere]] — [[House Moffet]]
-- [[Barony of Thunderhold]] — [[House Cron]]
-## [[County of Wyrmlea]] — [[House Vallytrex]]
+Deposed: [[House Bordella]]
 
-- [[Barony of Sunhollow]] — [[House Terevon]]
-- [[Barony of Southmere]] — [[House Kendal]]
+- [[Barony Ironmere|Barony of Ironmere]] — [[House Moffet]]
+- [[Barony Thunderhold|Barony of Thunderhold]] — [[House Valmere]]
+  Deposed: [[House Cron]]
+## [[County Wyrmlea|County of Wyrmlea]] — [[House Vallytrex]]
 
----
-# [[Duchy of Araisal]] — [[House Allaric]]
-
-## [[County of Blackbriar]] — [[House Amadis]]
-
-- [[Barony of Drakemoor]] — [[House Draal]]
-- [[Barony of Ashwyn]] — [[House Helbron]]
-## [[County of Veymont]] — [[House Serrin]]
-
-- [[Barony of Darkstone]] — [[House DeSalle]]
-- [[Barony of Fenwyck]] — [[House Veymar]]
+- [[Barony Sunhollow|Barony of Sunhollow]] — [[House Terevon]]
+- [[Barony Southmere|Barony of Southmere]] — [[House Kendal]]
 
 ---
-# [[Duchy of Ravenster]] — [[House Ryomar]]
+# [[Duchy Arasail|Duchy of Arasail]] — [[House Allaric]]
 
-## [[County of Thalwynd]] — [[House Krynvel]]
+## [[County Blackbriar|County of Blackbriar]] — [[House Amadis]]
 
-- [[Barony of Rystwell]] — [[House Vorthal]]
-- [[Barony of Eryndale]] — [[House Fenrow]]
-## [[County of Gilton]] — [[House Vinthel]]
+- [[Barony Drakemoor|Barony of Drakemoor]] — [[House Draal]]
+- [[Barony Ashwyn|Barony of Ashwyn]] — [[House Helbron]]
+## [[County Veymont|County of Veymont]] — [[House Serrin]]
 
-- [[Barony of Myndar]] — [[House Faymar]]
-- [[Barony of Estrelan]] — [[House Vorst]]
-
----
-# [[Duchy of Royonad]] — [[House Orenic]]
-
-## [[County of Mallov]] — [[House Orenic]]
-
-- [[Barony of Zalvod]] — [[House Drakovic]]
-- [[Barony of Vorochev]] — [[House Vorokov]]
-## [[County of Velnyar]] — [[House Allarson]]
-
-- [[Barony of Kryvanov]] — [[House Kryvanov]]
-- [[Barony of Drosnik]] — [[House Vasilov]]
+- [[Barony Darkstone]] — [[House DeSalle]]
+- [[Barony Fenwyck]] — [[House Veymar]]
 
 ---
+# [[Duchy Ravenster]] — [[House Ryomar]]
+
+## [[County Thalwynd]] — [[House Krynvel]]
+
+- [[Barony Rystwell]] — [[House Vorthal]]
+- [[Barony Eryndale]] — [[House Fenrow]]
+## [[County Gilton]] — [[House Vinthel]]
+
+- [[Barony Myndar]] — [[House Faymar]]
+- [[Barony Estrelan]] — [[House Vorst]]
+
+---
+# [[Duchy Royonad]] — [[House Orenic]]
+
+## [[County Mallov]] — [[House Orenic]]
+
+- [[Barony Zalvod]] — [[House Drakovic]]
+- [[Barony Vorochev]] — [[House Vorokov]]
+## [[County Velnyar]] — [[House Allarson]]
+
+- [[Barony Kryvanov]] — [[House Kryvanov]]
+- [[Barony Drosnik]] — [[House Vasilov]]
+
+---
+
+## Minor Noble Houses
+
+[[House Durathen]]
+
 # Merchant Houses
 
 [[House Galibano]]
