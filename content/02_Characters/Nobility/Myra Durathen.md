@@ -234,7 +234,7 @@ It gave Myra ammunition.
 
 Mara, unfortunately, is too proud to let pain become humility.
 
-![[Myran and Mara post ride.png|480]]
+![[Myran and Mara post ride 1.png|480]]
 ## Skills and Strengths
 
 ### Administration
