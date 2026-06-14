@@ -57,6 +57,13 @@ related:
   - [[Lantern Report - Maurakappi Larva]]
   - [[Monastery of the Celestial Veil]]
   - [[Blood and Sand]]
+  - [[Elderbrook]]
+  - [[Slate]]
+  - [[The Caervane Reckoning]]
+  - [[Rowena Caervane]]
+  - [[Jeddal Crawn]]  
+  - [[Fuckface]]  
+  - [[The Weight of It]]
 ---
 
 # Blue Sylvanranth
@@ -105,7 +112,7 @@ She is preserved, contained, and waiting beneath holy ground.
 
 Blue is tall, muscular, and strikingly beautiful in a way that makes polite society uncomfortable.
 
-She has a warm caramel complexion, visible tusks, large blue eyes, and short auburn hair. Earlier in life her hair was longer, but after her first real battlefield killings, [[Venom]] cut it short in a private act of comfort and recognition.
+She has a warm caramel complexion, visible tusks, large blue eyes, and short auburn hair.  When she was revealed as a Lady of House Sylvanranth, and became squire to [[Orin|Baron Orin Kharne]], she had grown it out.  After her first real battlefield killings, [[Venom]] cut it short in a private act of comfort and recognition, trying to let her regain herself.
 
 Blue’s body reads as strong and healthy, but her expression often gives away more than she wants. She can look open, hopeful, and eager one moment, then wounded or furious the next.
 
@@ -136,6 +143,26 @@ Even at her most fogged, Blue had a surprising instinct for accounts, tallies, m
 She became useful in tavern bookkeeping and learned the quiet competence of someone who could keep a busy room fed, paid, and moving while the wider world kept talking over her head.
 
 [[Poppy Underhill]] helped refine those talents and gave Blue confidence in the one kind of thinking that always seemed to come easily.
+
+Blue did not simply arrive at the [[Blood and Sand]] by accident.
+
+[[Kursk]] brought her there himself, disguised under the name **Slate**.
+
+Under that false name, he entered Wonderful’s life carefully. He was useful, attentive, and dangerous in ways that did not yet show their teeth. For a time, he even wooed [[Wonderful]], giving himself a place near the woman who would raise Blue and a chance to study the shape of the life he was leaving behind.
+
+Wonderful did not know who he truly was.
+
+Blue did not understand what he was doing.
+
+Kursk left Blue in the tavern as something planted rather than abandoned: a child who would be loved, hidden, protected, and underestimated while the old larval influence and dream-contact did their slow work.
+
+After that, he withdrew to the forest to lay the roots of the power he would later wear openly as warlord.
+
+The tavern gave Blue warmth, practical skill, and a love of dancing.
+
+It also hid the truth.
+
+She was being shaped by something living inside her, and by someone who had already chosen where to place her.
 
 ## The Maurakappi Larva
 
@@ -183,6 +210,20 @@ The lingering pheromone residue did not create the murder command by itself. It 
 
 Kursk built the rest.
 
+Vionola’s darker suspicion is that Kursk was not improvising.
+
+He was repeating a system.
+
+Kursk appears to have been a Dominion-trained Black Cradle asset, conditioned from childhood by the Secret Chancery for deniable field work. If true, then the methods used on Blue were not simply Kursk’s personal invention. They were a renegade adaptation of Dominion practice.
+
+That does not make the Dominion directly responsible for every choice Kursk made.
+
+It makes them responsible for teaching him how.
+
+This is why Vionola treats the case as more than one girl’s tragedy.
+
+Blue may be evidence of a Dominion method turned inward, altered by a rogue asset, and aimed through Sylvanranth blood.
+
 Through dreamwalking, repeated contact, and emotional grooming, [[Kursk]] layered meaning into Blue’s mind over years. He cultivated grievance, sharpened racial shame, exploited romantic injury, and turned Theron into the center of every wound Blue could not resolve.
 
 In Vionola’s phrasing, the residue was not the command.
@@ -202,6 +243,20 @@ Kursk linked:
 - violence with clarity
 - hesitation with weakness
 - Kursk’s voice with truth
+
+Kursk also had one more advantage: the Marvelous story was already corrupt before he touched it.
+
+Marvelous had used Kursk to reach Theron, concealed the truth of Blue’s parentage, and later tried to convince Kursk that Blue was his. Kursk then placed Blue with Wonderful under the false name Slate, establishing the environment where Blue would be protected, underestimated, and quietly reachable.
+
+That gave Kursk a grievance with roots.
+
+He could present himself as betrayed lover, stolen father, and rightful claimant, even where the facts did not support him cleanly.
+
+This made the conditioning stronger.
+
+A clean lie can be disproved.
+
+A corrupted truth keeps bleeding.
 
 By the time Blue struck, the command did not feel like foreign control.
 
@@ -240,6 +295,38 @@ Whether Blue’s feelings were real is not.
 
 The cruel part is that both truths may sit beside each other.
 
+## Jeddal Crawn
+
+[[Jeddal Crawn]] was one of the earliest examples of Blue being placed in danger by people who thought they were arranging her future.
+
+[[Wonderful]] introduced Blue to Jeddal as a possible match: a half-elf with polished boots, Merchant’s Guild connections, and enough surface respectability to look like escape from tavern life. Wonderful did not want Blue ending up with some “half-blood bar hound,” which was exactly the sort of class anxiety adults dress up as wisdom when they have run out of better ideas.
+
+Blue later described the incident to [[Katherine Kendal]] as an arranged marriage.
+
+Sort of.
+
+Jeddal gave Blue a sweet cordial.
+
+She woke in a strange bedroom, dressed in a sheer nightgown she remembered mostly as useless for sleeping. His second-in-command, called [[Fuckface]], frightened her badly enough that even Blue’s usual cheer could not make the memory harmless.
+
+At the time, Blue did not fully understand what had almost happened.
+
+Later, she did.
+
+The party stormed the Merchant’s Guild for another reason entirely: a giant mole beneath the guildhouse. Jeddal and Fuckface died because they were in the way, not because anyone yet understood what Blue had been spared.
+
+That accident saved her.
+
+Blue survived because rescue arrived before Jeddal could finish proving what kind of man he was.
+
+When Blue told the story later, she tried to make it funny. Bad nightgown. Shiny boots. Ugly brute. Everything worked out.
+
+Kat understood enough to be horrified.
+
+Beringer later confirmed the truth plainly: no one gives a girl that kind of draught if they mean her well.
+
+Blue’s ability to laugh about it should not be mistaken for innocence, recovery, or lack of harm. It was one of her survival habits: make the awful thing silly enough that other people stop looking wounded on her behalf.
+
 ## Bertram and Cornelia
 
 Blue’s involvement with [[Bertram Moffet]] happened during his separation from [[Cornelia Bordella]]. It became a source of shame, confusion, longing, and lasting injury.
@@ -266,13 +353,53 @@ Kursk exploited that wound.
 
 Blue’s affection for Wonderful remains deep, but the relationship is tangled with everything Wonderful did not know, everything she tried to manage, and everything she could not protect Blue from.
 
+The [[Jeddal Crawn]] incident is the ugliest proof of that mistake.
+
+Wonderful thought she was steering Blue toward respectability. Instead, she handed her toward a predator with guild connections, polished manners, and a drugged cordial.
+
+Wonderful did not intend the harm.
+
+That does not erase it.
+
+It makes the wound harder to speak of, because love and failure share the same chair.
+
 ## Kursk
 
 [[Kursk]] claimed Blue.
 
 That claim was a lie, a grooming mechanism, and a weapon.
 
-Through dreamwalking and larval influence, Kursk spoke to Blue as if he were the one who understood her. He fed her bitterness, taught her to distrust “flat-teeth,” and offered simple explanations for complicated pain.
+Kursk was once [[Theron Sylvanranth]]’s agent and right hand, close enough to understand Theron’s habits, wounds, methods, and blind spots. He was not always the distant forest warlord Blue later knew through dreams. Before that, he had served near the heart of Sylvanranth power.
+
+Kursk was not merely a rogue half-orc warlord with a talent for dreams.
+
+He was Dominion-trained.
+
+More specifically, he appears to have been one of the Secret Chancery’s **Black Cradle** assets: children conditioned from early life for loyalty, deception, endurance, and deniable field work. Officially, such operatives would have belonged to the Chancery’s Field Cadres. Unofficially, they were children taught to mistake obedience for identity.
+
+Kursk survived that making.
+
+He did not forgive it.
+
+At some point, he broke from Dominion control and struck out on his own path. Whether he escaped, defected, or simply exceeded his mandate is still unclear. What is clear is that he did not abandon the methods that shaped him.
+
+He improved them.
+
+The same techniques used on Kursk became part of what he later did to Blue: isolation by love, identity erosion, false memory, dream-contact, grievance cultivation, and the careful placement of a child where no one would recognize the design until it had already taken root.
+
+After [[Elderbrook]], Kursk took [[Marvelous]] away and later brought young Blue to [[Wonderful]] under the false name **Slate**.
+
+As Slate, he disguised himself, insinuated himself into Wonderful’s orbit, and even wooed her for a time. Whether this began as affection, manipulation, cover, or some mixture of all three is difficult to separate. With Kursk, motives rarely travel alone.
+
+What matters is that he did not merely leave Blue somewhere safe.
+
+He placed her with care.
+
+Wonderful’s tavern gave Blue protection, affection, food, music, work, and anonymity. It also gave Kursk a perfect nursery for a hidden instrument: a child loved enough to be guarded, strange enough to be excused, and underestimated enough that few would look closely.
+
+After leaving Blue there, Kursk withdrew to the forest to lay the roots of the power he would later claim openly.
+
+Through dreamwalking and larval influence, he continued to speak to Blue as if he were the one who understood her. He fed her bitterness, taught her to distrust “flat-teeth,” and offered simple explanations for complicated pain.
 
 He told her she was unwanted.
 
@@ -283,6 +410,88 @@ He told her obedience was strength.
 Some of what he said touched real wounds, which made the lies more dangerous.
 
 Blue’s journal shows the progression clearly: grief becomes ideology, hurt becomes obedience, and loneliness becomes a door someone else can open.
+
+His later claim on Blue was not merely paternal.
+
+Kursk wanted Blue as a bride.
+
+In his own mind, Marvelous had been taken from him: first by Theron’s rank and power, then by the lies, fires, and losses that followed. Blue became the replacement shape for that grievance, a living answer to what he believed had been stolen.
+
+That makes his grooming of Blue even more grotesque.
+
+He did not only claim to be father, rescuer, or rightful lord.
+
+He claimed the right to possess her.
+
+## Elderbrook and Marvelous
+
+The truth of [[Marvelous]] is uglier than the story Blue was given.
+
+[[Kursk]] was once [[Theron Sylvanranth]]’s agent and right hand. He was not yet some distant forest warlord. He had proximity, trust, and usefulness.
+
+Both Theron and Kursk pursued Marvelous.
+
+Marvelous understood this and used it.
+
+She was beautiful, clever, ambitious, and far less innocent than the later stories made her. When she realized Theron was attracted to her, powerful, and rich, she used Kursk as a way to reach him. Kursk was not simply a rival lover. He was a door she opened because it led toward Sylvanranth power.
+
+Marvelous became pregnant and used potions to make the pregnancy viable and hold it. Whether this was desperation, calculation, or both remains unclear.
+
+Blue was the result.
+
+During the fires of [[Elderbrook]], Theron believed Marvelous died.
+
+She did not.
+
+Kursk took her away.
+
+Afterward, Marvelous tried to convince Kursk that Blue was his child.
+
+That lie mattered.
+
+It gave Kursk a claim he wanted to believe, a grievance he could sharpen, and a way to fold Blue into his own story. Whether Kursk truly believed Marvelous, chose to believe her, or simply used the possibility as a weapon is still uncertain.
+
+Kursk later brought young Blue to [[Wonderful]] under the name **Slate**, concealing himself while placing Blue in the life that would raise her. For a time, he even wooed Wonderful, drawing close enough to understand the tavern, its rhythms, and the woman he was choosing as Blue’s protector.
+
+Then he left.
+
+Not as a man abandoning a child at a bar.
+
+As a man planting roots in two soils at once: Blue in Wonderful’s care, himself in the forest.
+
+What is clear is worse:
+
+Blue’s life began inside a triangle of desire, ambition, deception, and power.
+
+Kursk did not invent every lie.
+
+He inherited some.
+
+Then he made them useful.
+
+## The Shadow of the Caervane Reckoning
+
+The shadow of [[The Caervane Reckoning]] hangs over Elderbrook.
+
+Theron had already lived through one great betrayal: the assassination of [[Rowena Caervane]], an attack meant for him that killed the woman he loved. His answer was not rage in the street, but methodical annihilation. He traced every layer of the conspiracy and removed the people who made it possible.
+
+That history matters.
+
+When [[Kursk]], once Theron’s agent and right hand, became entangled with [[Marvelous]], the wound was not merely romantic. To Theron, it carried the shape of an older horror: trusted access turned into betrayal, hidden loyalties inside his own structure, and a woman he wanted placed beyond his control.
+
+Elderbrook was not the Caervane Reckoning repeated exactly.
+
+It was the lesson of that reckoning applied faster, colder, and with less patience.
+
+Theron had once spent years dismantling a conspiracy piece by piece.
+
+At Elderbrook, he burned the problem before it could finish becoming one.
+
+Kursk survived that lesson.
+
+Then he turned it back on Theron.
+
+Blue was not only Kursk’s weapon against Theron’s body. She was Kursk using Theron’s own worldview against him: hidden influence, patient preparation, emotional leverage, and a final strike from inside the household wound.
 
 ## Theron Sylvanranth
 
@@ -296,11 +505,33 @@ She also feared him.
 
 He treated her as daughter, heir, experiment, legacy, and problem. Those categories were never cleanly separated.
 
-The worst wound came from the truth about [[Marvelous]]. Blue believed her mother had left, run back to the forest, or chosen Kursk.
+The worst wound came from the truth, half-truth, and poison surrounding [[Marvelous]].
 
-Then she learned, or was made to believe, that Theron had burned her mother and lied about it.
+Blue believed different versions at different times: that her mother had left, that she had run back to the forest, that she had chosen Kursk, or that Theron had burned her at [[Elderbrook]] and lied about it.
 
-Whether filtered through Kursk’s voice, memory, manipulation, or fact, the revelation shattered Blue.
+The deeper truth is worse and less clean.
+
+Theron believed Marvelous died in the fires of Elderbrook. Kursk took her away. Marvelous herself had already used both men’s desire for her, then later tried to convince Kursk that Blue was his child.
+
+Kursk shaped all of that into a weapon.
+
+He did not need the truth to be simple.
+
+He only needed Blue to feel betrayed.
+
+The worst wound came from the truth, half-truth, and poison surrounding [[Marvelous]].
+
+Blue believed different versions at different times: that her mother had left, that she had run back to the forest, that she had chosen Kursk, or that Theron had burned her at [[Elderbrook]] and lied about it.
+
+The deeper truth is worse and less clean.
+
+Theron believed Marvelous died in the fires of Elderbrook. Kursk took her away. Marvelous herself had already used both men’s desire for her, then later tried to convince Kursk that Blue was his child.
+
+Kursk shaped all of that into a weapon.
+
+He did not need the truth to be simple.
+
+He only needed Blue to feel betrayed.
 
 Blue killed Theron.
 
@@ -384,6 +615,18 @@ The closing statement in Blue’s recovered journal makes clear how deeply Kat b
 
 That guilt should remain in play.
 
+The Jeddal Crawn story became one of the moments that changed how Kat understood Blue.
+
+Blue told it like a joke at first: a silly arranged marriage, a strange bedroom, a useless nightgown, a man with shiny boots, and another man so ugly his name almost sounded merciful.
+
+Kat heard what Blue had not known how to name.
+
+Afterward, Kat asked [[Beringer|Beringer]] what had really happened. His answer confirmed her fear: Blue had been drugged, isolated, and nearly lost to men who meant her no kindness.
+
+From that point on, Kat’s protectiveness was not just friendship.
+
+It was recognition.
+
 ## Dana Sylvanranth
 
 [[Dana Sylvanranth]] is Blue’s half-sister.
@@ -395,6 +638,14 @@ That may be Dana’s version of love.
 Or at least of not letting family die stupidly.
 
 Given House Sylvanranth, that is practically a lullaby.
+
+Dana also overheard enough of the truth about the Jeddal Crawn incident to understand what Beringer had done by naming it clearly for Kat.
+
+She did not thank him with words.
+
+Dana rarely spends those when a gesture will do.
+
+A brief hand on Beringer’s shoulder said enough.
 
 ## Other Important Relationships
 
@@ -408,6 +659,15 @@ Beringer also helped her after her first battlefield killings, sitting with her 
 
 That quiet mattered.
 
+Beringer also knew the truth of the [[Jeddal Crawn]] incident.
+
+When Kat asked him what had happened, he did not soften it into tavern gossip or a misunderstanding. He told her plainly that Blue had been drugged and held by men with vile intentions, and that rescue came only because the party happened to be there for another threat.
+
+He also gave Kat the important command:
+
+> Do not let her think it was her fault.
+
+That mattered.
 ### Venom
 
 [[Venom]] became one of Blue’s gentler anchors.
@@ -534,6 +794,8 @@ Blue currently serves as:
 - a possible witness against Kursk, Vogel, and the systems that shaped her
 - a magically entombed prisoner on the grounds of the [[Monastery of the Celestial Veil]]
 - a living question: how much guilt belongs to a weapon made from a child?
+- a survivor of Jeddal Crawn’s attempted exploitation
+- the object of Kursk’s replacement-bride obsession
 
 ## Hooks and Plot Threads
 
@@ -561,6 +823,14 @@ Sorek loved Blue like a daughter and lost Theron through her hand. That contradi
 
 Kursk’s dream-claim over Blue may not be finished, especially if remnants of the larval link remain.
 
+### Slate
+
+Kursk once entered Wonderful’s life under the false name **Slate**.
+
+As Slate, he brought Blue to the [[Blood and Sand]], wooed Wonderful for a time, and studied the household that would become Blue’s refuge. If anyone remembers Slate clearly, they may hold pieces of the story Wonderful never knew she was living.
+
+The disguise also means Blue’s early life was never as separate from Kursk as it appeared.
+
 ### Lucky / Verdict
 
 The dog is a rescue hook, an emotional lever, and possibly the only creature in this mess without an agenda.
@@ -569,6 +839,16 @@ The dog is a rescue hook, an emotional lever, and possibly the only creature in 
 
 Blue is recognized as Sylvanranth heir. Whether anyone can tolerate that after Theron’s death is a political problem with teeth.
 
+### Marvelous
+
+Blue’s memories and beliefs about [[Marvelous]] are tangled with Kursk’s manipulation, Theron’s misunderstanding, and Marvelous’s own choices.
+
+Marvelous was not simply a lost innocent. She used Kursk to reach Theron, pursued power through attraction and opportunity, used potions to secure the pregnancy, and later tried to convince Kursk that Blue was his.
+
+This does not excuse what was done to her.
+
+It does mean Blue’s origin is not built on one lie, but several overlapping ones.
+
 ### Vionola’s Assessment
 
 [[Vionola Erinleaf]] may be asked to testify, examine Blue, or write a formal opinion on whether Blue’s act was compelled, conditioned, or chosen.
@@ -576,6 +856,14 @@ Blue is recognized as Sylvanranth heir. Whether anyone can tolerate that after T
 No answer will be clean.
 
 That is why her opinion matters.
+
+### Jeddal Crawn
+
+[[Jeddal Crawn]] is dead, but the incident remains part of Blue’s history.
+
+It exposes Wonderful’s class anxiety, Blue’s vulnerability, the way predators used respectability as cover, and the uncomfortable fact that Blue’s rescue was accidental.
+
+If anyone digs through old Merchant’s Guild records, Jeddal’s name may still point toward other victims, old guild protections, or people who knew exactly what he was and looked away.
 
 ## GM Notes
 
@@ -597,15 +885,31 @@ Blue is the product of:
 - real agency
 - real love
 
-She did kill Theron.
+Kursk’s use of the name Slate should matter.
 
-Theron did not resist.
+He did not simply disappear into the forest and return later as a voice in Blue’s dreams. He physically placed Blue with Wonderful, concealed himself, and for a time became part of the tavern’s emotional landscape.
 
-Those two facts should sit together and make everyone uncomfortable.
+This makes Wonderful’s protection of Blue more tragic. She was not merely sheltering a niece from the world.
 
-Do not reduce Blue’s murder of Theron to pheromone residue.
+She was sheltering a child whom Kursk had deliberately placed where love would hide her.
 
-That invites the wrong argument.
+Marvelous should not be softened into a saintly lost mother.
+
+She was charming, ambitious, manipulative, and willing to use desire as leverage. She used Kursk to get close to Theron, used potions to secure the pregnancy, and later tried to convince Kursk that Blue was his.
+
+That does not make Kursk innocent.
+
+It makes the trap older.
+
+Blue was born into a story where every adult wanted something, hid something, or used someone. Kursk’s genius was not creating the wound from nothing.
+
+It was finding the wound and teaching it to speak his name.
+
+The Caervane Reckoning should inform Theron’s role in Elderbrook.
+
+Theron had already learned to treat betrayal as a network to be destroyed. Elderbrook was that lesson applied without the patience or precision of the earlier reckoning.
+
+Kursk learned from Theron’s methods and later turned them inward.
 
 [[Vionola Erinleaf]]’s working theory is that the residue was only one layer in a larger conditioning architecture. Kursk built Blue into a delayed weapon through larval imprinting, dreamwalking, emotional grooming, ideological reframing, and carefully reinforced trauma triggers.
 
@@ -632,4 +936,17 @@ Time solves nothing by itself.
 The question is not whether Blue is innocent.
 
 The question is whether guilt can be measured cleanly when the knife was sharpened by everyone around her.
-```
+
+The Jeddal Crawn incident should stay dark, even when Blue tells it brightly.
+
+Blue frames it as a silly almost-marriage because that was how she survived the memory before she understood it. The humor is real. So is the horror under it.
+
+Do not make Jeddal a failed suitor.
+
+Make him a predator who benefited from politeness, class ambition, and Blue’s inability at the time to understand what danger she was in.
+
+The party did not rescue Blue because they knew.
+
+They rescued her because they happened to be there.
+
+That accident should bother people.
