@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-13
+created: 2026-06-13
 title: Alden Durathen
 aliases:
   - Alden Durathen

@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-03
+created: 2026-06-03
 title: Grand Unified Mercantile, Logistical, Contractual, Arbitration, and Standardization Consortium of Accountable Trade Interests
 aliases:
   - The Merchant Guild

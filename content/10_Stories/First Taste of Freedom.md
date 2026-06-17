@@ -1,3 +1,8 @@
+---
+created: 2026-03-14
+updated: 2026-03-14
+---
+
 # The First Taste of Freedom
 
 **The First Taste of Freedom**

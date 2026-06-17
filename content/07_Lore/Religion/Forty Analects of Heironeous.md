@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-03
+created: 2026-06-03
 title: The Forty Analects of Heironeous
 aliases: ["Forty Analects", "Analects of Heironeous"]
 type: lore

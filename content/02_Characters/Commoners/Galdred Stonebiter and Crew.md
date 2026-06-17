@@ -1,4 +1,6 @@
 ---
+updated: 2026-05-31
+created: 2026-05-31
 title: Galdren Stonebiter
 aliases:
 - Master Stonebiter

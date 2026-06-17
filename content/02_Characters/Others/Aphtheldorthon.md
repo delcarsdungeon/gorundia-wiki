@@ -1,4 +1,6 @@
 ---
+updated: 2026-05-21
+created: 2026-05-21
 title: Aphtheldorthon
 aliases:
 - Aphtheldorthon of the Green Silence

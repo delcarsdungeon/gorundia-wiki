@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-11
+created: 2026-03-11
 title: The Serrin Conclave
 aliases:
   - Serrin's Post-Incident Review

@@ -1,3 +1,8 @@
+---
+created: 2026-04-11
+updated: 2026-04-11
+---
+
 # Thalrik Arrives
 
 The great doors of the hall swing inward with a thunder of iron and oak.

@@ -1,3 +1,8 @@
+---
+created: 2026-06-06
+updated: 2026-06-06
+---
+
 Letter from Norwin Stoneyeye to Professor Erinleaf 
 
 To: Professor Erinleaf Gorundia’s University of Magery Department of Enhanced Enchantments 

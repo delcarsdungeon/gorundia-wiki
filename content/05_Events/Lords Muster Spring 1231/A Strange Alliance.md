@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-22
+created: 2026-03-22
 title: The Gnomish Romance Exchange
 aliases:
 - Clause Seventeen Conversation

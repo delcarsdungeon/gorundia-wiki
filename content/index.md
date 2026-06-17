@@ -1,4 +1,6 @@
 ---
+updated: 2026-04-11
+created: 2023-05-31
 type: index
 title: Gorundia Campaign Index
 listing: false

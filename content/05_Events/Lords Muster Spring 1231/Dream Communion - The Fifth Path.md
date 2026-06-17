@@ -1,4 +1,6 @@
 ---
+updated: 2026-04-11
+created: 2026-03-29
 title: Dream Communion — The Fifth Path
 aliases: [Jinwing’s Vision of the Fifth Path, The Fifth Path Revelation]
 type: lore

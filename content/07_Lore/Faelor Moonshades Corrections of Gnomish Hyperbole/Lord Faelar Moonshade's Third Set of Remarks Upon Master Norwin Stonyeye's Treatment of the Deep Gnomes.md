@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-16
+created: 2026-06-16
 title: Lord Faelar Moonshade's Third Set of Remarks Upon Master Norwin Stonyeye's Treatment of the Deep Gnomes
 aliases:
   - Faelar on Deep Gnomes

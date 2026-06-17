@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-28
+created: 2026-03-28
 title: The Admiral’s Office – Thalrik’s Commission
 aliases: [Thalrik Commission Scene, Admiral Briefing, First Mate Selection]
 type: scene

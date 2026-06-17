@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-06
+created: 2026-06-06
 title: Lantern Report — Quiet Legion Assessment
 aliases:
 - Quiet Legion Report

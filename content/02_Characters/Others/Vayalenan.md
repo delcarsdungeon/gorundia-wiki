@@ -1,3 +1,8 @@
+---
+created: 2026-06-13
+updated: 2026-06-13
+---
+
 # Vayalenan of Tharnanon
 
 _The Green Continuance. The Woman in the Book. The Root-Prisoner of Kursk._

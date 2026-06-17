@@ -1,3 +1,8 @@
+---
+created: 2026-04-11
+updated: 2026-04-11
+---
+
 1) Zara went on ahead to the Lodge.
 2) Beringer raised a friggin army of his mercs and dwarves, surrounded the place, stomped in.
 3) Guaco and Norwin went in ahead, stealth/magic stealth

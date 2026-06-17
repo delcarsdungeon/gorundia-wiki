@@ -1,3 +1,8 @@
+---
+created: 2026-06-10
+updated: 2026-06-10
+---
+
 Writ of Extraordinary Inventory and Provisional Seizure
 
 Issued Under the Authority of the Lord Marshal of Gorundia

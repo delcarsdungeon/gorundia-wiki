@@ -1,4 +1,6 @@
 ---
+updated: 2026-04-11
+created: 2026-04-11
 title: 25March26 — Session Notes
 type: session
 category: campaign

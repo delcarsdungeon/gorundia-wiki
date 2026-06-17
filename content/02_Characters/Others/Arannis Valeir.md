@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-01
+created: 2026-06-01
 title: Arannis Valeir
 aliases:
 - Master Valeir

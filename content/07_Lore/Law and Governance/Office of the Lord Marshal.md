@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-03
+created: 2026-06-03
 title: Office of the Lord Marshal
 aliases: [High Marshal of the Crown, The Ninth Seal, The King’s Shadow General]
 type: office

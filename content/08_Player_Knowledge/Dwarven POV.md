@@ -1,3 +1,8 @@
+---
+created: 2026-05-19
+updated: 2026-05-19
+---
+
 ## Dwarves Looking at the Other Peoples
 
 ## Dwarf Baseline

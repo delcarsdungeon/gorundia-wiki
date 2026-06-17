@@ -1,3 +1,8 @@
+---
+created: 2026-04-11
+updated: 2026-04-11
+---
+
 # **Royal Archivist’s Summary — Baron Lynwenden Cron & House Vogel**
 
 **Prepared by:** _Norwin Stoneyeye, Assistant Archivist (acting)_  

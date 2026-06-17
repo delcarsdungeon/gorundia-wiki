@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-05
+created: 2026-06-05
 title: Baron Marcus Delv
 aliases: [Marcus Delv, "The Baron Who Wasn't"]
 type: character

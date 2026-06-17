@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-28
+created: 2026-03-28
 title: Zara’s “Aid” Under Geas
 aliases: [Zara Subtle Interventions, Zara Geas Workarounds]
 type: session-note

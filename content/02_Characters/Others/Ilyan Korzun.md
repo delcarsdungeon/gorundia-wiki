@@ -1,3 +1,8 @@
+---
+created: 2026-06-13
+updated: 2026-06-13
+---
+
 # Magister Ilyan Korzun
 
 **Public Alias:** Master Ilyan Korvin  

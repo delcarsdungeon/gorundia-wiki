@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-10
+created: 2026-03-08
 title: Houses of Gorundia
 ---
 # Feudal Houses of Gorundia

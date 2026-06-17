@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-12
+created: 2026-03-12
 type: event
 location: Royal Palace – Outer Courtyard
 title: Is That You, Venom?

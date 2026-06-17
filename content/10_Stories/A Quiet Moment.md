@@ -1,3 +1,8 @@
+---
+created: 2026-03-14
+updated: 2026-03-14
+---
+
 A Quiet Moment
 The light from wall sconces casts long shadows across the stone chamber. The music from the main hall is muffled by distance, replaced here by the quiet murmur of wine, steel, and thought. A low table is ringed by friends — a knight, a priest, a noblewoman, and a spy — all relaxed but watchful.
  

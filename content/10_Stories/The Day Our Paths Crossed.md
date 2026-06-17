@@ -1,3 +1,8 @@
+---
+created: 2026-03-14
+updated: 2026-03-14
+---
+
 The fire at Camp Stormarrow cast flickering light over the crowd, drawing workmen, soldiers, and knights into its circle of warmth. [[Fancy Korac]], as always, lounged with the practiced ease of someone who considered himself the most interesting man in any gathering. He tapped the edge of his tankard with a finger, his grin widening as the conversation turned to stories of past adventures.
  
 “Shall I tell you how the Marshal and I first met?” he asked, his voice cutting through the hum of chatter.

@@ -1,3 +1,8 @@
+---
+created: 2026-03-08
+updated: 2026-03-08
+---
+
 [[Nilanthalas]] and [[Elenlindë]]
 The Twin Elvish Kingdoms: Nilanthalas and Elenlindë
  

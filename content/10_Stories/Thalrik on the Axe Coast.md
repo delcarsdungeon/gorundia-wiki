@@ -1,3 +1,8 @@
+---
+created: 2026-04-11
+updated: 2026-04-11
+---
+
 > [!quote] 
 > “I trust Thalrik in a fight.  I trust him on the road.
 > I trust him at sea… about as far as I can throw the ship.” - Sorek Redmarch

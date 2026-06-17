@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-30
+created: 2026-03-30
 title: Account of the Green Breath – Druidic Record
 aliases:
   - The Green Breath Account

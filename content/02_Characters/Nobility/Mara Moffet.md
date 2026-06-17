@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-10
+created: 2026-04-11
 title: Mara Moffet
 aliases:
   - Lady Mara Moffet

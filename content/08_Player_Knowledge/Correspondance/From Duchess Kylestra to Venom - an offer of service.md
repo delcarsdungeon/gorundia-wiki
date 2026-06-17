@@ -1,3 +1,8 @@
+---
+created: 2026-06-09
+updated: 2026-06-09
+---
+
 **[SCENE: The Griffon’s Roost – the fire’s low, the hour late, and the conversation quietly tense. A knight approaches Sir Beringer.]**
 
 **Sir [[Thelan Garet]]:** 

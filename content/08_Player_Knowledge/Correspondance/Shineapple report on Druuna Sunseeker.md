@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-06
+created: 2026-06-06
 title:Field Report: Druuna Sunseeker (Shineapple)
 aliases:
   - Shineapple Report on Druuna

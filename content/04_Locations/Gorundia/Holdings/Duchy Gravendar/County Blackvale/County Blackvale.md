@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-02
+created: 2026-06-02
 title: Blackvale Under Dana
 aliases:
   - The Reformation of Blackvale

@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-02
+created: 2026-06-02
 type: holding-summary
 title: Additional Holdings of Baron Lynwenden Cron
 location: Duchy of Grevendar

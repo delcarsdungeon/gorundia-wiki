@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-11
+created: 2026-06-11
 title: The Manticore War, Current Status
 aliases:
   - Civil War Strategic Frame

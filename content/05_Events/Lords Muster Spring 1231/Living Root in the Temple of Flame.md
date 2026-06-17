@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-10
+created: 2026-03-08
 title: Living Root in the Temple of Flame
 type: event
 status: complete

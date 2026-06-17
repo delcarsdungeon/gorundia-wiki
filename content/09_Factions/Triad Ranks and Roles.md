@@ -1,4 +1,6 @@
 ---
+updated: 2026-05-28
+created: 2026-05-28
 title: The Triad Churches - Ranks and Offices
 aliases:
 - Triad Church Ranks

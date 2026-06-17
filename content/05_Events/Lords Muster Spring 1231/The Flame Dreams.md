@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-10
+created: 2026-03-08
 title: The Flame Dreams
 type: event
 status: complete

@@ -1,4 +1,6 @@
 ---
+updated: 2026-04-05
+created: 2026-04-05
 title: Myldenär Intelligence Brief (Norwin Translation)
 aliases:
 - Myldenär Report

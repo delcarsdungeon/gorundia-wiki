@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-30
+created: 2026-03-30
 title: Norwin’s Field Brief – Dragons of Gorundia
 aliases:
   - Norwin Dragon Summary

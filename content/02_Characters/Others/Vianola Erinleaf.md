@@ -1,4 +1,6 @@
 ---
+updated: 2026-04-13
+created: 2026-04-13
 title: Professor Vianola Erinleaf
 aliases: [Vianola Erinleaf, Master Enchantress Erinleaf]
 type: character

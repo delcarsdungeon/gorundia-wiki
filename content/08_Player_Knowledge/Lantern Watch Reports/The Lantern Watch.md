@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-06
+created: 2026-06-06
 title: The Lantern Watch
 aliases: [Lanterns, The King’s Shadow, The Watch Unseen]
 type: lore

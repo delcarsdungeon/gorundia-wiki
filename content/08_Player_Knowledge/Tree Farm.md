@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-27
+created: 2026-03-27
 title: Halfling Tree Farm Economics
 aliases:
   - Tree Farm Economics

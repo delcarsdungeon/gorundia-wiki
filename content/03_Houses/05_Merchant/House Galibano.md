@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-10
+created: 2026-06-10
 tags:
 - house
 - merchant

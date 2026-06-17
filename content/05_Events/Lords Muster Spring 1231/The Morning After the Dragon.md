@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-12
+created: 2026-03-12
 type: event
 title: The Morning After the Dragon
 location: Royal Palace – Lord Marshal’s Chambers

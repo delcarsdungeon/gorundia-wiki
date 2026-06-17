@@ -1,3 +1,8 @@
+---
+created: 2026-06-02
+updated: 2026-06-02
+---
+
 ## Griefwatch Castle
 
 Griefwatch Castle stands high in the eastern Blackbriar mountains, built into a knife-backed ridge overlooking the old invasion corridors from the orc hills and Dominion roads beyond. It is not the prettiest seat in Gorundia. It was never meant to be. The walls are dark stone, wind-scoured and practical, with narrow windows, murder-slits, signal braziers, and terraces cut for archers and mountain cavalry. Every approach is miserable, exposed, and watched from three angles by men who have been cold since breakfast and resent visitors on principle.

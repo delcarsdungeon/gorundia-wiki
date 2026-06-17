@@ -1,4 +1,6 @@
 ---
+updated: 2026-04-11
+created: 2026-03-08
 title: The Arrest of Remy DeSalle
 type: event
 status: complete

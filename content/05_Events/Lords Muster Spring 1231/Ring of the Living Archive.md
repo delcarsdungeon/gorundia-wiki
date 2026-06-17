@@ -1,4 +1,6 @@
 ---
+updated: 2026-04-11
+created: 2026-04-11
 title: The Ring of the Living Archive
 type: item
 category: artifact

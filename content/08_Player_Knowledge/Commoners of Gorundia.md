@@ -1,3 +1,8 @@
+---
+created: 2026-05-19
+updated: 2026-05-19
+---
+
 ## Common Folk of Gorundia Looking at the Other Peoples
 
 ## Common Folk Baseline

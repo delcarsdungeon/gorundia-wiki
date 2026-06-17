@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-19
+created: 2026-03-19
 type: event
 location: Royal Palace – Private Council Chamber
 title: Diplomacy by Other Means

@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-11
+created: 2026-03-11
 title: Sunseeker Shrine
 type: location
 category: shrine

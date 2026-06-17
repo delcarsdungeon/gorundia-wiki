@@ -1,3 +1,8 @@
+---
+created: 2026-06-02
+updated: 2026-06-02
+---
+
 **The Whitefield Estates** are Pholtine-administered agricultural colonies established to receive cleared half-blood refugees from Mercygate and similar border registries. Officially, they provide lawful work, food, shelter, moral instruction, and civic supervision to persons who would otherwise become vagrants, bandits, or casualties of the road.
 
 Residents are not slaves. No writ of ownership is held over them, and any adult may petition to depart with travel papers.

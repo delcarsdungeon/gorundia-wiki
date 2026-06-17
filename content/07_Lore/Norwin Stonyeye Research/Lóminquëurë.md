@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-30
+created: 2026-03-30
 title: Lóminquëurë (Root-Bound Servitors)
 aliases: [Lominquere, Root-Bound, Wood Elf Mummies]
 type: lore

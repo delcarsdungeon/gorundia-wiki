@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-28
+created: 2026-03-28
 title: Hrothik Stonevein
 aliases: [Hrothik, Stonevein, Clan-Sergeant of the Deep Ranks]
 type: character

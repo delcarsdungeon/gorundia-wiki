@@ -1,3 +1,8 @@
+---
+created: 2026-06-03
+updated: 2026-06-03
+---
+
 # Inventory of Seized Effects
 
 ## Wilhelm Vogel, Former Duke of Gravendar

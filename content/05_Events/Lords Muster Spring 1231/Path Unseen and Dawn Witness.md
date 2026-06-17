@@ -1,5 +1,6 @@
 ---
-
+updated: 2026-04-11
+created: 2026-04-11
 title: Vignette — The Path Unseen
 aliases: [Path Unseen/Dawn Witness, Sun at Midnight]
 type: vignette

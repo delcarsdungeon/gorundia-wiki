@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-06
+created: 2026-06-06
 title: Blue’s Journal
 aliases:
   - Blue's Journal

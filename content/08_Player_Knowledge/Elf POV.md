@@ -1,3 +1,8 @@
+---
+created: 2026-05-19
+updated: 2026-05-19
+---
+
 ## High Elf Baseline
 
 High elves believe direct speech is for emergencies, children, soldiers, dwarves, and people who have run out of civilization.

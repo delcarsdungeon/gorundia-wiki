@@ -1,3 +1,8 @@
+---
+created: 2026-06-06
+updated: 2026-06-06
+---
+
 ## Scene — Thornbloom at the Road Camp
 
 The camp has mostly gone quiet.

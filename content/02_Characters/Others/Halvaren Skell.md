@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-13
+created: 2026-06-13
 title: Arch-Provost Halvaren Skell
 aliases: [Halvaren Skell, Arch-Provost Skell, Skell]
 type: character

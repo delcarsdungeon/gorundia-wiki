@@ -1,3 +1,8 @@
+---
+created: 2026-03-14
+updated: 2026-03-14
+---
+
 # Dwarvish Laws Governing Clan Formation
 
 ## The Law of Ancestry

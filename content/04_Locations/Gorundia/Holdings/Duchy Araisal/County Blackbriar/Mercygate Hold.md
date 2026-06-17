@@ -1,3 +1,8 @@
+---
+created: 2026-06-02
+updated: 2026-06-02
+---
+
 ### Mercygate Hold
 
 Mercygate Hold stands behind the Candle Line, where the hill roads bend west toward Three-Crooks Gate and the safer lands of Blackbriar. It is not a castle of honor, nor a prison of cruelty, though it has been called both by men who spent a night inside it. It is a registry fort: a place of ledgers, barred yards, guarded wells, priestly examinations, and questions asked until the answers stop changing.

@@ -1,3 +1,8 @@
+---
+created: 2026-04-11
+updated: 2026-04-11
+---
+
 You’re summoned quietly.
 
 Not by a guard.

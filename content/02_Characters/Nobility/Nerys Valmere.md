@@ -1,4 +1,6 @@
 ---
+updated: 2026-04-04
+created: 2026-03-12
 title: Nerys Valmere
 aliases:
   - Baroness Nerys Valmere

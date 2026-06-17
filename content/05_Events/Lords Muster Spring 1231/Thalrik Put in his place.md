@@ -1,4 +1,6 @@
 ---
+updated: 2026-04-11
+created: 2026-04-11
 title: Thalrik Put in his Place
 type: scene
 category: campaign

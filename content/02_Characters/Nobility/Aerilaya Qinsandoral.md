@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-08
+created: 2026-03-08
 type: character
 role: NPC
 house:

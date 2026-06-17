@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-05
+created: 2026-06-05
 title: Dana to Cornelia — It Won’t Be Your Name
 type: scene
 location: Temple of Heironeous – Courtyard

@@ -1,3 +1,8 @@
+---
+created: 2026-03-30
+updated: 2026-03-30
+---
+
 Alright—here’s Norwin’s **tight, usable research brief**, with citations baked in and no hand-wavy elf poetry unless it’s actually earned.
 
 ---

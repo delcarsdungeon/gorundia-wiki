@@ -1,3 +1,8 @@
+---
+created: 2026-05-21
+updated: 2026-05-21
+---
+
 # The Ones Beneath the Boughs
 ![[A quiet one.png]]
 

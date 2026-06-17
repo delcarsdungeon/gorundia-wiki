@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-14
+created: 2026-03-11
 title: Temple Assessment of Druuna Sunseeker
 aliases:
   - Pelorite Report on Druuna

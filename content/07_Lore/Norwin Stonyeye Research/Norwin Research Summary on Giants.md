@@ -1,4 +1,6 @@
 ---
+updated: 2026-04-17
+created: 2026-04-17
 title: Giants (True Giants of the Flanaess)
 aliases:
 - Giantkind

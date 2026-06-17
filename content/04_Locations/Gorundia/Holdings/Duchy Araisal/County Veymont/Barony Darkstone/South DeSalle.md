@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-06
+created: 2026-06-06
 title: South Desalle
 aliases:
   - South Desalle Village

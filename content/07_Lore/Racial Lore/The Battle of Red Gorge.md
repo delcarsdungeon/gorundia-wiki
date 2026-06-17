@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-14
+created: 2026-03-14
 title: The Battle of Red Gorge
 aliases:
   - Red Gorge

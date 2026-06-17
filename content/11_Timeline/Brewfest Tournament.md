@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-14
+created: 2026-03-14
 title: The Brewfest Tournament of 1230
 aliases:
   - Brewfest Tournament

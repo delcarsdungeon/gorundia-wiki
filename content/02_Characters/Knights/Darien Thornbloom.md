@@ -1,4 +1,6 @@
 ---
+updated: 2026-05-30
+created: 2026-05-30
 title: Darien Thornbloom
 aliases:
   - Sir Darien Thornbloom

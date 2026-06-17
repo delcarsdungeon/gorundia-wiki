@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-10
+created: 2026-05-28
 title: Zorin Host
 aliases: Bogdan Ilyich Zorin, The Ataman
 type: npc

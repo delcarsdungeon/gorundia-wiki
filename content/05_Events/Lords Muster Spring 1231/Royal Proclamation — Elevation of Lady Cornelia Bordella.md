@@ -1,3 +1,8 @@
+---
+created: 2026-03-14
+updated: 2026-03-14
+---
+
 # Royal Proclamation — Elevation of Lady Cornelia Bordella
 
 _The chamber has only just begun to settle after the matter of blood and ordeal. The King rises._

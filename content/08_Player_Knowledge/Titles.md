@@ -1,3 +1,8 @@
+---
+created: 2026-03-14
+updated: 2026-03-14
+---
+
 # Forms of Address on Oerth
 
 Below is a list of titles of nobility, religious figures, knights, and respected commoners, along with their **generic forms of address**.

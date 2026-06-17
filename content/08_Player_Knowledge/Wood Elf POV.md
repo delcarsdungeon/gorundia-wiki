@@ -1,3 +1,8 @@
+---
+created: 2026-05-19
+updated: 2026-05-19
+---
+
 ## Wood Elves Looking at the Other Races
 
 ## Wood Elf Baseline

@@ -1,4 +1,6 @@
 ---
+updated: 2026-04-11
+created: 2026-04-11
 title: Thalrik Gathers the Crew
 type: scene
 category: campaign

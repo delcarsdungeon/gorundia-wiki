@@ -1,3 +1,8 @@
+---
+created: 2026-03-14
+updated: 2026-03-14
+---
+
 # WITCHHOLME RECEIVES
 
 _A mini-adventure vignette (social + uncanny), designed to unfold in the background before most PCs realize anything has changed._

@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-29
+created: 2026-03-29
 title: Bargrum Deep-Anvil & the Anvilstorm Brigade
 aliases: [Bargrum Deep-Anvil, Anvilstorm Brigade, Sky Nails]
 type: military-unit

@@ -1,3 +1,8 @@
+---
+created: 2026-05-17
+updated: 2026-05-17
+---
+
 ## Halfblood Rumors & Stereotypes About Other Peoples
 
 ### Humans

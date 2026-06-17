@@ -1,3 +1,8 @@
+---
+created: 2026-05-28
+updated: 2026-05-28
+---
+
 # **Dregs Auxiliary Patrol**
 
 **Type:** Semi-formal volunteer force  

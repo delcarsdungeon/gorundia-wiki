@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-13
+created: 2026-06-05
 title: Alistair, Lord Blackbriar
 aliases:
   - Alistair the Younger

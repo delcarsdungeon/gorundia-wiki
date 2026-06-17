@@ -1,3 +1,8 @@
+---
+created: 2026-06-12
+updated: 2026-06-12
+---
+
 ## Paid Sending to Thalrik — Gravel via Brindlewick & Sons Arcane Dispatch
 
 The message reaches Thalrik in the clipped, bloodless cadence of a hired sending.

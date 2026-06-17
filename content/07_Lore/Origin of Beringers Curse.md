@@ -1,3 +1,8 @@
+---
+created: 2026-03-14
+updated: 2026-06-03
+---
+
 > [!vision] Recovered Vision — Villa Marsten
 > *Grainy monochrome imagery. Like silent surveillance seen through cracked glass.*
 >

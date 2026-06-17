@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-16
+created: 2026-06-16
 title: Norwin Stonyeye on the Gnome Pantheon
 aliases:
   - Norwin on Gnome Religion

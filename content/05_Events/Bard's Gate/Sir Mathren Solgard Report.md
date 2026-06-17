@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-14
+created: 2026-03-11
 title: Inquiry Report — Bard’s Gate (Dregs Quarter)
 aliases:
   - Solgard Inquiry Report

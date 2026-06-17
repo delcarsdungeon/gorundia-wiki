@@ -1,4 +1,6 @@
 ---
+updated: 2026-04-11
+created: 2026-04-11
 title: On the Informal Distinctions Among Practicing Wizards
 aliases:
   - Norwin’s Veils Lecture

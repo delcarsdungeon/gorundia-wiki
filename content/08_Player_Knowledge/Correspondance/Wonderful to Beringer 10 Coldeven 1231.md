@@ -1,3 +1,8 @@
+---
+created: 2026-06-12
+updated: 2026-06-12
+---
+
 ## Message to Sir Beringer — Rashgar Relay from Bard’s Gate
 
 

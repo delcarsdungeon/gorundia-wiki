@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-30
+created: 2026-03-30
 title: Vharak-Thul, the Rot That Walks
 aliases:
   - Vharak-Thul

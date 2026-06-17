@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-02
+created: 2026-06-02
 title: Office of Grain and Survey (Blackvale)
 aliases: [The Counting House, The Tower, The Ledger, Skell’s House]
 type: location

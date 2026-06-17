@@ -1,3 +1,8 @@
+---
+created: 2026-06-02
+updated: 2026-06-02
+---
+
 ### Serpent Gate — 093.041
 
 The Serpent Gate stands at hex **093.041**, controlling the road from Vogel lands into Barony Darkstone. It was built by Baron Remy DeSalle as a ceremonial border gateway for tourists, noble envoys, capital inspectors, and visitors from Grevandar. Its original function was display, not defense.

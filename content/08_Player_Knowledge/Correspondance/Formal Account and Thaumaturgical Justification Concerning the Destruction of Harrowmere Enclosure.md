@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-06
+created: 2026-06-06
 title: "Formal Account and Thaumaturgical Justification Concerning the Destruction of Harrowmere Enclosure"
 aliases:
   - "Norwin's Harrowmere Filing"

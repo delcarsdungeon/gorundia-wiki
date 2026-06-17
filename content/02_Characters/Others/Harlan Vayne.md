@@ -1,4 +1,6 @@
 ---
+updated: 2026-05-12
+created: 2026-05-12
 title: Harlan Vayne
 aliases:
   - Blackhorn Patriarch

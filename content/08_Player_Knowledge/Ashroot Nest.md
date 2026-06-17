@@ -1,3 +1,8 @@
+---
+created: 2026-05-25
+updated: 2026-05-25
+---
+
 ## Ashroot Nest
 
 > “Do not mistake silence for peace. Some things do not speak because they have nothing to say. Others do not speak because they have already given the order.”  

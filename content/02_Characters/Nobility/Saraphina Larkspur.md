@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-14
+created: 2026-03-12
 type: npc
 title: Dame Saraphina Larkspur
 location: Royal Court of Gorundia

@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-08
+created: 2026-06-08
 title: "Order of Purifiers and the Flame Temple"
 aliases:
   - "The Purifiers"

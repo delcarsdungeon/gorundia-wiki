@@ -1,4 +1,6 @@
 ---
+updated: 2026-04-13
+created: 2026-04-13
 title: Norwin’s Notes — The Grain Wizard Network of Blackvale
 aliases: [Blackvale Grain Network, Norwin Observations on Skell’s System]
 type: lore

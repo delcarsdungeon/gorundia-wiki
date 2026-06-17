@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-02
+created: 2026-06-02
 title: Duchy Grevandar
 aliases:
 - Grevandar

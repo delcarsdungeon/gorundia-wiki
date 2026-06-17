@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-21
+created: 2026-03-21
 title: Fragments of the Bronze of the Storm Tide
 aliases: [Storm-Tide Accounts, The Bronze Fragments, Pre-Fall Maritime Records]
 type: lore_compilation

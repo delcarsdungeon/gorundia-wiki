@@ -1,3 +1,8 @@
+---
+created: 2026-03-08
+updated: 2026-03-08
+---
+
 ## After the Winter Court
 
 _The table was heavy with food and heavier with silence, as Bertram shared a meal with [[Theron Sylvanranth]], [[Cornelia Bordella]], and Baroness [[Braga Kharne]]. The business with the Winter Court was behind them, but its shadow lingered as they reminisced about the farmland battle at the edge of the forest, [[Lothlindor Fields]]

@@ -1,4 +1,6 @@
 ---
+updated: 2026-04-04
+created: 2026-04-04
 title: Sir Garran Halvyr
 aliases: [Garran Halvyr, Sir Garran, Halvyr]
 type: character

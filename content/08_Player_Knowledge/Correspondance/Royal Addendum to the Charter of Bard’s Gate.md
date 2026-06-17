@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-09
+created: 2026-06-09
 title: Royal Addendum to the Charter of Bard's Gate
 aliases:
   - Bard's Gate Charter Addendum

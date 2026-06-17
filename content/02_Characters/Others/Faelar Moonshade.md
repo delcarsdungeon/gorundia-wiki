@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-12
+created: 2026-03-12
 type: npc
 name: Faelar Moonshade
 title: Lord Faelar Moonshade, Keeper of Ancient Texts

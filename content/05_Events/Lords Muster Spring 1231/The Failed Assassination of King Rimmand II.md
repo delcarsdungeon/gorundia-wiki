@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-10
+created: 2026-03-10
 title: Failed Assassination of King Rimmand II
 type: lore
 date: 1231-02-13  

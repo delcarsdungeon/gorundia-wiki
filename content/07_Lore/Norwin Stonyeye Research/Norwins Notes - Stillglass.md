@@ -1,3 +1,8 @@
+---
+created: 2026-06-16
+updated: 2026-06-16
+---
+
 # **Norwin’s Research Notes — Tel’vaereth Sylthalor**
 
 _(“Stillglass,” “Breath Vaults,” and other terms used by people who refuse to speak plainly)_

@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-14
+created: 2026-03-12
 title: The Proclamation of Lady Cornelia's Virtue
 type: event
 date: 15 Readying 1231 OR

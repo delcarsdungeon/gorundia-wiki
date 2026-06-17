@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-14
+created: 2026-03-14
 title: The Bloody-Handed Deception
 aliases:
   - Orin the Bloody-Handed

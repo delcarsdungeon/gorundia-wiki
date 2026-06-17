@@ -1,3 +1,8 @@
+---
+created: 2026-05-25
+updated: 2026-05-25
+---
+
 ## What Jin Can Learn from Grand Druid Khelarion
 
 Khelarion can give her the “official druidic scar tissue” version.

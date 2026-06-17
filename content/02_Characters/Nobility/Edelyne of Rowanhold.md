@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-05
+created: 2026-06-05
 title: Lady Edelyne of Rowanhold
 aliases: [Edelyne Rowanhold, Lady Edelyne]
 type: character

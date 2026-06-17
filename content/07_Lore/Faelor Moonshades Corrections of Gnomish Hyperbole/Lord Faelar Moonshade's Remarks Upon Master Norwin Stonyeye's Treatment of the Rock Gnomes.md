@@ -1,3 +1,8 @@
+---
+created: 2026-06-16
+updated: 2026-06-16
+---
+
 
 # Lord Faelar Moonshade's Second Set of Remarks Upon Master Norwin Stonyeye's Treatment of the Rock Gnomes, Including Certain Necessary Observations on Bias, Stone, Mechanism, Bureaucracy, Nose-Pride, and the Long Elven Error of Mistaking One Short Bearded People for Another
 

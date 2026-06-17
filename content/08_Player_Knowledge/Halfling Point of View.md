@@ -1,3 +1,8 @@
+---
+created: 2026-05-17
+updated: 2026-05-17
+---
+
 ## Halflings Looking at the Other Races
 
 ### Humans

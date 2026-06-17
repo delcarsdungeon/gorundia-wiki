@@ -1,3 +1,8 @@
+---
+created: 2026-06-02
+updated: 2026-06-02
+---
+
 Yep, I can see the main pieces:
 
 - **Existing road** comes in from west through **Stonewatch**, crosses/terminates around **Valearyn Gate**, then continues north toward **Thalanor Spire / Elf Watch**.

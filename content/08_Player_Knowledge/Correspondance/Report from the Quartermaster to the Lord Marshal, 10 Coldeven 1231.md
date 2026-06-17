@@ -1,3 +1,8 @@
+---
+created: 2026-06-12
+updated: 2026-06-12
+---
+
 **To:** His Lordship, the Lord Marshal  
 **From:** Quartermaster Merrec Vane, Field Supply Office  
 **Subject:** Effects of Vogel Coinage Collapse Upon Supply, Morale, Refugee Burden, and Border Trade  

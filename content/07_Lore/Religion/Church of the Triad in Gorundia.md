@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-03
+created: 2026-06-03
 title: Church of the Triad in Gorundia
 aliases:
 - The Triad Church

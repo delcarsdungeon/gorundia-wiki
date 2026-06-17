@@ -1,3 +1,8 @@
+---
+created: 2026-03-14
+updated: 2026-03-14
+---
+
 ## Breakfast with the Duke
 
 One of the duke’s _druzhinnik_ [droo ZHEE nikk] is already present when **Sir Beringer Amadis** enters.

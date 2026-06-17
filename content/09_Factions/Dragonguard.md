@@ -1,3 +1,8 @@
+---
+created: 2026-06-08
+updated: 2026-06-08
+---
+
 # The Dragonguard
 
 > "You don’t join the Dragonguard to make friends. You join because you want something more—more gold, more status, more meaning. But you pay for it in blood, sweat, and knowing that if the Dragon ever decides you’re not useful anymore, you’re just another piece on the board to be swept away." — Sir Sorek Redmarch

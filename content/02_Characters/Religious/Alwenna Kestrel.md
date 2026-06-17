@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-03
+created: 2026-03-08
 title: Alwenna Kestrel
 aliases:
 - Alwen Kestral

@@ -1,3 +1,8 @@
+---
+created: 2026-03-14
+updated: 2026-03-14
+---
+
 # Address of King Rimmand II — Morning of the Ordeal
 
 _Dawn light spills pale across the eastern field beyond the capital walls. Nobles gather at measured distance. The sanctified ground waits. The King steps forward beneath the standard of Gorundia._

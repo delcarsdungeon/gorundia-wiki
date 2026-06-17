@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-17
+created: 2026-06-17
 title: The Last Mercy
 aliases:
   - Orenic Last Mercy

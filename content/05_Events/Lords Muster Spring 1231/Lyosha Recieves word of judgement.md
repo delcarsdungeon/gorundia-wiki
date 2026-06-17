@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-10
+created: 2026-03-10
 title: Lyosha Recieves Word of Judgement
 type: event
 status: complete

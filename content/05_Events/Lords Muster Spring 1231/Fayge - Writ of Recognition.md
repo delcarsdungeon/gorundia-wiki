@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-12
+created: 2026-03-09
 type: royal-writ
 title: Writ of Recognition — High Lyric Fayge
 issuer: [[Porthos Ryomar]]

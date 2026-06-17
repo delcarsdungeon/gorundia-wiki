@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-30
+created: 2026-03-30
 title: The Root Dirge of the Third Wyrm
 aliases:
   - The Dirge of the Buried Sister

@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-06
+created: 2026-06-06
 title: Signals of the 9th of Coldeven, 1231 OR
 aliases:
   - Greyspur and Blackbriar Reports

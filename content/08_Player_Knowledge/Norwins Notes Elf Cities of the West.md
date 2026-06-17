@@ -1,3 +1,8 @@
+---
+created: 2026-04-11
+updated: 2026-04-11
+---
+
 # **Norwin — Elven Cities (Gorundian Side)**
 
 _(Delivered like a man correcting a bad lecture)_

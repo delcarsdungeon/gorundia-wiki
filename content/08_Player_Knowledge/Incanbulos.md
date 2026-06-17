@@ -1,4 +1,6 @@
 ---
+updated: 2026-04-29
+created: 2026-04-29
 title: Triad Inquisition Dossier — Incanbulos
 aliases:
   - Incanbulos Report

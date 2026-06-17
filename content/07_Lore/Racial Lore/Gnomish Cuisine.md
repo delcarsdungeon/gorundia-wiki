@@ -1,3 +1,8 @@
+---
+created: 2026-06-06
+updated: 2026-06-06
+---
+
 ## Gnomish Cuisine: The Core Vibe
 
 **Tiny dishes, big process.**  

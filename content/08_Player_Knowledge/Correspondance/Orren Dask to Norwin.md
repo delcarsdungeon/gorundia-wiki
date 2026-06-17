@@ -1,3 +1,8 @@
+---
+created: 2026-06-06
+updated: 2026-06-06
+---
+
 ## **Letter from Orren Dask to Norwin Stoneyeye**
 
 _Carefully penned, margins clean, a few corrections scraped and rewritten rather than blotted._

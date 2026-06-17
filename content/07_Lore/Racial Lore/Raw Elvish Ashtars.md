@@ -1,3 +1,8 @@
+---
+created: 2026-06-16
+updated: 2026-06-16
+---
+
 Ancestor Golems
 
 The most potent servants of the elves are their ancestors.

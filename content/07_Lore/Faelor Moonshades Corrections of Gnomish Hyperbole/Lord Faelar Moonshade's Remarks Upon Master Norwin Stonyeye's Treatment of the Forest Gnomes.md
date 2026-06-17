@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-16
+created: 2026-06-16
 title: Lord Faelar Moonshade's Remarks Upon Master Norwin Stonyeye's Treatment of the Forest Gnomes
 aliases:
   - Faelar on Forest Gnomes

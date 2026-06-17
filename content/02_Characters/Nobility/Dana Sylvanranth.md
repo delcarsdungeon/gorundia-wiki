@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-05
+created: 2026-03-14
 title: Dana Sylvanranth
 aliases:
   - Dana Freeblade

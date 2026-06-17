@@ -1,3 +1,8 @@
+---
+created: 2026-04-11
+updated: 2026-04-11
+---
+
 ## **What Was Not Said**
 
 No dwarf present needed the introduction.

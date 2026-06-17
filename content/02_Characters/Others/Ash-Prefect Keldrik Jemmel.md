@@ -1,3 +1,8 @@
+---
+created: 2026-06-13
+updated: 2026-06-13
+---
+
 ![[Ash Prefect Keldrik Jemmel.png]]
 
 Hell yes. This needs to sound like a man who thinks damnation is a promotion package.

@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-03
+created: 2026-06-03
 type: political-analysis
 location: Royal Court of Gorundia
 title: The Cornelia Bordella Question

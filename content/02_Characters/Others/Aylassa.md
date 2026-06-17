@@ -1,4 +1,6 @@
 ---
+updated: 2026-05-14
+created: 2026-05-14
 title: Aylassa
 aliases:
 - Vaelrissa of the Glimmering Court

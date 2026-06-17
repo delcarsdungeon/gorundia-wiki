@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-08
+created: 2026-06-08
 title: Offices of the Lord Marshal
 aliases: [Marshal's Office, Lord Marshal's Household]
 type: organization

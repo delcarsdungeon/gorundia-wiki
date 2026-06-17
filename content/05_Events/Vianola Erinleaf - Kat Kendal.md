@@ -1,4 +1,6 @@
 ---
+updated: 2026-05-31
+created: 2026-05-31
 title: Vianola Erinleaf Speaks with Dame Katherine Kendal
 aliases:
 - Erinleaf and Kat

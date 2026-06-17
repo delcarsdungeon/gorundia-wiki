@@ -1,4 +1,6 @@
----  
+---
+updated: 2026-06-16
+created: 2026-06-16
 title: Ancestor Golems – Celene Doctrine & Controversy  
 aliases:  
 - Ancestral Continuance  

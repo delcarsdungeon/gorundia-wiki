@@ -1,4 +1,6 @@
 ---
+updated: 2026-04-11
+created: 2026-04-11
 title: The Purge in the Hall of Steel
 aliases: [Cron's Execution, The King's Reckoning, Hall of Steel Purge]
 type: event

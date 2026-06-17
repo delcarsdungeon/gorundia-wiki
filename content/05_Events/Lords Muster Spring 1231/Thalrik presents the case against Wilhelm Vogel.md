@@ -1,3 +1,8 @@
+---
+created: 2026-03-14
+updated: 2026-03-14
+---
+
 # Thalrik’s Opening Address Before the Court of Grundia
 
 _Admiral Thalrik, Lord Marshal’s Counsel, steps forward beneath the gaze of the Crown._

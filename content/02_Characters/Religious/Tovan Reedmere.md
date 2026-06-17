@@ -1,3 +1,8 @@
+---
+created: 2026-06-03
+updated: 2026-06-03
+---
+
 # Tovan Reedmere
 
 _Low-rank human druid, caretaker of the Great Tree of Bard’s Gate_

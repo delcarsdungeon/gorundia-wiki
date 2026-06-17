@@ -1,3 +1,8 @@
+---
+created: 2026-06-06
+updated: 2026-06-06
+---
+
 ## Professor Erinleaf Testing Beringer
 
 Use this as her first real private conversation after she formally joins the Lord Marshal’s army.

@@ -1,3 +1,8 @@
+---
+created: 2026-06-09
+updated: 2026-06-09
+---
+
 Royal Writ of Arcane Summons
 
 By the Grace of the Crown and under the Seal of His Majesty,

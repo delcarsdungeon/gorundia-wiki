@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-13
+created: 2026-06-10
 title: Myra Durathen
 aliases:
   - Lady Myra Durathen

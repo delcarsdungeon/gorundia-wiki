@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-10
+created: 2026-03-10
 title: Official Deposition on Grimward Castle
 type: event
 status: complete

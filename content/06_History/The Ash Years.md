@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-14
+created: 2026-03-14
 type: history
 title: The Ash Years
 order: 020

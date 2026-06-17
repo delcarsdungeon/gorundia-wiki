@@ -1,3 +1,8 @@
+---
+created: 2026-03-08
+updated: 2026-03-09
+---
+
 # Braga Kharne
 ![[Braga Kharne.png|220]]
 Title: Warden of the West, Baroness Westhold

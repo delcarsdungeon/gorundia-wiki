@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-10
+created: 2026-03-10
 title: Questioning the Flame
 type: event
 status: complete

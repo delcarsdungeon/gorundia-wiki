@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-14
+created: 2026-03-14
 type: history
 title: The Crossing of the Hellfurnaces
 order: 030

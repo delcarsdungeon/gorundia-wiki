@@ -1,3 +1,8 @@
+---
+created: 2026-06-05
+updated: 2026-06-05
+---
+
 The courtyard still smells of iron.
 
 The block remains beneath the statue of Theron Sylvanranth, darkened now, the last of the blood tracing slow lines down its face. No one has moved to clean it.

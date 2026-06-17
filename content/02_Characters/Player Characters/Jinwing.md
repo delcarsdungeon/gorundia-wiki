@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-30
+created: 2026-03-09
 title: Jinwing — Character Foundation
 aliases: [JinWing, Jin Broken Wing]
 type: character

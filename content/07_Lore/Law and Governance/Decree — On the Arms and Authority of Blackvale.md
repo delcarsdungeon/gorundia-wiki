@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-03
+created: 2026-06-03
 title: Decree — On the Arms and Authority of Blackvale
 type: decree
 location: Blackvale

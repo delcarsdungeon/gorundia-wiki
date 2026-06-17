@@ -1,3 +1,8 @@
+---
+created: 2026-03-14
+updated: 2026-03-14
+---
+
 The hall outside the chapel was quiet in the late afternoon, the kind of stillness that settles over stone buildings when the day’s visitors have mostly gone and the candles are being trimmed for evening prayers.
 
 Dame Cwenheld sat near one of the tall windows where the light was warmest.

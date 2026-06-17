@@ -1,3 +1,8 @@
+---
+created: 2026-06-06
+updated: 2026-06-06
+---
+
 **Report: On the Maurakappi Larva**  
 _Prepared by Silk, Lantern Watch Bard’s Gate Cell_
 

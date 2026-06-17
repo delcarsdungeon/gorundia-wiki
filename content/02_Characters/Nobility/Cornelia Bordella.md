@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-13
+created: 2026-03-13
 type: character
 title: Cornelia Bordella
 aliases: 

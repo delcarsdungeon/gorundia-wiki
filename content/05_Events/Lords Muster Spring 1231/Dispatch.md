@@ -1,4 +1,6 @@
 ---
+updated: 2026-04-11
+created: 2026-04-11
 title: The Lord Marshal’s Commission – Envoys to Teenkdiwar
 aliases: [Envoy Commission 16 Readying 1231, Venymmara and Loxwin Appointment]
 type: event

@@ -1,3 +1,8 @@
+---
+created: 2026-06-13
+updated: 2026-06-13
+---
+
 # Calvyn Drelt
 
 **Title:** Magister-Executor of Writs, Guild-Certified Conjurist, Advocate Third Circle of the Capital Lawhall  

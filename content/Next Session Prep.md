@@ -1,3 +1,8 @@
+---
+created: 2026-03-10
+updated: 2026-03-10
+---
+
 12MAR26 - 14 Readying 1231
 
 The party has captured [[Zarathryss Vaelorath]] by way of an *Entombment* spell.  [[Wilhelm Vogel]] lies dead.

@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-09
+created: 2026-06-09
 title: Plain Notice of the Charter of Bard's Gate
 aliases:
   - Street Notice of the Charter

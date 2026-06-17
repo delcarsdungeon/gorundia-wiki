@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-10
+created: 2026-03-08
 title: Raven Queen Unleashes the Dragon
 type: event
 status: complete

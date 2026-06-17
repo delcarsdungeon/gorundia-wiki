@@ -1,4 +1,6 @@
 ---
+updated: 2026-04-11
+created: 2026-04-11
 title: Break Them with Certainty
 type: scene
 category: campaign

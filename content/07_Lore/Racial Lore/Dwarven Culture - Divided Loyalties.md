@@ -1,3 +1,8 @@
+---
+created: 2026-03-14
+updated: 2026-03-14
+---
+
 ## Divided Loyalties
 
 Because a dwarf is expected to be loyal to **his household, his guild, his caste, his clan, and his vault**, every dwarf faces the possibility of divided loyalties and conflicting duties. Not every dwarf manages to navigate these complexities successfully.

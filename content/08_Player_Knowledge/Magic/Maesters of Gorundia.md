@@ -1,4 +1,6 @@
 ---
+updated: 2026-03-14
+created: 2026-03-14
 title: Maesters of Gorundia
 aliases:
   - Maesters

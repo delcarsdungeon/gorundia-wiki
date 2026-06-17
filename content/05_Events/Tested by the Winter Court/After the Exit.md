@@ -1,3 +1,8 @@
+---
+created: 2026-03-14
+updated: 2026-03-14
+---
+
 ### Vignette: “After the Exit”
 
 _The Griffon's Roost, hours after escaping the chaos of Dungeonland…_

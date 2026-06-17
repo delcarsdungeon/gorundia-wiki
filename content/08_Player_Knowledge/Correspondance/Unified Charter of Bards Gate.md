@@ -1,4 +1,6 @@
 ---
+updated: 2026-06-09
+created: 2026-06-09
 title: Corrected Charter of Bard's Gate
 aliases:
   - Bard's Gate Corrected Charter

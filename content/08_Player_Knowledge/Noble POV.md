@@ -1,3 +1,8 @@
+---
+created: 2026-05-19
+updated: 2026-05-19
+---
+
 ## Nobles of Gorundia Looking at the Other Peoples
 
 ## Gorundian Noble Baseline
