@@ -13,7 +13,7 @@ tags:
 ---
 # Cwenheld, the Venerated Shield of Heironeous
 
-![[Cwenheld Arrives.png|300]] ![[Cwenheld at prayer.png|380]]
+![[Cwenheld updated.png|340]] ![[Cwenheld at prayer.png|380]]
 ![[Cwenheld Prepared.png]]
 
 > [!Quote]
