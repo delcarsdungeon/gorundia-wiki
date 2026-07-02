@@ -1,6 +1,4 @@
 ---
-updated: 2026-03-14
-created: 2026-03-14
 title: Apochrophal - NPCs on the PCs
 aliases:
   - Apochrophal - NPCs on the PCs

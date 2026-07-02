@@ -1,7 +1,5 @@
 ---
-updated: 2026-06-16
-created: 2026-06-16
-title: Norwin Stonyeye on the Gnome Pantheon
+title: Norwin Stoneyeye on the Gnome Pantheon
 aliases:
   - Norwin on Gnome Religion
   - Gnome Pantheon in Gorundia
@@ -9,7 +7,7 @@ aliases:
 type: article
 category: religion
 status: draft
-author: Norwin Stonyeye
+author: Norwin Stoneyeye
 perspective: in-world
 culture:
   - gnome
@@ -32,7 +30,7 @@ tags:
   - zilchus
   - urdlen
 related:
-  - "[[Norwin Stonyeye]]"
+  - "[[Norwin Stoneyeye]]"
   - "[[Gorundia Religion]]"
   - "[[The Triad of Law and Light]]"
   - "[[Merchants' Guild]]"
@@ -48,9 +46,9 @@ related:
   - "[[Callarduran Smoothhands]]"
 ---
 
-# Norwin Stonyeye on the Gnome Pantheon
+# Norwin Stoneyeye on the Gnome Pantheon
 
-> [!quote] Norwin Stonyeye  
+> [!quote] Norwin Stoneyeye  
 > I included a brief religious section in my prior cultural survey because leaving it out would have been irresponsible. Apparently including it was also irresponsible, because several readers then asked whether gnomes have gods. Yes. We do. We did not spring fully formed from a pantry wall with spectacles, opinions, and a working knowledge of compound pulleys.
 
 ## Preliminary Complaint

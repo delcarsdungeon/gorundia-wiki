@@ -1,8 +1,3 @@
----
-created: 2026-03-14
-updated: 2026-03-14
----
-
 # Tavern Drinks of Bard’s Gate
 *A curated list of wines, ales, and spirits found across the city.*
 

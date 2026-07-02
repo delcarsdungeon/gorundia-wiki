@@ -1,6 +1,4 @@
 ---
-updated: 2026-06-16
-created: 2026-06-16
 title: Gnomes of Gorundia
 aliases:
   - Gnomish Peoples
@@ -10,7 +8,7 @@ aliases:
 type: racial-profile
 category: peoples
 status: draft
-author: Norwin Stonyeye
+author: Norwin Stoneyeye
 voice: in-world report
 affiliation:
   - Mages' Guild
@@ -27,7 +25,7 @@ tags:
   - norwin
   - magic
 related:
-  - [[Norwin Stonyeye]]
+  - [[Norwin Stoneyeye]]
   - [[Teenkwidar]]
   - [[Mages' Guild]]
   - [[Gorundia]]
@@ -43,7 +41,7 @@ related:
 
 ## On the Gnomish Peoples: Rock, Forest, and the Rumored Deep
 
-### Submitted by Norwin Stonyeye, Wizard of Teenkwidar Descent, Acting Consultant in Applied Arcane Systems, Field Thaumaturgical Irregularities, and Related Sensible Matters
+### Submitted by Norwin Stoneyeye, Wizard of Teenkwidar Descent, Acting Consultant in Applied Arcane Systems, Field Thaumaturgical Irregularities, and Related Sensible Matters
 
 To the Honored Examiners, Adjunct Reviewers, Licensed Practitioners, Seal-Carriers, Quill-Counters, and Other Persons of Apparent Authority within the Gorundian Mages’ Guild,
 
@@ -487,7 +485,7 @@ There is a difference, and gnomes will notice.
 
 Submitted under my own hand, with corrections to be made only by those who can demonstrate both superior knowledge and legible handwriting,
 
-**Norwin Stonyeye**  
+**Norwin Stoneyeye**  
 Wizard of Teenkwidar Descent  
 Consultant in Applied Arcane Systems  
 Currently in Gorundian Service, Despite Repeated Provocation

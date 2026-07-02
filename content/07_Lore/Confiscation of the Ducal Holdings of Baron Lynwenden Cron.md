@@ -1,6 +1,4 @@
 ---
-updated: 2026-06-03
-created: 2026-03-14
 type: legal-record
 title: Confiscation of the Ducal Holdings of Baron Lynwenden Cron
 location: Capital – Royal Court

@@ -1,6 +1,4 @@
 ---
-updated: 2026-06-03
-created: 2026-06-03
 type: lore
 title: Why the Church of Pholtus Tolerated Vogel
 location: Gorundia

@@ -1,10 +1,4 @@
 ---
-created: 2026-03-22
-updated: 2026-03-22
----
-
-
----
 title: Ashmaw of the Red Hills
 aliases:
   - Ashmaw

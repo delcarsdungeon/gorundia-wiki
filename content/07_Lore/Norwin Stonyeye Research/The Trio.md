@@ -1,8 +1,3 @@
----
-created: 2026-03-30
-updated: 2026-03-30
----
-
 
 
 ---
@@ -36,7 +31,7 @@ related:
 
 > *“This is where people start trying to make it cleaner than it was.”*
 > *“It wasn’t clean. It barely makes sense now.”*
-> — Norwin Stonyeye
+> — Norwin Stoneyeye
 
 ---
 

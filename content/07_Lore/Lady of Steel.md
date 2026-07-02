@@ -1,8 +1,3 @@
----
-created: 2026-04-11
-updated: 2026-04-11
----
-
 # Lady of Steel
 
 (Verse 1) They say the Lady’s heart is ice, her eyes are northern flame, She speaks in words of iron weight and never shows her pain. A hundred years of battle scars lie quiet in her stride, And those who’ve fought beside her know she never turns aside. 

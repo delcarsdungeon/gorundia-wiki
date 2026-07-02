@@ -1,6 +1,4 @@
 ---
-updated: 2026-03-14
-created: 2026-03-14
 title: Dominion Military
 aliases:
   - Armies of the Dominion

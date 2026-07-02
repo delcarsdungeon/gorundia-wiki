@@ -1,8 +1,3 @@
----
-created: 2026-03-30
-updated: 2026-03-30
----
-
 Alright—I went hunting through everything you’ve built so far, plus what little “external” signal exists (which is basically useless noise—your campaign data is the real canon here). So this is a **pure internal deep-dive synthesis** across your projects.
 
 Short version?

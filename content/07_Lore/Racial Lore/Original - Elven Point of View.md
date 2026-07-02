@@ -1,6 +1,4 @@
 ---
-updated: 2026-03-28
-created: 2026-03-28
 title: The Elven Point of View (Full Text)
 type: lore
 category: archive

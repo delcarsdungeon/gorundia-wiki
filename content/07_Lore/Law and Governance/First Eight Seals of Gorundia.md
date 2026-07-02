@@ -1,8 +1,3 @@
----
-created: 2026-06-07
-updated: 2026-06-07
----
-
 ## The First Seal: The Crown Seal
 
 **Held by:** The King  

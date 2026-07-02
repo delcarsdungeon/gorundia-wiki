@@ -1,8 +1,3 @@
----
-created: 2026-03-14
-updated: 2026-03-14
----
-
 # The Concordance of Embers
 *(Commonly called Embermeet)*
 

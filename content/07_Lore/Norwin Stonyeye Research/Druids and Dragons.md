@@ -1,6 +1,4 @@
 ---
-updated: 2026-03-30
-created: 2026-03-30
 title: Druids and Dragons
 aliases:
   - Norwin’s Notes on Druids and Dragons
@@ -34,7 +32,7 @@ related:
 > [!quote]
 > “The problem with druidic records is not that they are vague.
 > It is that they assume you already understand what belongs together.”
-> — Norwin Stonyeye
+> — Norwin Stoneyeye
 
 ---
 

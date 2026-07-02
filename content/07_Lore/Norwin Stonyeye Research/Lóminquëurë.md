@@ -1,6 +1,4 @@
 ---
-updated: 2026-03-30
-created: 2026-03-30
 title: Lóminquëurë (Root-Bound Servitors)
 aliases: [Lominquere, Root-Bound, Wood Elf Mummies]
 type: lore
@@ -30,7 +28,7 @@ related:
 ## Lóminquëurë (Root-Bound Servitors)
 *Scholarly Summary and Mechanical Notes*
 
-The **Lóminquëurë** are post-mortem servitors developed within Wood Elf druidic traditions during the late Emerald Throne period. Unlike [[Ancestor Golems]], which rely on fragmented soul residues bound to inert vessels, Lóminquëurë preserve a near-complete soul and bind it to an external locus of authority rather than the host body.
+The **Lóminquëurë** are post-mortem servitors developed within Wood Elf druidic traditions during the late Emerald Throne period. Unlike [[Elvish Ancestor Golems]], which rely on fragmented soul residues bound to inert vessels, Lóminquëurë preserve a near-complete soul and bind it to an external locus of authority rather than the host body.
 
 The transformation is performed at the threshold of natural death. The subject’s body undergoes total transmutation: flesh to wood, blood to sap, structure reinforced through treated bone and root lattice. The resulting form is stable, unliving, and highly resistant to conventional trauma.
 
@@ -205,7 +203,7 @@ I write not to refute him outright, but to place his conclusions within a broade
 
 ### On the Matter of Comparison
 
-It has become fashionable—particularly among younger scholars and human practitioners—to compare the Wood Elf Lóminquëurë with our own ancestral constructs, commonly termed [[Ancestor Golems]].
+It has become fashionable—particularly among younger scholars and human practitioners—to compare the Wood Elf Lóminquëurë with our own ancestral constructs, commonly termed [[Elvish Ancestor Golems]].
 
 The comparison is not unreasonable.
 

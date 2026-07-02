@@ -1,6 +1,4 @@
 ---
-updated: 2026-04-17
-created: 2026-04-17
 title: Giants (True Giants of the Flanaess)
 aliases:
 - Giantkind
@@ -14,7 +12,7 @@ tags:
 - norwin-notes
 - field-research
 related:
-- Norwin Stonyeye
+- Norwin Stoneyeye
 - County Wyrmlea
 - Durn Kalduhr
 - Teenkdiwar
@@ -23,7 +21,7 @@ related:
 
 # **Giants (True Giants of the Flanaess — Master Reference)**
 
-_By Norwin Stonyeye, Royal Archivist_
+_By Norwin Stoneyeye, Royal Archivist_
 
 ---
 

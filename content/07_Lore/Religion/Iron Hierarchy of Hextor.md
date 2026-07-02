@@ -1,6 +1,4 @@
 ---
-updated: 2026-06-03
-created: 2026-06-03
 title: Iron Hierarchy of Hextor
 aliases:
   - Hextorite Hierarchy

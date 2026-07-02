@@ -1,8 +1,3 @@
----
-created: 2026-06-16
-updated: 2026-06-16
----
-
 THE KING’S VOWS OF THE CROWNED SHIELD
 
 The Vows of the Crowned Shield are spoken before dawn on the day of coronation, in the sanctuary behind the Bannerhall altar, witnessed only by the Chaplain of the Triad. These vows bind the monarch not by law, but by divine right. They are the measure by which Heironeous judges the man who bears the crown.

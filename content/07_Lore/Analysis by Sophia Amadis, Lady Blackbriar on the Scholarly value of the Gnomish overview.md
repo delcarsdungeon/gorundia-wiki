@@ -19,7 +19,7 @@ subjects:
   - deep gnomes
   - noble governance
   - scholarly interpretation
-  - Norwin Stonyeye
+  - Norwin Stoneyeye
   - Lord Faelar Moonshade
 tags:
   - gnomes
@@ -35,7 +35,7 @@ tags:
 related:
   - "[[Sophia Amadis]]"
   - "[[Lady Blackbriar]]"
-  - "[[Norwin Stonyeye]]"
+  - "[[Norwin Stoneyeye]]"
   - "[[Faelar Moonshade]]"
   - "[[Gnomes of Gorundia]]"
   - "[[Forest Gnomes]]"
@@ -47,14 +47,14 @@ related:
 ---
 # A Concordance for the Noble Reader Concerning the Gnomish Peoples
 
-## Practical Notes Upon Master Stonyeye’s Report and Lord Moonshade’s Commentaries
+## Practical Notes Upon Master Stoneyeye’s Report and Lord Moonshade’s Commentaries
 
 > [!quote] Sophia Amadis, Lady Blackbriar
-> Master Stonyeye teaches the noble reader not to underestimate gnomes. Lord Moonshade teaches the noble reader not to understand them too quickly.
+> Master Stoneyeye teaches the noble reader not to underestimate gnomes. Lord Moonshade teaches the noble reader not to understand them too quickly.
 
 ## Purpose of This Concordance
 
-The recent exchange between Master Norwin Stonyeye and Lord Faelar Moonshade concerning the gnomish peoples has produced a body of commentary both useful and, in places, unnecessarily armed.
+The recent exchange between Master Norwin Stoneyeye and Lord Faelar Moonshade concerning the gnomish peoples has produced a body of commentary both useful and, in places, unnecessarily armed.
 
 This is not unusual in scholarship.
 
@@ -62,15 +62,15 @@ It is, however, inconvenient for noble readers who may require guidance without 
 
 I therefore offer this concordance not as a correction of either scholar, still less as an attempt to rival their expertise, but as a practical guide for noble houses, court officers, magistrates, guild patrons, military administrators, and other readers whose duties may eventually require dealings with gnomish communities.
 
-Master Stonyeye gives us excellent field caution.
+Master Stoneyeye gives us excellent field caution.
 
 Lord Moonshade gives us interpretive discipline.
 
 The noble reader requires both, provided neither is mistaken for policy in its raw form.
 
-## On Reading Master Stonyeye
+## On Reading Master Stoneyeye
 
-Master Stonyeye is at his strongest when he observes.
+Master Stoneyeye is at his strongest when he observes.
 
 His account of gnomish kinship, practical magical distinctions, rock gnome institutional habits, forest gnome unpredictability, and deep gnome uncertainty is valuable precisely because he writes from within gnomish experience. He knows the habits of his people as a man knows the floorboards of his childhood home: which ones creak, which ones hold weight, and which ones conceal something no visitor should touch.
 
@@ -78,15 +78,15 @@ That intimacy is a strength.
 
 It is also a danger.
 
-Master Stonyeye often mistakes familiarity for neutrality. His fondness for rock gnome order and suspicion of forest gnome ambiguity lead him to describe one mode of life as normal and another as frustrating. He does not always ask whether the frustration belongs to the subject or the observer.
+Master Stoneyeye often mistakes familiarity for neutrality. His fondness for rock gnome order and suspicion of forest gnome ambiguity lead him to describe one mode of life as normal and another as frustrating. He does not always ask whether the frustration belongs to the subject or the observer.
 
 This does not make his observations useless.
 
 It makes them observations in need of framing.
 
-The noble reader should trust Master Stonyeye most when he describes practical conduct, magical habits, institutional requirements, and likely risks. He should be read more cautiously when he explains what those facts mean.
+The noble reader should trust Master Stoneyeye most when he describes practical conduct, magical habits, institutional requirements, and likely risks. He should be read more cautiously when he explains what those facts mean.
 
-Master Stonyeye sees mechanisms clearly.
+Master Stoneyeye sees mechanisms clearly.
 
 He sometimes grows impatient with meanings that do not behave like mechanisms.
 
@@ -94,7 +94,7 @@ He sometimes grows impatient with meanings that do not behave like mechanisms.
 
 Lord Faelar Moonshade is at his strongest when he interprets.
 
-Where Master Stonyeye separates, Lord Moonshade relates. Where Master Stonyeye classifies, Lord Moonshade asks what older pattern or inherited memory may lie beneath the classification. His commentaries are particularly valuable in reminding the reader that a people’s customs are not always confused merely because they resist administrative categories.
+Where Master Stoneyeye separates, Lord Moonshade relates. Where Master Stoneyeye classifies, Lord Moonshade asks what older pattern or inherited memory may lie beneath the classification. His commentaries are particularly valuable in reminding the reader that a people’s customs are not always confused merely because they resist administrative categories.
 
 This is a necessary correction.
 
@@ -134,7 +134,7 @@ This is why noble readers must be careful. Facts may be carried into policy quic
 
 ## Forest Gnomes: Relation, Not Disorder
 
-Master Stonyeye describes forest gnomes as confirmed gnomish kin, fey-touched, somewhat nomadic, socially nimble, and magically difficult to classify. His practical warnings are valuable. A noble house dealing with forest gnome communities should not expect their magic, settlements, customs, or religious observances to fit neat guild categories.
+Master Stoneyeye describes forest gnomes as confirmed gnomish kin, fey-touched, somewhat nomadic, socially nimble, and magically difficult to classify. His practical warnings are valuable. A noble house dealing with forest gnome communities should not expect their magic, settlements, customs, or religious observances to fit neat guild categories.
 
 Lord Moonshade’s corrective is equally necessary.
 
@@ -157,7 +157,7 @@ The final point appears absurd until it is not.
 
 ## Rock Gnomes: Structure, Not Superiority
 
-Master Stonyeye is especially strong on rock gnomes, and especially partial.
+Master Stoneyeye is especially strong on rock gnomes, and especially partial.
 
 His account of rock gnome craft, recordkeeping, clothing, tools, magical engineering, bureaucratic habits, and Teenkwidar’s institutional culture is indispensable. Noble readers dealing with rock gnome communities should pay very close attention to his practical advice. Rock gnomes will notice sloppy terms, unclear obligations, imprecise measures, and contracts that rely upon goodwill where definition was required.
 
@@ -187,7 +187,7 @@ He is deciding how expensive your mistake should become.
 
 The matter of deep gnomes is the least immediately useful to the noble reader.
 
-Master Stonyeye is correct to refuse confirmation. Lord Moonshade is correct that absence from records is not proof of absence. The traditions, rumors, cave accounts, dwarven silences, strange place-names, and elven fragments gathered by both scholars are interesting.
+Master Stoneyeye is correct to refuse confirmation. Lord Moonshade is correct that absence from records is not proof of absence. The traditions, rumors, cave accounts, dwarven silences, strange place-names, and elven fragments gathered by both scholars are interesting.
 
 Very interesting.
 
@@ -203,7 +203,7 @@ Until such a people presents itself to treaty, tithe, court, road, border, milit
 
 This is not meant as mockery.
 
-Cryptid-hunting, when performed by competent scholars rather than excitable younger sons with lanterns, may preserve useful fragments of truth. Lord Moonshade’s treatment of deep gnome rumor is valuable as a study in scholarly uncertainty. Master Stonyeye’s caution is valuable as a restraint upon idiocy.
+Cryptid-hunting, when performed by competent scholars rather than excitable younger sons with lanterns, may preserve useful fragments of truth. Lord Moonshade’s treatment of deep gnome rumor is valuable as a study in scholarly uncertainty. Master Stoneyeye’s caution is valuable as a restraint upon idiocy.
 
 Still, the noble reader should draw no policy from deep gnome speculation beyond the following:
 
@@ -221,7 +221,7 @@ A rare and underused art.
 
 Though this concordance chiefly concerns the threefold comparison of the gnomish peoples, no noble reader should separate gnomish culture from gnomish worship too sharply.
 
-Master Stonyeye is helpful in describing layered religious practice: the old gnomish gods as household, clan, craft, burrow, road, and settlement powers; the Gorundian Triad as public, civic, military, legal, and charitable structure.
+Master Stoneyeye is helpful in describing layered religious practice: the old gnomish gods as household, clan, craft, burrow, road, and settlement powers; the Gorundian Triad as public, civic, military, legal, and charitable structure.
 
 This distinction is politically useful.
 
@@ -275,7 +275,7 @@ No wise noble house taxes, treaties, threatens, recruits, accuses, or marries in
 
 ### Error Four: Treating Norwin’s Tone as Evidence
 
-Master Stonyeye’s irritation is often entertaining.
+Master Stoneyeye’s irritation is often entertaining.
 
 It is not itself proof.
 
@@ -339,11 +339,11 @@ Scholarship informs policy.
 
 It does not replace judgment.
 
-Master Stonyeye’s report offers practical caution, especially valuable to guilds, officers, mages, and negotiators. Lord Moonshade’s commentaries offer interpretive caution, especially valuable to courts, diplomats, patrons, and those who might otherwise mistake administrative legibility for truth.
+Master Stoneyeye’s report offers practical caution, especially valuable to guilds, officers, mages, and negotiators. Lord Moonshade’s commentaries offer interpretive caution, especially valuable to courts, diplomats, patrons, and those who might otherwise mistake administrative legibility for truth.
 
 Neither should be read alone.
 
-A policy based only on Master Stonyeye risks becoming efficient, insulting, and blind to meaning.
+A policy based only on Master Stoneyeye risks becoming efficient, insulting, and blind to meaning.
 
 A policy based only on Lord Moonshade risks becoming elegant, slow, and vulnerable to practical surprise.
 
@@ -365,13 +365,13 @@ I include the warning twice because noble readers often require repetition when 
 
 ## Final Counsel
 
-Master Stonyeye is rarely wrong in observation, though often undisciplined in conclusion.
+Master Stoneyeye is rarely wrong in observation, though often undisciplined in conclusion.
 
 Lord Moonshade is rarely careless in interpretation, though occasionally too pleased with the length of the road by which he arrives.
 
 Between them lies something approaching wisdom.
 
-The noble reader should neither laugh off Master Stonyeye’s practical warnings nor drown in Lord Moonshade’s beautiful cautions. Gnomish peoples are neither a single administrative category nor a charming collection of eccentricities for court amusement. They are kin-groups, households, guilds, wanderers, priests, inventors, traders, charm-workers, elders, children, and possible hidden cousins whom no one has yet confirmed without sounding like they spent too long underground.
+The noble reader should neither laugh off Master Stoneyeye’s practical warnings nor drown in Lord Moonshade’s beautiful cautions. Gnomish peoples are neither a single administrative category nor a charming collection of eccentricities for court amusement. They are kin-groups, households, guilds, wanderers, priests, inventors, traders, charm-workers, elders, children, and possible hidden cousins whom no one has yet confirmed without sounding like they spent too long underground.
 
 In governance, the first duty is not to understand perfectly.
 
@@ -385,7 +385,7 @@ Treat deep gnomes as unconfirmed theory.
 
 Treat gnomish religion as layered loyalty.
 
-Treat both Master Stonyeye and Lord Moonshade as useful, difficult scholars whose greatest agreement is this:
+Treat both Master Stoneyeye and Lord Moonshade as useful, difficult scholars whose greatest agreement is this:
 
 Gnomes are not to be underestimated.
 

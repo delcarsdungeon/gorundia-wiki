@@ -1,6 +1,4 @@
 ---
-updated: 2026-06-03
-created: 2026-06-03
 type: report
 location: Royal Palace – Administrative Archives
 title: Assessment of Wonderful of Bard’s Gate as Candidate for Lord Mayor

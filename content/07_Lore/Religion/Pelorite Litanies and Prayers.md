@@ -1,8 +1,3 @@
----
-created: 2026-06-03
-updated: 2026-06-03
----
-
 > [!important] PLAYER AID — DOCTRINES OF THE UN SHADOWED DAWN
 > _Common teachings, prayers, and rites of the faithful of Pelor._
 

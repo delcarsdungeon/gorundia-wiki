@@ -1,6 +1,4 @@
 ---
-updated: 2026-03-21
-created: 2026-03-21
 title: The Hidden Grove
 aliases:
 - The Grove of Still Communion

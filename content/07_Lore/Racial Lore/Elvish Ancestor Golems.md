@@ -1,6 +1,4 @@
----
-updated: 2026-06-16
-created: 2026-06-16
+---  
 title: Ancestor Golems – Celene Doctrine & Controversy  
 aliases:  
 - Ancestral Continuance  
@@ -104,7 +102,7 @@ This assumption is incorrect.
 
 ---
 
-— Norwin Stonyeye
+— Norwin Stoneyeye
 
 # Source documents - various elvish sources
 # I. **Royal Memorandum of Continuance**

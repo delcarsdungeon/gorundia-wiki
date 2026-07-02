@@ -1,6 +1,4 @@
 ---
-updated: 2026-03-30
-created: 2026-03-30
 title: Norwin’s Addendum – On Lair Indicators (Zarathryss Vaelorath)
 aliases:
   - Zara Lair Hypothesis

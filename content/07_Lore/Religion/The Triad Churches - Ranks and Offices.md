@@ -1,6 +1,4 @@
 ---
-updated: 2026-06-03
-created: 2026-06-03
 title: The Triad Churches - Ranks and Offices
 aliases:
 - Triad Church Ranks
@@ -388,7 +386,7 @@ A Venerated Shield may not hold formal office, but their reputation, divine favo
 
 They are living examples of Heironean virtue: courage under divine burden, duty without vanity, and valor that does not need permission to act.
 
-The current living Venerated Shield of Heironeous is [[Dame Cwenheld of Marsten]].
+The current living Venerated Shield of Heironeous is [[Cwenheld]].
 
 Cwenheld earned the title through a lifetime of battlefield courage, sacred duty, and the infamous rescue of the infant [[Beringer]] from the slaughter at Villa Marsten. Her testimony of divine warning, her ride across two counties, and her stand against the black-armored killers became part of Heironean legend.
 
@@ -396,7 +394,7 @@ The title does not make her the head of the church.
 
 It makes her something more awkward.
 
-When [[Dame Cwenheld of Marsten]] speaks on courage, duty, or divine warning, even bishops and paladins listen carefully. Not because she outranks them on paper, but because Heironeous has already answered that question in steel.
+When [[Cwenheld]] speaks on courage, duty, or divine warning, even bishops and paladins listen carefully. Not because she outranks them on paper, but because Heironeous has already answered that question in steel.
 
 ---
 

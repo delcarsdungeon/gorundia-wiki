@@ -1,6 +1,4 @@
 ---
-updated: 2026-04-11
-created: 2026-04-11
 title: On the Informal Distinctions Among Practicing Wizards
 aliases:
   - Norwin’s Veils Lecture
@@ -17,7 +15,7 @@ related:
   - [[Arcane Practice in Gorundia]]
   - [[Maesters of Gorundia]]
   - [[Allaric Collegium Arcanum]]
-  - [[Norwin Stonyeye]]
+  - [[Norwin Stoneyeye]]
 ---
 
 # On the Informal Distinctions Among Practicing Wizards
@@ -29,7 +27,7 @@ related:
 
 ---
 > *“This is not how the world sees us.  This is how we see each other.  If you leave here with one lesson, let it be this: the nobles think in titles.  We think in outcomes.”*  
-> — Norwin Stonyeye
+> — Norwin Stoneyeye
 
 ---
 
@@ -269,4 +267,4 @@ A wizard hears:
 
 > *“If you must err, err on the side of politeness.  
 > A man you embarrass today may be the one maintaining your lifeline tomorrow.”*  
-> — Norwin Stonyeye
+> — Norwin Stoneyeye

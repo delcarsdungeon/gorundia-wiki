@@ -1,6 +1,4 @@
 ---
-updated: 2026-03-14
-created: 2026-03-14
 title: The Morning After the Dragon
 type: event
 date: 14 Readying 1231 OR

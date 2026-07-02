@@ -1,8 +1,3 @@
----
-created: 2026-03-14
-updated: 2026-03-14
----
-
 The Ritual of the Unbroken Queen
  
 “It’s all a bit theatrical, isn’t it? The noble knight, the unbroken queen, the battlefield wedding — sounds like something a bard made up drunk on wine and virtue. But damn if it doesn’t stick in the heart. Corny as hell. Beautiful, too.” — [[Sorek Redmarch]]

@@ -1,6 +1,4 @@
 ---
-updated: 2026-04-11
-created: 2026-04-11
 title: Norwin’s Notes — The Sky Lord
 aliases: [Sky Lord Research, Thraximar Notes, Flying Castle Intelligence]
 type: lore

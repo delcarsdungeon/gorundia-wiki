@@ -1,8 +1,3 @@
----
-created: 2026-03-14
-updated: 2026-03-14
----
-
 # Grugach Cultural Taboos
 
 The [[Grugach]] elves maintain strict cultural and spiritual traditions tied to the natural world. Certain actions are considered grave taboos within their society, as they disrupt the balance between the people, the land, and the spirits that dwell within it.
