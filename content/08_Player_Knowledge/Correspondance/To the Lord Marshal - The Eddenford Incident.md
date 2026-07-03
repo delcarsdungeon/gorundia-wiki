@@ -1,3 +1,32 @@
+---
+title: "Field Report — The Eddenford Incident"
+aliases:
+- "To the Lord Marshal - The Eddenford Incident"
+- "Mask-Raid Report"
+- "North Granary House Incident"
+type: report
+category: field-report
+status: published
+publish: true
+date: 2026-07-03 16:34:00
+sort-date: 2026-07-03 16:34:00
+updated: 2026-07-03 16:25:38
+display-date: "third night following the seating of Dame Dana Sylvanranth as Countess of Blackvale"
+tags:
+- "report"
+- "blackvale"
+- "dragonguard"
+- "dana-sylvanranth"
+- "eddenford"
+- "lord-marshal"
+related:
+- "[[Beringer Amadis]]"
+- "[[Dame Dana Sylvanranth]]"
+- "[[Blackvale]]"
+- "[[Dragonguard]]"
+- "[[Eddenford]]"
+---
+
 # Mage-Delivered Field Report
 
 ## To the Lord Marshal of Gorundia

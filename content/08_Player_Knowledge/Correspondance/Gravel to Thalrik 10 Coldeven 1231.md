@@ -1,9 +1,33 @@
 ---
-created: 2026-06-12
-updated: 2026-06-12
+title: "Paid Sending from Gravel to Thalrik"
+aliases:
+- "Gravel to Thalrik 10 Coldeven 1231"
+- "Dregs Refugee Sending"
+type: message
+category: arcane-dispatch
+status: published
+publish: true
+date: 2026-07-03 16:33:00
+sort-date: 2026-07-03 16:33:00
+updated: 2026-07-03 16:25:38
+display-date: "10 Coldeven 1231 OR"
+tags:
+- "message"
+- "sending"
+- "bards-gate"
+- "dregs"
+- "refugees"
+- "vogel-coin"
+- "thalrik"
+related:
+- "[[Gravel]]"
+- "[[Thalrik Vaultforge]]"
+- "[[Bard's Gate]]"
+- "[[The Dregs]]"
+- "[[Vogel Coinage]]"
 ---
 
-## Paid Sending to Thalrik — Gravel via Brindlewick & Sons Arcane Dispatch
+# Paid Sending to Thalrik — Gravel via Brindlewick & Sons Arcane Dispatch
 
 The message reaches Thalrik in the clipped, bloodless cadence of a hired sending.
 

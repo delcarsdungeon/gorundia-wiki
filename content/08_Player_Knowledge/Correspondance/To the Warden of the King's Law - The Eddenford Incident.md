@@ -1,3 +1,33 @@
+---
+title: "Legal Incident Report — The Eddenford Incident"
+aliases:
+- "To the Warden of the King's Law - The Eddenford Incident"
+- "Eddenford Incident Legal Report"
+- "Death of Nial Harrow"
+type: report
+category: legal
+status: published
+publish: true
+date: 2026-07-03 16:25:00
+sort-date: 2026-07-03 16:25:00
+updated: 2026-07-03 16:25:38
+display-date: "after the seating of Dame Dana Sylvanranth as Countess of Blackvale"
+tags:
+- "report"
+- "legal"
+- "blackvale"
+- "dragonguard"
+- "dana-sylvanranth"
+- "eddenford"
+- "kings-law"
+related:
+- "[[Thalrik Vaultforge]]"
+- "[[Dame Dana Sylvanranth]]"
+- "[[Blackvale]]"
+- "[[Dragonguard]]"
+- "[[Eddenford]]"
+---
+
 # Legal Incident Report
 
 ## To Thalrik Vaultforge, Warden of the King’s Law

@@ -1,7 +1,34 @@
 ---
-created: 2026-06-12
-updated: 2026-06-12
+title: "Quartermaster Report on the Collapse of Vogel Coinage"
+aliases:
+- "Report from the Quartermaster to the Lord Marshal, 10 Coldeven 1231"
+- "Vogel Coinage Collapse Report"
+- "Merrec Vane Coinage Report"
+type: report
+category: logistics
+status: published
+publish: true
+date: 2026-07-03 16:31:00
+sort-date: 2026-07-03 16:31:00
+updated: 2026-07-03 16:25:38
+display-date: "10 Coldeven 1231 OR"
+tags:
+- "report"
+- "logistics"
+- "vogel-coin"
+- "refugees"
+- "supply"
+- "morale"
+- "lord-marshal"
+related:
+- "[[Beringer Amadis]]"
+- "[[Quartermaster Merrec Vane]]"
+- "[[Vogel Coinage]]"
+- "[[Grevandar]]"
+- "[[House Vogel]]"
 ---
+
+# Quartermaster Report on the Collapse of Vogel Coinage
 
 **To:** His Lordship, the Lord Marshal  
 **From:** Quartermaster Merrec Vane, Field Supply Office  

@@ -1,9 +1,34 @@
 ---
-created: 2026-06-12
-updated: 2026-06-12
+title: "Message from Braga to Orin Concerning Oxlight Refugees"
+aliases:
+- "Braga to Orin 10 Coldeven 1231 - Refugee woes"
+- "Oxlight Refugee Message"
+- "Mara Moffet Relay to Orin"
+type: message
+category: arcane-dispatch
+status: published
+publish: true
+date: 2026-07-03 16:35:00
+sort-date: 2026-07-03 16:35:00
+updated: 2026-07-03 16:25:38
+display-date: "10 Coldeven 1231 OR"
+tags:
+- "message"
+- "sending"
+- "orin"
+- "braga"
+- "oxlight"
+- "refugees"
+- "vogel-coin"
+related:
+- "[[Braga Kharne]]"
+- "[[Orin Kharne]]"
+- "[[Mara Moffet]]"
+- "[[Oxlight]]"
+- "[[Vogel Coinage]]"
 ---
 
-## Message Re: Oxlight — Maester Mara Moffet Receiving
+# Message Re: Oxlight — Maester Mara Moffet Receiving
 
 The signal reaches Orin after a delay.
 
