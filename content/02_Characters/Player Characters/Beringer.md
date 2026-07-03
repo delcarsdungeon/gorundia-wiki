@@ -53,7 +53,7 @@ related:
 - [[Beringer]] is the secret son of [[Galmyr VogelDuke Galmyr Vogel]] and [[Avelyne Marsten]].
 - Beringer is raised by [[Alistair Amadis|Count Alistair Amadis]] and [[Anna Amadis|Countess Anna Amadis]].
 - Only [[Cwenheld]], Count Alistair, and Countess Anna know his true birth during his childhood.
-- The Vogel signet ring is hidden by Cwenheld after Galmyr gives it to her.
+- The Vogel signet ring is quietly passed to Anna Amadis by Cwenheld after Galmyr gives it to her.
 - [[Elizaveta Golitsyn]] is the daughter of **Boyar Alexsi Golitsyn**, tyrannical former lord of House Golitsyn.
 - Elizaveta's father and brother are killed during the war between Amadis and Golitsyn.
 - The heir of House Golitsyn, Elizaveta's brother, is deliberately left unnamed in Amadis histories as a final insult.
@@ -848,65 +848,9 @@ Together, House Amadis carries him through the darkest year of his life.
 
 ---
 
-# The Mercy Knife
-
-## Orenic Counter-Doctrine
-
-The Mercy Knife is not merely a dagger.
-
-It is an Orenic answer to the Dominion's favorite little theological atrocity: the claim that all conquered lives belong to [[Hextor]], and that a slave's body, labor, oath, and soul may be lawfully bent to tyranny.
-
-The Orenic counter-doctrine is older than Royonad's open break from the Dominion, but it became sacred during the resistance:
-
-> No soul belongs to the chain.  
-> No god owns the unwilling.  
-> Mercy is the last freedom tyrants cannot command.
-
-In Dominion lands, this belief is heresy.
-
-In Orenic lands, it is one of the roots of freedom.
-
-A Mercy Knife is carried by prisoners, partisans, border priests, scouts, and families who understand what Hextorite bondage means. It is not meant for murder. It is not meant for glory. It is not even primarily meant for battle.
-
-It exists for three sacred acts:
-
-- To cut bonds, collars, cords, oath-ribbons, and slave-marks when freedom is possible.
-- To deny Hextorite priests the right to claim a captive as property when escape is impossible.
-- To give the enslaved, the dying, or the spiritually bound one final choice that belongs only to them.
-
-Among Orenics, the knife is sometimes called **the Last Mercy**, **the Free Edge**, or **the Knife That Refuses**.
-
-Among Dominion priests, it is called sedition.
-
-So naturally the Orenics kept making them. Because civilization occasionally manages one good idea between massacres.
-
----
-
-## Form and Materials
-
-A traditional Mercy Knife is small enough to hide and fine enough to pass as a lady's eating knife, a boot blade, or a devotional object.
-
-Typical features include:
-
-- A narrow blade of true silver or silvered steel.
-- A shallow fuller etched with a short oath or prayer.
-- A cutting edge strong enough to sever cord, leather, and soft chain-links.
-- A reinforced point meant to slip under collar-rivets or ritual clasps.
-- A hidden maker's mark, often Orenic, placed where a Dominion inspector would not think to look.
-- A grip that can be rewrapped, concealing hair, thread, written prayers, or blood-oath tokens.
-
-A Mercy Knife is usually blessed quietly, not in a grand temple rite.
-
-The blessing is less about making the blade holy and more about making the bearer remember:
-
-> Mercy is not surrender.  
-> Mercy is refusal.
-
----
-
 ## Elizaveta's Mercy Knife
 
-Among the few possessions recovered from Golitsyn's Gate was [[Elizaveta Golitsyn]]'s Mercy Knife.
+Among the few possessions recovered from Golitsyn's Gate was [[Elizaveta Golitsyn]]'s Mercy Knife, [[The Second Mercy]].
 
 It had been made in the Orenic style, though disguised for life inside House Golitsyn.
 
@@ -1352,37 +1296,33 @@ Which, naturally, means power is about to start stalking him like an unpaid debt
 
 ---
 
-# Updated Continuity Notes
+> [!info]- Updated Continuity Notes
+> 
+> - [[Elizaveta Golitsyn]] is the daughter of [[Boyar Alexsi Golitsyn]], not Mstislav.
+> - Boyar Alexsi Golitsyn is dead by the end of Golitsyn's Gate.
+> - Elizaveta's unnamed brother, the heir of House Golitsyn, is also dead.
+> - The current cousin-head of House Golitsyn remains unnamed.
+> - The Mercy Knife is Orenic in doctrine and likely Orenic in manufacture, though disguised with Golitsyn ornamentation.
+> - Elizaveta's apparent death at Golitsyn's Gate is still true for this period.
+> - Her later binding in the [[Halls of the Dead]] and eventual freedom are later-campaign developments.
+> - Beringer's Bloodsworn Oath is sworn over Elizaveta's Mercy Knife in 1219 OR.
+> - Beringer departs Blackbriar as a hedge knight shortly after receiving his knighthood.
+> - By 1228-1230 OR, he is Captain of the Greencloaks under Lord-Mayor Theron Sylvanranth.
 
-- [[Elizaveta Golitsyn]] is the daughter of [[Boyar Alexsi Golitsyn]], not Mstislav.
-- Boyar Alexsi Golitsyn is dead by the end of Golitsyn's Gate.
-- Elizaveta's unnamed brother, the heir of House Golitsyn, is also dead.
-- The current cousin-head of House Golitsyn remains unnamed.
-- The Mercy Knife is Orenic in doctrine and likely Orenic in manufacture, though disguised with Golitsyn ornamentation.
-- Elizaveta's apparent death at Golitsyn's Gate is still true for this period.
-- Her later binding in the [[Halls of the Dead]] and eventual freedom are later-campaign developments.
-- Beringer's Bloodsworn Oath is sworn over Elizaveta's Mercy Knife in 1219 OR.
-- Beringer departs Blackbriar as a hedge knight shortly after receiving his knighthood.
-- By 1228-1230 OR, he is Captain of the Greencloaks under Lord-Mayor Theron Sylvanranth.
+> [!info]- Themes Added by the Mercy Knife
+> 
+> - Mercy as refusal of ownership
+> - Freedom as a sacred Orenic inheritance
+> - Hextorite slavery versus personal sovereignty
+> - Elizaveta's resistance beginning before Beringer ever rescued her
+> - Beringer's grief transforming into anti-tyranny duty
+> - The knife as an answer to chains, not a celebration of death
+> - Orenic resistance culture hiding inside Dominion households like a thorn under silk
 
----
-
-# Themes Added by the Mercy Knife
-
-- Mercy as refusal of ownership
-- Freedom as a sacred Orenic inheritance
-- Hextorite slavery versus personal sovereignty
-- Elizaveta's resistance beginning before Beringer ever rescued her
-- Beringer's grief transforming into anti-tyranny duty
-- The knife as an answer to chains, not a celebration of death
-- Orenic resistance culture hiding inside Dominion households like a thorn under silk
-
----
-
-# Short Version for Table Reference
-
-After Golitsyn's Gate, House Amadis wins the field and breaks House Golitsyn as a military power, but the victory destroys Beringer personally. The masked Champion of the Pits is revealed as Elizaveta Golitsyn, his secret wife, enslaved and forced into battle. The blow that breaks her collar also kills her.
-
-Beringer survives his own near-fatal wound and spends nearly a year recovering at Blackbriar. Among Elizaveta's recovered possessions is her Mercy Knife: a true-silver blade made in the Orenic tradition, disguised with Golitsyn ornamentation, and rooted in the doctrine that no soul belongs to Hextor's chains. Beringer later swears his Bloodsworn Oath over the knife, vowing to live a life worthy of the woman Elizaveta became and never to let grief become an excuse for abandoning honor.
-
-After being knighted, Beringer leaves Blackbriar rather than seek land or title. From 1219 to 1230 OR, he rides the western frontier as a hedge knight, joins the Adventurers' Guild, earns a reputation for defending those who cannot pay, and eventually becomes Captain of the Greencloaks under Theron Sylvanranth. By 1230, he is no longer just a grieving knight. He is a frontier commander, a symbol of chosen honor, and an inconveniently good man standing exactly where history likes to start throwing knives.
+> [!info]- Short Version for Table Reference
+> 
+> After Golitsyn's Gate, House Amadis wins the field and breaks House Golitsyn as a military power, but the victory destroys Beringer personally. The masked Champion of the Pits is revealed as Elizaveta Golitsyn, his secret wife, enslaved and forced into battle. The blow that breaks her collar also kills her.
+> 
+> Beringer survives his own near-fatal wound and spends nearly a year recovering at Blackbriar. Among Elizaveta's recovered possessions is her Mercy Knife: a true-silver blade made in the Orenic tradition, disguised with Golitsyn ornamentation, and rooted in the doctrine that no soul belongs to Hextor's chains. Beringer later swears his Bloodsworn Oath over the knife, vowing to live a life worthy of the woman Elizaveta became and never to let grief become an excuse for abandoning honor.
+> 
+> After being knighted, Beringer leaves Blackbriar rather than seek land or title. From 1219 to 1230 OR, he rides the western frontier as a hedge knight, joins the Adventurers' Guild, earns a reputation for defending those who cannot pay, and eventually becomes Captain of the Greencloaks under Theron Sylvanranth. By 1230, he is no longer just a grieving knight. He is a frontier commander, a symbol of chosen honor, and an inconveniently good man standing exactly where history likes to start throwing knives.
