@@ -44,15 +44,15 @@ related:
 # Beringer Amadis Timeline - Hidden Heir to Golitsyn's Gate
 
 > [!summary]
-> This page covers the early life of [[Sir Beringer Amadis]], from his hidden birth in 1200 OR through the war with [[House Golitsyn]] and the battle remembered as [[Golitsyn's Gate]].
+> This page covers the early life of [[Beringer|Sir Beringer Amadis]], from his hidden birth in 1200 OR through the war with [[House Golitsyn]] and the battle remembered as [[Golitsyn's Gate]].
 >
-> Born the acknowledged but hidden son of [[Duke Galmyr Vogel]] and [[Avelyne Marsten]], Beringer was rescued from the cursed ruin of [[Villa Marsten]] by [[Dame Cwenheld]] and raised within [[House Amadis]] as one of their own. His youth at [[Blackbriar]] gave him the foundation that later made him both knight and Lord Marshal: discipline, mercy, service, and the stubborn belief that honor is earned rather than inherited.
+> Born the acknowledged but hidden son of [[Duke Galmyr Vogel]] and [[Avelyne Marsten]], Beringer was rescued from the cursed ruin of [[Villa Marsten]] by [[Cwenheld|Cwenheld, the Venerated Shield of Heironeous]] and raised within [[House Amadis]] as one of their own. His youth at [[Blackbriar]] gave him the foundation that later made him both knight and Lord Marshal: discipline, mercy, service, and the stubborn belief that honor is earned rather than inherited.
 
 ## Continuity Notes
 
-- [[Sir Beringer Amadis]] is the secret son of [[Duke Galmyr Vogel]] and [[Avelyne Marsten]].
-- Beringer is raised by [[Count Alistair Amadis]] and [[Countess Anna Amadis]].
-- Only [[Dame Cwenheld]], Count Alistair, and Countess Anna know his true birth during his childhood.
+- [[Beringer]] is the secret son of [[Galmyr VogelDuke Galmyr Vogel]] and [[Avelyne Marsten]].
+- Beringer is raised by [[Alistair Amadis|Count Alistair Amadis]] and [[Anna Amadis|Countess Anna Amadis]].
+- Only [[Cwenheld]], Count Alistair, and Countess Anna know his true birth during his childhood.
 - The Vogel signet ring is hidden by Cwenheld after Galmyr gives it to her.
 - [[Elizaveta Golitsyn]] is the daughter of **Boyar Alexsi Golitsyn**, tyrannical former lord of House Golitsyn.
 - Elizaveta's father and brother are killed during the war between Amadis and Golitsyn.
@@ -69,11 +69,11 @@ related:
 
 **Age:** 0
 
-[[Sir Beringer Amadis]] is born at [[Villa Marsten]], an estate in the wooded hills northeast of [[Castle Direhold]] in the Duchy of [[Grevandar]]. His birth falls upon the first Godsday of spring, a date long regarded by the faithful of [[Heironeous]] as an auspicious beginning.
+[[Beringer]] is born at [[Villa Marsten]], an estate in the wooded hills northeast of [[Castle Direhold]] in the Duchy of [[Grevandar]]. His birth falls upon the first Godsday of spring, a date long regarded by the faithful of [[Heironeous]] as an auspicious beginning.
 
-He is the only son of [[Duke Galmyr Vogel]], heir to one of the oldest noble houses in [[Gorundia]], and [[Avelyne Marsten]], a skilled man-at-arms in the duke's service.
+He is the first born son of [[Galmyr Vogel]], heir to one of the oldest noble houses in [[Gorundia]], and [[Avelyne Marsten]], a skilled man-at-arms in the duke's service.
 
-Though Galmyr and Avelyne never marry because of the gulf between their stations, Duke Galmyr openly acknowledges both mother and son. He grants Avelyne a villa in recognition of her faithful service and ensures that she and the child want for nothing.
+Though Galmyr and Avelyne never marry because of the gulf between their stations, Duke Galmyr openly acknowledges both mother and son. He grants Avelyne a villa in recognition of her faithful service to try and ensure that she and the child want for nothing.
 
 Beringer enters the world carrying two inheritances:
 
@@ -110,9 +110,9 @@ Though the curse has already taken root, the ritual remains unfinished.
 
 ## The Last Choice of Duke Galmyr
 
-After escaping Villa Marsten, Dame Cwenheld meets Duke Galmyr only once.
+After escaping Villa Marsten, Cwenheld reunites with Duke Galmyr only once.
 
-Believing himself somehow compromised by unseen enemies, Galmyr reaches a heartbreaking conclusion: if his son remains anywhere near [[House Vogel]], the child will never be safe.
+Believing himself somehow compromised by unseen enemies, and deep in his heart, is afraid his wife, [[Zannara]] is behind it, Galmyr reaches a heartbreaking conclusion: if his son remains anywhere near [[House Vogel]], the child will never be safe.
 
 Entrusting Cwenheld with his future, the duke asks only one thing.
 
@@ -132,9 +132,9 @@ Dame Cwenheld carries the infant north and east to [[County Blackbriar]], placin
 
 Only three people know the child's true identity:
 
-- [[Dame Cwenheld]]
-- [[Count Alistair Amadis]]
-- [[Countess Anna Amadis]]
+- [[Cwenheld]]
+- [[Alistair Amadis]]
+- [[Anna Amadis]]
 
 The Vogel signet ring is hidden away.
 
@@ -163,7 +163,7 @@ Together they instill a lesson that will define Beringer's entire life:
 
 Within [[House Amadis]], Beringer grows beside two younger children.
 
-[[Alistair Amadis the Younger]], heir to the county, quickly becomes the brother Beringer never had. Though different by birth, the two boys trust one another without reservation, sharing both their triumphs and their burdens.
+[[Alistair the Younger]], heir to the county, quickly becomes the brother Beringer never had. Though different by birth, the two boys trust one another without reservation, sharing both their triumphs and their burdens.
 
 Young [[Sophia Amadis]] follows behind them. Bright, endlessly curious, and fiercely devoted to her brothers, she quarrels with Beringer as only siblings can before making peace just as quickly.
 
@@ -177,7 +177,7 @@ For all three children, the distinction between blood and adoption simply never 
 
 Unknown to anyone within Blackbriar Court, the blood curse placed upon Beringer during infancy remains buried deep within him.
 
-Whether through the intervention of [[Dame Cwenheld]], the grace of [[Atroa]], or divine providence itself, the curse lies dormant throughout his childhood.
+Whether through the intervention of Cwenheld, the grace of [[Atroa]], or divine providence itself, the curse lies dormant throughout his childhood.
 
 Its existence is all but forgotten.
 
