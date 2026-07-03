@@ -15,6 +15,17 @@ LIMIT 30
 ```
 %%
 
+- [[08_Player_Knowledge/Correspondance/Beringer to Sir Jareth DeSalle.md|Beringer to Sir Jareth DeSalle]]
+- [[08_Player_Knowledge/Correspondance/Braga to Orin 10 Coldeven 1231 - Refugee woes.md|Braga to Orin 10 Coldeven 1231 - Refugee woes]]
+- [[08_Player_Knowledge/Correspondance/Gravel to Thalrik 10 Coldeven 1231.md|Gravel to Thalrik 10 Coldeven 1231]]
+- [[08_Player_Knowledge/Correspondance/Jareth DeSalle to Beringer.md|Jareth DeSalle to Beringer]]
+- [[08_Player_Knowledge/Correspondance/Memorandum Concerning the Requisition of South DeSalle Village.md|Memorandum Concerning the Requisition of South DeSalle Village]]
+- [[08_Player_Knowledge/Correspondance/Milena to Rykeena.md|Milena to Rykeena]]
+- [[08_Player_Knowledge/Correspondance/Report from the Quartermaster to the Lord Marshal, 10 Coldeven 1231.md|Report from the Quartermaster to the Lord Marshal, 10 Coldeven 1231]]
+- [[08_Player_Knowledge/Correspondance/To the Lord Marshal - The Eddenford Incident.md|To the Lord Marshal - The Eddenford Incident]]
+- [[08_Player_Knowledge/Correspondance/To the Warden of the King's Law - The Eddenford Incident.md|To the Warden of the King's Law - The Eddenford Incident]]
+- [[08_Player_Knowledge/Correspondance/Toven to Jinwing.md|Toven to Jinwing]]
+- [[08_Player_Knowledge/Correspondance/Wonderful to Beringer 10 Coldeven 1231.md|Wonderful to Beringer 10 Coldeven 1231]]
 - [[02_Characters/Player Characters/Beringer.md|Beringer]]
 - [[09_Factions/Military Units/Dragonguard.md|Dragonguard]]
 - [[08_Player_Knowledge/Orenic Last Mercy.md|Orenic Last Mercy]]
@@ -34,16 +45,5 @@ LIMIT 30
 - [[07_Lore/Faelor Moonshades Corrections of Gnomish Hyperbole/Lord Faelar Moonshade's Remarks Upon Master Norwin Stoneyeye's Treatment of the Forest Gnomes.md|Lord Faelar Moonshade's Remarks Upon Master Norwin Stoneyeye's Treatment of the Forest Gnomes]]
 - [[07_Lore/Faelor Moonshades Corrections of Gnomish Hyperbole/Lord Faelar Moonshade's Remarks Upon Master Norwin Stoneyeye's Research Notes Concerning the Tel'vaereth Sylthalor.md|Lord Faelar Moonshade's Remarks Upon Master Norwin Stoneyeye's Research Notes Concerning the Tel'vaereth Sylthalor]]
 - [[07_Lore/Faelor Moonshades Corrections of Gnomish Hyperbole/Lord Faelar Moonshade's Remarks Upon Master Norwin Stoneyeye's Field Notes Concerning Ancestral Continuance.md|Lord Faelar Moonshade's Remarks Upon Master Norwin Stoneyeye's Field Notes Concerning Ancestral Continuance]]
-- [[03_Houses/04_Minor Nobility/House Durathen.md|House Durathen]]
-- [[08_Player_Knowledge/Magic/Arcane Practice in Gorundia.md|Arcane Practice in Gorundia]]
-- [[07_Lore/Norwin Stonyeye Research/Druids and Dragons.md|Druids and Dragons]]
-- [[07_Lore/Analysis by Sophia Amadis, Lady Blackbriar on the Scholarly value of the Gnomish overview.md|Analysis by Sophia Amadis, Lady Blackbriar on the Scholarly value of the Gnomish overview]]
-- [[02_Characters/Merchants/Alden Durathen.md|Alden Durathen]]
-- [[02_Characters/Player Characters/Norwin Stoneyeye.md|Norwin Stoneyeye]]
-- [[02_Characters/Religious/Bilvyn Boonspell.md|Bilvyn Boonspell]]
-- [[09_Factions/Order of the Unbarred Dawn.md|Order of the Unbarred Dawn]]
-- [[09_Factions/Military Units/The Free Order of the Open Chain.md|The Free Order of the Open Chain]]
-- [[05_Events/Manticore War/The Second Draft Resupplies the Badger.md|The Second Draft Resupplies the Badger]]
-- [[05_Events/Manticore War/Blackbar Aftermath.md|Blackbar Aftermath]]
 
 %% DATAVIEW_PUBLISHER: end %%
