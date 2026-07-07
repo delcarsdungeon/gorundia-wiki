@@ -148,7 +148,7 @@ To drag rot from the crown.
 
 ### Final Chorus
 
-He’s grim as old December, and polite as sharpened wire,  
+He’s grim as cold winter, and polite as sharpened wire,  
 He thinks a pleasant evening is a properly banked fire.  
 But his lady rides beside him, and the king’s men raise a fist,  
 For the realm still stands behind him, and he’s still got the list.
