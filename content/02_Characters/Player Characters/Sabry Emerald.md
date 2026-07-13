@@ -43,6 +43,8 @@ related:
 > [!quote] [[Jinwing]]
 > “The first time I met Sabry, she feared her own fire. Now the Living Flame trusts her to carry its own.”
 
+![[Sabry and Two Thirds of the Trouble Trio.png|340]]![[Rhovanions Journal Sabry.png|240]] 
+*With a picture from [[Rhovanion|Rhovanion's]] Journal*
 ## Overview
 
 **Full Name:** Sabry Emerald  
@@ -61,6 +63,8 @@ Although Sabry is renowned as one of the greatest pyromancers of her age, those 
 They speak of her restraint.
 
 ## Appearance
+
+![[Sabry Emerald.png]]
 
 Sabry is young by the standards of her people, possessing the timeless elegance common to elves without the effortless confidence often associated with elven nobility.
 
