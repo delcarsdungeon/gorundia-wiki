@@ -515,7 +515,15 @@ Volika is part of the house’s security.
 Lily is the part customers notice first.
 
 ---
+### Marda “Keys” Venn
 
+[[Marda Keys Venn|Marda “Keys” Venn]] serves as house steward and acting manager of the Iron Rose.
+
+When Volika is away, Marda runs the rooms, staff, payroll, security, and daily business of the house. She holds full authority to refuse customers, close the doors, summon the healer, spend emergency funds, and direct [[Lily]].
+
+Volika trusts Marda because she protects the business.
+
+Marda protects the workers because she remembers what it feels like to be counted as part of one.
 # Information and Influence
 
 The Iron Rose hears a great deal.
