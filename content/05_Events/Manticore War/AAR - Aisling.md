@@ -2,11 +2,12 @@
 
 ## INCIDENT: ATTACK UPON LADY SOPHIA’S HOUSEHOLD AND THE SOUTHERN LABOR LINES
 
-**Location:** Southern supply quarter, adjoining Lady Sophia’s field household  
-**Enemy:** Approximately twelve Dominion infantry; one Hextorian temple officer  
-**Primary Defender:** Aisling, presently serving within Lady Sophia’s household  
-**Witness:** Marta Eselin, laundress and wife of Corporal Jannik Eselin, Fourth Spear Company  
-**Statement taken by:** Truthseeker Halvern, Order of Pholtus  
+**Location:** Southern supply quarter, adjoining Lady Sophia’s field household
+**Enemy:** Approximately twelve Dominion infantry; one Hextorian temple officer
+**Primary Defender:** Aisling, presently serving within Lady Sophia’s household
+**Household Guard:** Dame Koriel Targost, Shieldmaiden of House Amadis and veteran of Red Gorge
+**Witness:** Marta Eselin, laundress and wife of Corporal Jannik Eselin, Fourth Spear Company
+**Statement taken by:** Truthseeker Halvern, Order of Pholtus
 **Status:** Restricted pending determination of magical agency
 
 ---
@@ -37,19 +38,31 @@ She simply began helping Lady Sophia, and after the first day it seemed she had 
 
 But she accepted Aisling.
 
-Her old bodyguard did too.
+Dame Koriel did too.
 
-**HALVERN:** The knight formerly charged with supervising her?
+**HALVERN:** Dame Koriel Targost?
 
-**MARTA:** Yes, sir.
+**MARTA:** Yes, sir. Lady Sophia’s Shieldmaiden.
 
-He looked relieved.
+**HALVERN:** A veteran of Red Gorge.
+
+**MARTA:** She carries herself like one.
+
+She is not young, but I never saw her move as though she had forgotten how to fight.
+
+Only as though she knew exactly how much of herself each fight deserved.
+
+**HALVERN:** How did she regard Aisling’s presence?
+
+**MARTA:** With relief, I think.
 
 Aisling knew where Lady Sophia had left things. She remembered which messages had been answered, which meals she had refused, and when she had slipped away from her escort.
 
-The bodyguard would ask whether Lady Sophia was where she claimed to be.
+Dame Koriel would ask whether Lady Sophia was where she claimed to be.
 
-Aisling would tell him where she actually was.
+Aisling would tell her where she actually was.
+
+Neither seemed surprised by the other.
 
 They worked well together.
 
@@ -75,31 +88,31 @@ Then she began counting us.
 
 She moved from tent to tent and called each person by name. Even those she had only met that morning.
 
-She found a kitchen girl under a wagon. She lifted an old groom who had broken his ankle. She sent the children toward the blue-painted water cart and told me to keep them together.
+She found a kitchen girl beneath a wagon. She lifted an old groom who had broken his ankle. She sent the children toward the blue-painted water cart and told me to keep them together.
 
 She was not shouting.
 
 But everyone heard her.
 
-**HALVERN:** Was her voice magically enhanced?
+Dame Koriel came from the pavilion with her shield raised and her sword drawn.
 
-**MARTA:** I do not know.
+She asked:
 
-It did not sound louder.
+> “Where is she?”
 
-It simply seemed impossible not to listen.
-
-Lady Sophia’s bodyguard came from the pavilion with his sword drawn. He asked where his lady was.
-
-Aisling said:
+Aisling answered:
 
 > “With the surgeons. She will remain there if you keep the road open.”
 
-He did not argue.
+Dame Koriel looked once toward the enemy, then toward the workers.
 
-He went directly toward the Dominion soldiers.
+> “You have them?”
 
-She went toward the workers.
+> “I have them.”
+
+Dame Koriel nodded.
+
+Then she went to hold the road.
 
 They did not need to discuss it further.
 
@@ -363,6 +376,46 @@ She knew someone had stood back up for her.
 
 It is only what I thought.
 
+**HALVERN:** Where was Dame Koriel during this?
+
+**MARTA:** At the road.
+
+The Dominion soldiers tried three times to break through.
+
+She stopped them each time.
+
+She fought behind her shield and gave ground only when the workers had cleared the space behind her.
+
+There was no shouting from her.
+
+Only orders.
+
+> “Back.”
+
+> “Close.”
+
+> “Move the wounded.”
+
+Once, I saw a younger soldier rush past her toward the children.
+
+Dame Koriel caught him with the edge of her shield and put him on the ground.
+
+She did not look down to see whether he rose.
+
+She already knew he would not.
+
+**HALVERN:** Was she wounded?
+
+**MARTA:** Several times.
+
+She had a cut over one eye and blood beneath her armor.
+
+It did not seem to change anything.
+
+She had survived Red Gorge.
+
+I think the Dominion men understood that before I did.
+
 **HALVERN:** What happened to the temple officer?
 
 **MARTA:** Aisling drew him away from us.
@@ -391,27 +444,25 @@ The officer followed her.
 
 **MARTA:** No.
 
-Lady Sophia’s bodyguard reached us then.
+Dame Koriel reached us then.
 
-He had blood on his sword and a cut across his face.
+She had blood on her sword and a cut across her face.
 
-He asked where Aisling had gone.
+She asked where Aisling had gone.
 
-I told him.
+I told her.
 
-He looked toward the wagons for a long moment.
+She looked toward the grain wagons for a long moment.
 
-**HALVERN:** Did he pursue?
+**HALVERN:** Did she pursue?
 
 **MARTA:** No.
 
-**HALVERN:** Why?
+She said:
 
-**MARTA:** He said:
+> “She knows her work.”
 
-> “She knows where we are.”
-
-Then he began helping us move the wounded.
+Then she turned back to the wounded.
 
 **HALVERN:** You heard nothing further?
 
@@ -435,9 +486,9 @@ She carried the temple officer’s red-gauntlet chain.
 
 **HALVERN:** Did she state where he was?
 
-**MARTA:** She gave the chain to Lady Sophia’s bodyguard.
+**MARTA:** She gave the chain to Dame Koriel.
 
-He asked:
+Dame Koriel asked:
 
 > “Dead?”
 
@@ -445,7 +496,11 @@ Aisling answered:
 
 > “Gone.”
 
-He accepted that.
+Dame Koriel looked at her for a moment.
+
+Then she closed her hand around the chain and said:
+
+> “Good.”
 
 **HALVERN:** No further explanation?
 
@@ -453,25 +508,55 @@ He accepted that.
 
 **HALVERN:** And afterward?
 
-**MARTA:** She returned to the workers.
+**MARTA:** Aisling returned to the workers.
 
 She organized the bucket line. She showed the cooks how to smother the grain fire. She knelt beside a boy whose mother was missing and held his hands until she was found.
 
-When Lady Sophia arrived from the surgeons, she demanded to know why Aisling had left the pavilion.
+Dame Koriel remained beside her for a little while.
 
-Aisling said:
+She leaned on her shield when she thought no one was looking.
 
-> “You were not in it.”
+Aisling noticed.
 
-Lady Sophia began to argue.
+She brought her water and said:
 
-Her bodyguard told her:
+> “Sit.”
 
-> “My lady, not now.”
+Dame Koriel said:
 
-Aisling gave him a cup of water.
+> “Sophia.”
 
-He drank it without asking where she had found it.
+Aisling answered:
+
+> “Is with the surgeons, exactly where we left her.”
+
+Dame Koriel sat.
+
+Only then.
+
+When Lady Sophia finally arrived, she demanded to know why Aisling had left the pavilion and why Dame Koriel had allowed her near the fighting.
+
+Dame Koriel looked at Aisling.
+
+Aisling looked at Dame Koriel.
+
+Neither answered immediately.
+
+Lady Sophia said:
+
+> “I am speaking to both of you.”
+
+Dame Koriel finally said:
+
+> “My lady, the camp was attacked.”
+
+Lady Sophia replied:
+
+> “I had noticed.”
+
+Aisling handed her a cup of water.
+
+Lady Sophia took it without thinking.
 
 Then the three of them began helping with the wounded.
 
@@ -485,37 +570,44 @@ Then the three of them began helping with the wounded.
 
 The witness appears sincere. Her account is supported in whole or in part by:
 
-- Lady Sophia’s bodyguard;
-    
-- thirteen camp workers;
-    
-- four soldiers of the southern reserve;
-    
-- three surviving Dominion prisoners;
-    
-- physical evidence of illusion or spatial misdirection among the laundry lines;
-    
-- extensive blood upon Aisling’s clothing inconsistent with her unwounded condition after the battle.
-    
+* Dame Koriel Targost;
+* thirteen camp workers;
+* four soldiers of the southern reserve;
+* three surviving Dominion prisoners;
+* physical evidence of illusion or spatial misdirection among the laundry lines;
+* extensive blood upon Aisling’s clothing inconsistent with her unwounded condition after the battle.
 
 The observed effects potentially include:
 
 1. **Silencing magic**
-    
 2. **Compulsion or disturbance of bodily control**
-    
 3. **Illusion affecting multiple hostile subjects**
-    
 4. **Unidentified accelerated healing**
-    
 5. **Possible foreknowledge or extraordinary perception**
-    
 
 No clear divine invocation was observed.
 
 No standard wizardly components were identified beyond black thread and spoken words too quiet for witnesses to reproduce.
 
 The distinction between innate faculty, formal sorcery, divine favor, and other supernatural agency remains unresolved.
+
+---
+
+## STATEMENT OF DAME KORIEL TARGOST
+
+Dame Koriel provided only the following clarification:
+
+> “Aisling took responsibility for the workers. I took responsibility for the road.”
+
+When asked whether she had previously witnessed Aisling employ supernatural abilities, Dame Koriel answered:
+
+> “I have served House Amadis for longer than you have worn that badge.”
+
+When advised that this did not answer the question, she replied:
+
+> “Then you have understood me.”
+
+No further statement was obtained.
 
 ---
 
@@ -557,18 +649,15 @@ Twenty-one wounded personnel were recovered from burning or collapsed shelters.
 
 Enemy losses in the southern quarter are estimated at:
 
-- seven dead;
-    
-- four captured;
-    
-- one missing, presumed dead or removed from the battlefield.
-    
+* seven dead;
+* four captured;
+* one missing, presumed dead or removed from the battlefield.
 
 Aisling declined formal examination.
 
 Lady Sophia objected to further questioning of her household and stated that any future inquiry should be addressed to her directly.
 
-Her bodyguard supported this request.
+Dame Koriel Targost supported this request.
 
 The matter remains open in the Truthseekers’ ledger.
 
