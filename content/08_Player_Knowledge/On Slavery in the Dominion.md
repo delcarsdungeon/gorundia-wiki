@@ -114,4 +114,4 @@ I know only one.
 
 — **Petar Velyan**  
 Lecturer in Comparative Law  
-College of Saint Cuthbert, Bard’s Gate
+
